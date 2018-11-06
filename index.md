@@ -3,9 +3,12 @@
 This is a list of Internet resources for Russian learners. I have been collecting these for years
 now on other pages and in my browser bookmarks. It is time this list had a proper home.
 
-## Other Lists
+## Other Russian Resource Lists
 * [Resources for Learning Russian](https://russian.stackexchange.com/questions/833/resources-for-learning-russian)--Standing question at Russian Language Stack Exchange
 * [Russian Resources](https://forum.language-learners.org/viewtopic.php?f=19&t=5376&p=63359#p63359/)--Topic at A Language Learners' Forum
+
+## On Other Pages
+* Vocabulary Lists
 
 ## Websites
 * [Duolingo](https://www.duolingo.com/)--language drills in many languages including Russian
@@ -25,9 +28,6 @@ now on other pages and in my browser bookmarks. It is time this list had a prope
 * [How to use Который Correctly](https://www.readyrussian.org/Handouts/Grammar%2016--%D0%9A%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B9.html)--What который is for, how it fits into the sentence, and how to decline it to suit its role in the sentence
 * [Capitalization (RussianLearn.com)](http://russianlearn.com/grammar/category/capitalization)--Short article on how to properly capitalize in Russian
 * [Склонение числительных](https://numeralonline.ru/)--article (in Russian) about how to decline ordinal and cardinal numbers, fractions plus widget for declining cardinal numbers
-
-## Vocabulary Lists
-* 
 
 ## Phrasebooks
 * [At the Restaurant](http://www.russianforfree.com/phrasebook-restaurant.php)--Phrasebook for ordering in a restaurant

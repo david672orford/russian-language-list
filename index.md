@@ -1,14 +1,16 @@
-# Main Menu
+# Russian Language List
 
 This is a list of Internet resources for Russian learners. I have been collecting these for years
 now on other pages and in my browser bookmarks. It is time this list had a proper home.
 
+## Table of Contents
+* Other Russian Resource Lists
+* Vocabulary Lists
+
+
 ## Other Russian Resource Lists
 * [Resources for Learning Russian](https://russian.stackexchange.com/questions/833/resources-for-learning-russian)--Standing question at Russian Language Stack Exchange
 * [Russian Resources](https://forum.language-learners.org/viewtopic.php?f=19&t=5376&p=63359#p63359/)--Topic at A Language Learners' Forum
-
-## On Other Pages
-* Vocabulary Lists
 
 ## Websites
 * [Duolingo](https://www.duolingo.com/)--language drills in many languages including Russian

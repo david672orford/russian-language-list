@@ -1,4 +1,4 @@
-## Stock Material
+## Stock Material for Lessons
 
 The sites in this list have materials which can be used to produce study
 materials.

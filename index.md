@@ -6,11 +6,11 @@ proper home.
 * [Other Russian Resource Lists](#other-russian-resource-lists)
 * [Online Lessons](#russian-lesson-websites)
 * [Online Dictioary](#online-dictionaries)
-* [Downloadable Dictionaries](#downloadable-dictionaries)
 * [Grammar Articles](#grammar-articles)
 * [Phrasebooks](#phrasebooks)
 * [Vocabulary Lists](for-all/vocabulary-lists.md)
 * [Youtube Channels](for-all/youtube-channels.md)
+* [For Instructors](for-instructors/)
 
 ## Other Russian Resource Lists
 * [Resources for Learning Russian](https://russian.stackexchange.com/questions/833/resources-for-learning-russian)
@@ -35,9 +35,6 @@ proper home.
 	--Enter a word or phrase and see how it has been translated in the context of real documents.
 * [Morphological Dictionary](http://www.morfologija.ru/)
 	--Enter a word in any form, see all the forms. Site is in Russian. No stress marks.
-
-## Downloadable Dictionaries
-* [Serge Sharoff's Frequency List for Russian](http://www.artint.ru/projects/frqlist/frqlist-en.php)
 
 ## Grammar Articles
 * [How to use Который Correctly](https://www.readyrussian.org/Handouts/Grammar%2016--%D0%9A%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B9.html)

@@ -1,4 +1,4 @@
-## Software for Making Lessons
+## Software for Creating Lessons
 
 The programs listed on this page has proved useful for preparing course
 materials. It is all available for free as opensource software. We have favored

@@ -8,10 +8,13 @@ BODY {
 HEADER {
   margin: -12px -12px 12px -12px;
   padding: 12px;
-  background-color: green;
+  background-color: red;
   color: white;
 }
 H1 A {
   text-decoration: inherit;
   color: inherit;
+}
+UL {
+  padding-left: 2em;
 }

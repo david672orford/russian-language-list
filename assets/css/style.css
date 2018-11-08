@@ -1,15 +1,14 @@
----
----
-@import "{{ site.theme }}";
-BODY {
-  margin: 0;
-  padding: 12px;
-}
+HTML, BODY {
+	margin: 0;
+	padding: 0;
+	background-color: white;
+	color: black;
+	}
 MAIN {
-	margin-bottom: 12px;
+	margin: 10pt;
 	}
 HEADER {
-  margin: -12px -12px 12px -12px;
+  margin: 0;
   padding: 12px;
   background-color: #fff0f0;
   color: white;

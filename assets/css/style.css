@@ -12,12 +12,14 @@ MAIN {
 	}
 HEADER {
 	padding: 12px;
-	background-color: #ff2020;
 	color: white;
+	background-color: #ff2020;
 	}
 H1 {
 	font-family: sans-serif;
 	font-size: 150%;
+	color: inherit;
+	background-color: inherit;
 	}
 H2 {
 	font-family: sans-serif;

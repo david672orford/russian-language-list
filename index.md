@@ -1,7 +1,6 @@
-# Russian Language List
-
-This is a list of Internet resources for Russian learners. I have been collecting these for years
-now on other pages and in my browser bookmarks. It is time this list had a proper home.
+This is a list of Internet resources for learning and teaching Russian. I have been collecting
+these for years now on other pages and in my browser bookmarks. It is time this list had a
+proper home.
 
 ## Table of Contents
 * Other Russian Resource Lists

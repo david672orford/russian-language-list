@@ -1,0 +1,17 @@
+---
+---
+@import "{{ site.theme }}";
+BODY {
+  margin: 0;
+  padding: 12px;
+}
+HEADER {
+  margin: -12px -12px 12px -12px;
+  padding: 12px;
+  background-color: green;
+  color: white;
+}
+H1 A {
+  text-decoration: inherit;
+  color: inherit;
+}

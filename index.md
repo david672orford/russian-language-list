@@ -3,15 +3,20 @@ these for years now on other pages and in my browser bookmarks. It is time this 
 proper home.
 
 ## Table of Contents
-* Other Russian Resource Lists
-* Vocabulary Lists
-
+* [Other Russian Resource Lists](#other-russian-resource-lists)
+* [Online Lessons](#russian-lesson-websites)
+* [Online Dictioary](#online-dictionaries)
+* [Downloadable Dictionaries](#downloadable-dictionaries)
+* [Grammar Articles](#grammar-articles)
+* [Phrasebooks](#phrasebooks)
+* [Vocabulary Lists](for-all/vocabulary-lists.md)
+* [Youtube Channels](for-all/youtube-channels.md)
 
 ## Other Russian Resource Lists
 * [Resources for Learning Russian](https://russian.stackexchange.com/questions/833/resources-for-learning-russian)--Standing question at Russian Language Stack Exchange
 * [Russian Resources](https://forum.language-learners.org/viewtopic.php?f=19&t=5376&p=63359#p63359/)--Topic at A Language Learners' Forum
 
-## Websites
+## Online Lessons
 * [Duolingo](https://www.duolingo.com/)--language drills in many languages including Russian
 * [ReadyRussian.org](https://www.readyrussian.org)--materials for a complete introductory course including textbook, exercises, language generators, flashcards
 * [Russificate Blog](https://learnrussianweb.net/)--Blog with exercises, readings with audio, tests, etc. Blog is in Russian.

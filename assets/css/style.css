@@ -8,7 +8,7 @@ BODY {
 	font-size: 12pt;
 	}
 MAIN {
-	margin: 10pt;
+	margin: .8em;
 	}
 HEADER {
 	padding: 12px;
@@ -34,6 +34,7 @@ UL {
 	}
 
 DIV.author_box {
+	margin: 0 0 .3em .3em;
 	width: 15%;
 	max-width: 200px;
 	border: thin solid black;

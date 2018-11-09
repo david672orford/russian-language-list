@@ -1,3 +1,1 @@
-# russian-language-list
-
-This repository contains the source code for the Russian Language List website.
+This repository contains the source code for the [Russian Language List](https://russian-language-list.istead.net) website.

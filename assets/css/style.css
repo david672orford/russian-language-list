@@ -52,3 +52,8 @@ DIV.author_blurb {
 	margin: .4em;
 	}
 
+DIV.google_ads {
+	margin: 10pt;
+	max-width: 600px;
+	}
+

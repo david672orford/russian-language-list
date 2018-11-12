@@ -4,8 +4,8 @@ proper home.
 ## Table of Contents
 * [Other Russian Resource Lists](for-all/other-lists.md)
 * [Online Lessons](for-all/lessons.md)
-* [Online Dictionies](for-all/dictionaries.md)
-* [Grammar Articles](for-all/grammar.md)
+* [Online Dictionaries](for-all/dictionaries.md)
+* [Grammar](for-all/grammar.md)
 * [Phrasebooks](for-all/phrasebooks.md)
 * [Vocabulary Lists](for-all/vocabulary-lists.md)
 * [Youtube Channels](for-all/youtube-channels.md)

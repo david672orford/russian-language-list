@@ -55,7 +55,6 @@ software which works on Linux, Microsoft Windows, and Mac OS X.
 
 ### Stop Motion Animation
 * [qStopMotion](http://www.qstopmotion.org)
-* [Using Linux and a DSLR Camera](http://www.kevinboone.net/stopmotionlinux.html)
 
 ### 3D Modeling and Animation
 * [Art of Illusion](http://www.artofillusion.org/)

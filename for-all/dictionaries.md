@@ -15,7 +15,7 @@
 * [Russian Dictionary Tree](http://russian.dmll.cornell.edu/rdt/)
 	--Russian-English dictionary can be searched by typing in either
 	an English or a Russian word. Provided by the [Cornell University
-	Russian langauge program](http://russian.dmll.cornell.edu/).
+	Russian language program](http://russian.dmll.cornell.edu/).
 * [Russian Military Dictionary](https://babel.hathitrust.org/cgi/pt?id=uc1.b4237381;view=1up;seq=7)
 	--Scanned copy of US War Department dictionary of Russian and English
 	military terms

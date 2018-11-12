@@ -1,10 +1,10 @@
 HTML, BODY, HEADER, MAIN, H1, H2, UL, LI {
 	margin: 0;
 	padding: 0;
-	background-color: white;
-	color: black;
 	}
 BODY {
+	background-color: white;
+	color: black;
 	font-size: 12pt;
 	}
 MAIN {
@@ -55,6 +55,7 @@ DIV.author_blurb {
 
 DIV.google_ads {
 	margin: 2em .5em .5em .5em;
+	width: 80%;
 	max-width: 600px;
 	}
 

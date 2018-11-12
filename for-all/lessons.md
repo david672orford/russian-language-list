@@ -7,3 +7,8 @@
 	--Blog with exercises, readings with audio, tests, etc. Blog is in Russian.
 * [Explore Russian](http://explorerussian.com/)
 	--Short articles and videos about learning Russian on the street
+* [Cornell University Russian Language Program](http://russian.dmll.cornell.edu/)
+	--Look under "On-line course materials".
+* [Russian-Plus](http://russian-plus.com/)
+	--
+

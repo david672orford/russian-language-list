@@ -1,8 +1,16 @@
-## Grammar Articles
+## Reference Grammars
+* [An On-line Interactive Russian Reference Grammar](https://www.alphadictionary.com/rusgrammar/)
+* [Time to Speak Russian--Grammar Notes](http://speak-russian.cie.ru/time_new/eng/grammar/)
+* [1911 Encyclopædia Britannica article Russian Language](1911 Encyclopædia Britannica/Russian Language)
+
+## Articles on Grammar Topics
 * [How to use Который Correctly](https://www.readyrussian.org/Handouts/Grammar%2016--%D0%9A%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B9.html)
-	--What который is for, how it fits into the sentence, and how to decline
-	it to suit its role in the sentence
-* [Capitalization (RussianLearn.com)](http://russianlearn.com/grammar/category/capitalization)
-	--Short article on how to properly capitalize in Russian
-* [Склонение числительных](https://numeralonline.ru/)
-	--article (in Russian) about how to decline ordinal and cardinal numbers, fractions plus widget for declining cardinal numbers
+* [The Relative Pronoun КОТОРЫЙ](https://www.alphadictionary.com/rusgrammar/kotoryj.html)
+* [Свой - The Reflexive Possessive Pronoun](http://explorerussian.com/svoj-reflexive-possessive-pronoun/)
+* [Capitalization](http://russianlearn.com/grammar/category/capitalization)
+* [Склонение числительных](https://numeralonline.ru/) (how to decline ordinal and cardinal numbers, fractions plus widget for declining cardinal numbers)
+* [Decimal Declension](https://russian.stackexchange.com/questions/1559/decimal-declension-ii)
+* [Declension of Russian Last Names](https://blogs.transparent.com/russian/declension-of-russian-last-names/)
+* [шёл - идти](https://ru-etymology.livejournal.com/1046100.html) (Forum discussion in Russian of why the past tense of идти is шёл)
+
+

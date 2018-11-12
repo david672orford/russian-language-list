@@ -22,3 +22,14 @@
 	--Typical dictionary. Scanned but not OCRed.
 * [Essential Russian-English Dictionary](https://www.google.com/url?q=https%3A%2F%2Farchive.org%2Fdetails%2Fessentialrussian00anpiuoft&sa=D&sntz=1&usg=AFQjCNHKpIIoqbL8nDXSAtOBV3QmkTy-AQ)
 	--Has usage examples. Scanned but not OCRed. See notice at Archive.org about copyright status.
+* [Second Russian Book: a Practical Manual of Russian Verbs by Neville Forbes](https://archive.org/details/secondrussianbo00forbgoog/page/n6)
+	--
+* [Russian Grammar by Neville Forbes](https://archive.org/details/russiangrammar00forbgoog/page/n6)
+	--
+* [Russian Conversation-Grammar](https://archive.org/details/russianconversat1922mott/pa)
+	--
+* [College Russian by Ivar Spector](https://babel.hathitrust.org/cgi/pt?id=mdp.39015027651382;view=1up;seq=7)
+	--
+* [A Practical Grammar of the Russian Language by James Heard](https://archive.org/details/apracticalgramm01heargoog/page/n6)
+	--
+

@@ -13,5 +13,10 @@
 * [Declension of Russian Last Names](https://blogs.transparent.com/russian/declension-of-russian-last-names/)
 * [шёл - идти](https://ru-etymology.livejournal.com/1046100.html) (Forum discussion in Russian of why the past tense of идти is шёл)
 * [What are the lesser known Russian cases?](https://russian.stackexchange.com/questions/404/what-are-the-lesser-known-russian-cases)
+* [Rules for Numberal+Adjective+Noun Agreement](https://russian.stackexchange.com/questions/14915/can-anyone-clear-up-some-discrepancies-between-rules-for-numeraladjectivenoun)
+* [Learning Russian Case Endings Through Model Sentences](https://scholarsarchive.byu.edu/etd/1171/)
+* [The Evolution of the Russian Language](https://h2g2.com/edited_entry/A873885)
 
+## Phonetics
+* [Практические упражнения по фонетике русского языка](https://is.muni.cz/do/ped/kat/KRus/fonetika/index.html)
 

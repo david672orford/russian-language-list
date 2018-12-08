@@ -20,6 +20,8 @@
 	and notes. Note that this book uses the pre-1917 orthography, so you
 	will have to convert these stories to modern spelling before using
 	them in class.
+* [Best Russian Short Stories](https://archive.org/details/bestrussianshor00seltgoog/page/n3)
+	--
 
 ### Dictionaries
 * [Dictionary of Spoken Russian (1945)](https://www.google.com/url?q=https%3A%2F%2Fen.wikisource.org%2Fwiki%2FDictionary_of_Spoken_Russian&sa=D&sntz=1&usg=AFQjCNFshEY0K39p2sFEHvPy0KrKi_MDGw)
@@ -40,4 +42,9 @@
 	--
 * [Russian Conversation-Grammar](https://archive.org/details/russianconversat1922mott/pa)
 	--
+* [A Concise Grammar of the Russian Language](https://archive.org/details/aconcisegrammar00magngoog/page/n8)
+	--
+* [A Practical Grammar of the Russian](https://archive.org/details/apracticalgramm01heargoog/page/n6)
+	--
+
 

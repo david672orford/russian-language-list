@@ -116,3 +116,7 @@ note why we do not use them or that you are considering them for use.
 	--Javascript library for displaying a 3D model on a webpage so it can be
 	zoomed and rotated by the viewer.
 
+### Other Software Lists
+* [34 open source tools for creatives](https://opensource.com/article/16/12/yearbook-top-open-source-creative-tools-2016)
+* [Sil Language Technology's Products](http://software.sil.org/products/)
+

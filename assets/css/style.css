@@ -32,6 +32,9 @@ H1 A {
 UL {
 	padding-left: 2em;
 	}
+LI {
+	margin: .2em 0;
+	}
 
 DIV.author_box {
 	margin: 0 0 .3em .3em;

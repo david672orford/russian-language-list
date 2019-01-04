@@ -17,9 +17,14 @@ materials.
 
 ### Drawings
 * [Openclipart](https://openclipart.org/)
-	--Tens of thousands of vector drawings in SVG format. Quality varies from excellent to awful. All are in the public domain.
+	--Tens of thousands of vector drawings in SVG format. Quality varies from
+	excellent to awful. All are in the public domain.
 * [Wpclipart](https://wpclipart.com/)
-	--Tens of thousands of drawings of acceptable to good quality. All in the public domain. Most are in raster format. Intended to be used by children in school projects.
+	--Tens of thousands of drawings of acceptable to good quality. All in the
+	public domain. Most are in raster format. Intended to be used by children
+	in school projects.
+* [Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/)
+	--Images from scanned books at the [Internet Archive](https://archive.org/)
 
 ### Photographs
 * [Librestock](https://librestock.com/)

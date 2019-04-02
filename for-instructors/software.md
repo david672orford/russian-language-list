@@ -1,11 +1,12 @@
 ## Software for Creating Lessons
 
-The programs listed on this page may proved useful for preparing course
+The programs listed on this page may proved useful to you for preparing course
 materials. It is all available for free as opensource software. We have
 favored software which works on Linux, Microsoft Windows, and Mac OS X.
 
-Most of these programs we actually use regularly. In a few cases we
-note why we do not use them or that you are considering them for use.
+Most of these programs we actually use regularly and can recommend.
+In a few cases we describe programs which we found unsuitable or
+which we are still evaluating.
 
 ### Document Preparation
 * [Libreoffice](https://www.libreoffice.org/)

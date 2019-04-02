@@ -44,13 +44,13 @@ which we are still evaluating.
 ### Vector Drawing
 * [Inkscape](https://inkscape.org/)
 	--An excellent vector drawing program which uses SVG as its native format.
-* [Inkscape Manual](http://tavmjong.free.fr/INKSCAPE/MANUAL/html/)
+ * [Inkscape Manual](http://tavmjong.free.fr/INKSCAPE/MANUAL/html/)
 	--Book describing the features of Inkscape. Written by one of the
 	program's authors.
-* [Mastering Inkscape in 2018](http://libregraphicsworld.org/blog/entry/mastering-inkscape-in-2018)
+ * [Mastering Inkscape in 2018](http://libregraphicsworld.org/blog/entry/mastering-inkscape-in-2018)
 	--Blog posting with recommendations of books and video lessons on how
 	to use Inkscape
-* [Isometric Projection in Inkscape](http://ahninniah.blogspot.com/2013/04/isometric-projection-in-inkscape.html)
+ * [Isometric Projection in Inkscape](http://ahninniah.blogspot.com/2013/04/isometric-projection-in-inkscape.html)
 	--Tutorial in drawing pseudo 3D pictures as done in technical drawings
 
 ### Raster Image Editing

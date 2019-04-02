@@ -4,6 +4,7 @@ browser bookmarks. Now I have decided it is time for them to have
 a proper home on the Internet so that others can use them too.
 ## Table of Contents
 * [Other Russian Resource Lists](for-all/other-lists.md)
+* [Forums](for-all/forums.md)
 * [Online Lessons](for-all/lessons.md)
 * [Online Dictionaries](for-all/dictionaries.md)
 * [Grammar](for-all/grammar.md)

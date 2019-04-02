@@ -115,3 +115,7 @@ materials.
 * [Soundimage](http://soundimage.org)
 	--
 
+### Other
+* [Global Digital Library](https://home.digitallibrary.io/)
+	--Open license children's books ready for translation
+

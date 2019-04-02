@@ -1,8 +1,8 @@
 ## Software for Creating Lessons
 
-The programs listed on this page has proved useful for preparing course
-materials. It is all available for free as opensource software. We have favored
-software which works on Linux, Microsoft Windows, and Mac OS X.
+The programs listed on this page may proved useful for preparing course
+materials. It is all available for free as opensource software. We have
+favored software which works on Linux, Microsoft Windows, and Mac OS X.
 
 Most of these programs we actually use regularly. In a few cases we
 note why we do not use them or that you are considering them for use.
@@ -38,7 +38,7 @@ note why we do not use them or that you are considering them for use.
 	--Given a recording of speech and a transcript, find the start and end
 	time of each utterance. See also detailed instructions at
 	[Sil.org](http://software.sil.org/downloads/r/readingappbuilder/Reading-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.pdf).
-	Not yet evaluated.
+	(Not yet evaluated.)
 
 ### Vector Drawing
 * [Inkscape](https://inkscape.org/)
@@ -62,7 +62,7 @@ note why we do not use them or that you are considering them for use.
 	bewildering for the casual user.
 * [Krita](https://krita.org)
 	--Another answer to Photoshop. Has Linux and MS Windows versions, but may
-	not have a MacOS X version. Not yet evaluated.
+	not have a MacOS X version. (Not yet evaluated.)
 * [Imagemagick](https://www.imagemagick.org)
 	--If you need to convert one or two images, you can use one of the raster
 	graphics editors described above. But if you are processing hundreds
@@ -72,10 +72,15 @@ note why we do not use them or that you are considering them for use.
 
 ## Video Editing
 * [Openshot Video Editor](https://www.openshot.org)
-	--One of the easier-to-use opensource video editors. Is a bit flaky,
-	but is getting more reliable.
+	--We used to recommend this editor because it is reasonably easy to use.
+	The 1.x version became a bit unstable once projects reached a certain
+	level of complexity, but there was a version 2.x in progress which was
+	supposed to fix that. But years have gone by and while there are
+	regular releases in the 2.x series, it is unusable, mainly because
+	it cannot play the video without serious stuttering.
 * [Shotcut](https://www.shotcut.org)
-	--Not yet evaluated.
+	--Based on our initial evaluation, this program is much better than
+	Openshot. It is much easier to trim your clips and they play smoothly.
 * [Vidcutter](https://github.com/ozmartian/vidcutter)
 	--Not yet evaluated.
 * [FFmpeg](https://www.ffmpeg.org)

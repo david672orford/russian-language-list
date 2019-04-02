@@ -16,6 +16,7 @@
 * [What are the lesser known Russian cases?](https://russian.stackexchange.com/questions/404/what-are-the-lesser-known-russian-cases)
 * [Rules for Numberal+Adjective+Noun Agreement](https://russian.stackexchange.com/questions/14915/can-anyone-clear-up-some-discrepancies-between-rules-for-numeraladjectivenoun)
 * [Learning Russian Case Endings Through Model Sentences](https://scholarsarchive.byu.edu/etd/1171/)
+* [Partitive Case](http://russian.cornell.edu/grammar/html/le71_78_a.htm)
 
 ## Phonetics
 * [Практические упражнения по фонетике русского языка](https://is.muni.cz/do/ped/kat/KRus/fonetika/index.html)

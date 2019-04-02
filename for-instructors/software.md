@@ -70,22 +70,25 @@ note why we do not use them or that you are considering them for use.
 	command-line program or you can use it as a library from your favorite
 	programming language.
 
-## Video Editing
+## Video 
+* [VLC](https://www.videolan.org)
+	--A good solid all-around video player which will play most any file.
+	Has classic media player controls.
 * [Openshot Video Editor](https://www.openshot.org)
 	--We used to recommend this editor because it is reasonably easy to use.
 	The 1.x version became a bit unstable once projects reached a certain
 	level of complexity, but there was a version 2.x in progress which was
 	supposed to fix that. But years have gone by and while there are
-	regular releases in the 2.x series, it is unusable, mainly because
-	it cannot play the video without serious stuttering.
+	regular releases in the 2.x series, version 2.4.4 is still unusable,
+	mainly because it cannot play the video without serious stuttering.
 * [Shotcut](https://www.shotcut.org)
 	--Based on our initial evaluation, this program is much better than
 	Openshot. It is much easier to trim your clips and they play smoothly.
 * [Vidcutter](https://github.com/ozmartian/vidcutter)
-	--Not yet evaluated.
+	--(Not yet evaluated.)
 * [FFmpeg](https://www.ffmpeg.org)
-	--Very capable program for converting audio and video files from
-	one format to another.
+	--Very capable command-line program for converting audio and video files
+	from one format to another.
 
 ### 2D Animation
 * [Pencil](https://www.pencil2d.org)

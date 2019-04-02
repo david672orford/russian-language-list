@@ -60,15 +60,16 @@ note why we do not use them or that you are considering them for use.
 * [GIMP](https://www.gimp.org/)
 	--The Classic opensource image editor. An answer to Adobe Photoshop. Can be
 	bewildering for the casual user.
-* [Krita](https://krita.org)
-	--Another answer to Photoshop. Has Linux and MS Windows versions, but may
-	not have a MacOS X version. (Not yet evaluated.)
 * [Imagemagick](https://www.imagemagick.org)
 	--If you need to convert one or two images, you can use one of the raster
 	graphics editors described above. But if you are processing hundreds
 	of images, you are better off using Imagemagick. It can be used as a
 	command-line program or you can use it as a library from your favorite
 	programming language.
+* [Krita](https://krita.org)
+	--Another answer to Photoshop. Has Linux and MS Windows versions, but may
+	not have a MacOS X version.
+	(Not yet evaluated.)
 
 ## Video 
 * [VLC](https://www.videolan.org)
@@ -84,15 +85,13 @@ note why we do not use them or that you are considering them for use.
 * [Shotcut](https://www.shotcut.org)
 	--Based on our initial evaluation, this program is much better than
 	Openshot. It is much easier to trim your clips and they play smoothly.
-* [Vidcutter](https://github.com/ozmartian/vidcutter)
-	--(Not yet evaluated.)
 * [FFmpeg](https://www.ffmpeg.org)
 	--Very capable command-line program for converting audio and video files
 	from one format to another.
+* [Vidcutter](https://github.com/ozmartian/vidcutter)
+	--(Not yet evaluated.)
 
 ### 2D Animation
-* [Pencil](https://www.pencil2d.org)
-	--Not yet evaluated.
 * [Synfig Studio](https://www.synfig.org)
 	--2D animation studio. Animation is done by defining keyframes which
 	show where the parts of a drawing should be at particular times. The
@@ -101,6 +100,10 @@ note why we do not use them or that you are considering them for use.
 	exporters for web animations (SVG) have made little progress.
 * [Synfig Tutorial](https://opensource.com/article/16/12/synfig-studio-animation-software-tutorial)
 	--An article which introduces Synfig Studio and shows to to start using it
+* [Pencil](https://www.pencil2d.org)
+	--(Not yet evaluated.)
+* [TupiTube](http://www.tupitube.com/)
+	--(Not yet evaluated.)
 
 ### Stop Motion Animation
 * [qStopMotion](http://www.qstopmotion.org)
@@ -118,11 +121,12 @@ note why we do not use them or that you are considering them for use.
 	Saves in its own inscrutible format, but can export in OBJ and VRML formats.
 * [Sweet Home 3D](http://www.sweethome3d.com)
 	--Easy-to-use program for creating 3D models of rooms with doors, windows, and furniture
-* [Panda 3D](https://www.panda3d.org)
-	--A free game engine programmable in Python. Not evaluated yet.
 * [X3dom](https://www.x3dom.org/)
 	--Javascript library for displaying a 3D model on a webpage so it can be
 	zoomed and rotated by the viewer.
+* [Panda 3D](https://www.panda3d.org)
+	--A free game engine programmable in Python.
+	(Not yet evaluated.)
 
 ### Other Software Lists
 * [34 open source tools for creatives](https://opensource.com/article/16/12/yearbook-top-open-source-creative-tools-2016)

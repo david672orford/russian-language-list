@@ -39,7 +39,7 @@ which we are still evaluating.
 	Given a recording of speech and a transcript, find the start and end
 	time of each utterance. See also detailed instructions at
 	[Sil.org](http://software.sil.org/downloads/r/readingappbuilder/Reading-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.pdf).
-	(Not yet evaluated.) --
+	<br>(Not yet evaluated.)
 
 ## Video Processing
 * [VLC](https://www.videolan.org) --
@@ -59,7 +59,7 @@ which we are still evaluating.
 	Very capable command-line program for converting audio and video files
 	from one format to another.
 * [Vidcutter](https://github.com/ozmartian/vidcutter) --
-	(Not yet evaluated.) --
+	<br>(Not yet evaluated.)
 
 ### Raster Image Editing
 * [Pinta](https://pinta-project.com) --
@@ -78,7 +78,7 @@ which we are still evaluating.
 * [Krita](https://krita.org) --
 	Another answer to Photoshop. Has Linux and MS Windows versions, but may
 	not have a MacOS X version.
-	(Not yet evaluated.) --
+	<br>(Not yet evaluated.)
 
 ### Vector Drawing
 * [Inkscape](https://inkscape.org/) --
@@ -102,9 +102,9 @@ which we are still evaluating.
   * [Synfig Tutorial](https://opensource.com/article/16/12/synfig-studio-animation-software-tutorial) --
       An article which introduces Synfig Studio and shows to to start using it
 * [Pencil](https://www.pencil2d.org) --
-    (Not yet evaluated.) --
+    <br>(Not yet evaluated.)
 * [TupiTube](http://www.tupitube.com/) --
-    (Not yet evaluated.) --
+    <br>(Not yet evaluated.)
 
 ### Stop Motion Animation
 * [qStopMotion](http://www.qstopmotion.org) --
@@ -127,7 +127,7 @@ which we are still evaluating.
 	zoomed and rotated by the viewer.
 * [Panda 3D](https://www.panda3d.org) --
 	A free game engine programmable in Python.
-	(Not yet evaluated.) --
+	<br>(Not yet evaluated.)
 
 ### Other Software Lists
 * [34 open source tools for creatives](https://opensource.com/article/16/12/yearbook-top-open-source-creative-tools-2016)

@@ -19,7 +19,7 @@ which we are still evaluating.
 	easy (for a programmer) to parse and convert into other formats such
 	as HTML.
 * [Odt2html](https://github.com/david672orford/odt2html)
-	--There are a number of ways to convert ODT (ODF wordprocessing) documents to
+	--There are a number of ways to convert ODT (ODF word processing) documents to
 	HTML. For example, Libreoffice can save in HTML format, but the files it
 	produces are intended to produce an exact representation of the printed
 	document, not to produce good web pages which look good on screens

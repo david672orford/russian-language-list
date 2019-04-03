@@ -67,23 +67,23 @@ which we are still evaluating.
 	<br>(Not yet evaluated.)
 
 ### Raster Image Editing
-* [Pinta](https://pinta-project.com) --
-	An easy-to-use image editor. Can be used to draw like MS Paint. Can crop photos
-	and adjust their color. Can load and save in BMP, PNG, JPEG, TIFF, and other
-	formats, but seeminly not GIF.
 * [GIMP](https://www.gimp.org/) --
 	The Classic opensource image editor. An answer to Adobe Photoshop. Can be
 	bewildering for the casual user.
+* [Pinta](https://pinta-project.com) --
+	An easy-to-use image editor. Can be used to draw like MS Paint. Can crop photos
+	and adjust their color. Can load and save in BMP, PNG, JPEG, TIFF, and other
+	formats, but seeminly not GIF. Recommended.
+* [Krita](https://krita.org) --
+	Another answer to Photoshop. Has Linux and MS Windows versions, but may
+	not have a MacOS X version.
+	<br>(Not yet evaluated.)
 * [Imagemagick](https://www.imagemagick.org) --
 	If you need to convert one or two images, you can use one of the raster
 	graphics editors described above. But if you are processing hundreds
 	of images, you are better off using Imagemagick. It can be used as a
 	command-line program or you can use it as a library from your favorite
 	programming language.
-* [Krita](https://krita.org) --
-	Another answer to Photoshop. Has Linux and MS Windows versions, but may
-	not have a MacOS X version.
-	<br>(Not yet evaluated.)
 
 ### Vector Drawing
 * [Inkscape](https://inkscape.org/) --
@@ -130,9 +130,6 @@ which we are still evaluating.
 * [X3dom](https://www.x3dom.org/) --
 	Javascript library for displaying a 3D model on a webpage so it can be
 	zoomed and rotated by the viewer.
-* [Panda 3D](https://www.panda3d.org) --
-	A free game engine programmable in Python.
-	<br>(Not yet evaluated.)
 
 ### Other Software Lists
 * [34 open source tools for creatives](https://opensource.com/article/16/12/yearbook-top-open-source-creative-tools-2016)

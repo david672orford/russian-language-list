@@ -8,7 +8,7 @@ Most of these programs we actually use regularly and can recommend.
 In a few cases we describe programs which we found unsuitable or
 which we are still evaluating.
 
-### Document Preparation
+### Document Preparation and Viewing
 * [Libreoffice](https://www.libreoffice.org/) --
 	A free office suite. A continuation of the Openoffice project. Includes
 	an excellent word processor called Write. Native format is ODF
@@ -26,6 +26,11 @@ which we are still evaluating.
 	of various sizes. In contrast Odt2html puts the production of good clean
 	reflowable HTML first while preserving most formatting. To run this
 	program you must have Python 2 installed on your computer.
+* [Evince](https://wiki.gnome.org/Apps/Evince/)
+	Document viewer for formats including PDF and DjVu.
+	Windows version: (https://www.fosshub.com/Evince.html)
+* [Calibre](https://calibre-ebook.com/) --
+	High quality ebook reader and ebook management system.
 
 ### Audio Processing
 * [Audacity](https://www.audacityteam.org/) --
@@ -41,7 +46,7 @@ which we are still evaluating.
 	[Sil.org](http://software.sil.org/downloads/r/readingappbuilder/Reading-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.pdf).
 	<br>(Not yet evaluated.)
 
-## Video Processing
+## Video Processing and Viewing
 * [VLC](https://www.videolan.org) --
 	A good solid all-around video player which will play most any file.
 	Has classic media player controls.

@@ -54,9 +54,11 @@ which we are still evaluating.
 	We used to recommend this editor because it is reasonably easy to use.
 	The 1.x version became a bit unstable once projects reached a certain
 	level of complexity, but there was a version 2.x in progress which was
-	supposed to fix that. But years have gone by and while there are
+	supposed to fix that. But years have gone by, and while there are
 	regular releases in the 2.x series, version 2.4.4 is still unusable,
 	mainly because it cannot play the video without serious stuttering.
+	If you still want to try it, we recommend Andreas Dewanto's
+	[tutorial](https://nusit.nus.edu.sg/technus/tips_tricks/basic-video-editing-openshot/).
 * [Shotcut](https://www.shotcut.org) --
 	Based on our initial evaluation, this program is much better than
 	Openshot. It is much easier to trim your clips and they play smoothly.
@@ -88,9 +90,12 @@ which we are still evaluating.
 ### Vector Drawing
 * [Inkscape](https://inkscape.org/) --
     An excellent vector drawing program which uses SVG as its native format.
-  * [Inkscape Manual](http://tavmjong.free.fr/INKSCAPE/MANUAL/html/) --
+  * [Inkscape: Guide to a Vector Drawing Program](http://tavmjong.free.fr/INKSCAPE/MANUAL/html/) --
       Book describing the features of Inkscape. Written by one of the
       program's authors.
+  * [Inkscape](https://en.flossmanuals.net/inkscape/_full/)
+      Draft version of a new (as of April 2019) book which explains the
+      basic features of Inkscape.
   * [Mastering Inkscape in 2018](http://libregraphicsworld.org/blog/entry/mastering-inkscape-in-2018) --
       Blog posting with recommendations of books and video lessons on how
       to use Inkscape
@@ -134,4 +139,4 @@ which we are still evaluating.
 ### Other Software Lists
 * [34 open source tools for creatives](https://opensource.com/article/16/12/yearbook-top-open-source-creative-tools-2016)
 * [Sil Language Technology's Products](http://software.sil.org/products/)
-
+* [9 flowchart and diagramming tools for Linux](https://opensource.com/article/18/8/flowchart-diagramming-linux)

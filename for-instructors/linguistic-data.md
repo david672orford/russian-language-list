@@ -22,7 +22,7 @@
 	a control-d character has been added followed by what is appearently
 	intended as an English translation of the word, but these are often
 	unintelligible. For these reasons you would likely do better to use one
-	of the versions described below.
+	of the versions described below.)
 * [Odict.ru](http://odict.ru)
 	--An expanded version of Zaliznyak's dictionary which as of November
 	2018 is being regularly updated. Users can contribute new word entries
@@ -42,6 +42,6 @@
 * [Jurta](http://www.jurta.org/en/node/71)
 	--A program written in Perl which takes the entries in Zalizyak's
 	dictionary and produces the full paradigm of each word. Unfortunately
-	the author has posted all of the files, so the program does not really
+	the author has not posted all of the files, so the program does not really
 	work. The output files are posted though and these may be useful.
 

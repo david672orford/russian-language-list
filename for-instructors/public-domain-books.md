@@ -24,6 +24,11 @@
 	--
 
 ### Dictionaries
+* [New and Complete English-Russian Dictionary (1884)](https://archive.org/details/newcompleteengli00alekuoft/page/n3)
+    --by A. Alexandrow. Includes pronunciation of Russian words. Because it was
+    published before 1917 it uses the old orthography. Scanned but not OCRed.
+* [New English-Russian and Russian-English Dictionary (New Orthography) (1922)](https://archive.org/details/in.ernet.dli.2015.461167)
+    --By M. A. O'Brien. Scanned but not OCRed.
 * [Dictionary of Spoken Russian (1945)](https://www.google.com/url?q=https%3A%2F%2Fen.wikisource.org%2Fwiki%2FDictionary_of_Spoken_Russian&sa=D&sntz=1&usg=AFQjCNFshEY0K39p2sFEHvPy0KrKi_MDGw)
 	--Excellent Russian-English English-Russian dictionary with example
 	sentences for most words. Scanned and OCRed.
@@ -31,6 +36,9 @@
 	--Typical dictionary. Scanned but not OCRed.
 * [Essential Russian-English Dictionary](https://www.google.com/url?q=https%3A%2F%2Farchive.org%2Fdetails%2Fessentialrussian00anpiuoft&sa=D&sntz=1&usg=AFQjCNHKpIIoqbL8nDXSAtOBV3QmkTy-AQ)
 	--Has usage examples. Scanned but not OCRed. See notice at Archive.org about copyright status.
+* Англо-русский словарь Мюллера
+ * http://mueller-dic.chat.ru
+ * http://mueller-dict.sourceforge.net/
 
 ### Grammars
 * [Russian Grammar by Nevill Forbes (1916)](https://books.google.com/books?id=e5oTAAAAQAAJ&printsec=frontcover&hl=ru&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)

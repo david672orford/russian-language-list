@@ -28,9 +28,9 @@
 	2018 is being regularly updated. Users can contribute new word entries
 	using a web interface. Includes documentation of the format adapted
 	forward to Zaliznayak's dictionary:
- * [Значение помет](http://odict.ru/pomety/)
- * [Формат статьи "грамматического словаря"](http://odict.ru/format/)
- * [Структура словаря (проект)](http://odict.ru/structure/)
+  * [Значение помет](http://odict.ru/pomety/)
+  * [Формат статьи "грамматического словаря"](http://odict.ru/format/)
+  * [Структура словаря (проект)](http://odict.ru/structure/)
 * [Morpher-RU](https://github.com/morpher-ru/zaliznyak)
 	--May be an earlier version of Odict.ru
 

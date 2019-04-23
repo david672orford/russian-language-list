@@ -10,29 +10,27 @@
 	It contains the word entries from an early edition of Zaliznyak's
 	morphological dictionary, though some of the unusual characters used
 	in the printed dictionary have been replaced with ASCII substitutes.
-	(It does not include the information needed to interpret these entries.
+	It does not include the information needed to interpret these entries.
 	For that you must refer to printed dictionary or [scans](http://zaliznyak-dict.narod.ru/).)
 	Though this is ostensibly a text file, it is stored in what is now a very
-	inconvenient format: 1) it is an installer which runs under Microsoft
-	Windows to install the text files, 2) The files it creates are encoded in
-	the ALT encoding for MS-DOS which is now little used, 3) the already
-	obscure ALT encoding is altered to provide accented vowels
-	at code points usually used for graphic characters, 4) the files contain
-	typographical errors from the OCR process, and 5) at the end of each line
-	a control-d character has been added followed by what is appearently
+	inconvenient format:
+	* It is an installer which runs under Microsoft Windows to install the text files.
+	* The files it creates are encoded in the ALT encoding for MS-DOS which is now little used.
+	* The already obscure ALT encoding is altered to provide accented vowels
+	at code points usually used for graphic characters
+	* The files contain typographical errors from the OCR process
+	* At the end of each line a control-d character has been added followed by what is appearently
 	intended as an English translation of the word, but these are often
-	unintelligible. For these reasons you would likely do better to use one
-	of the versions described below.)
+	unintelligible.
+	For these reasons you would likely do better to use Odict.
 * [Odict.ru](http://odict.ru)
-	--An expanded version of Zaliznyak's dictionary which as of November
-	2018 is being regularly updated. Users can contribute new word entries
-	using a web interface. Includes documentation of the format adapted
-	forward to Zaliznayak's dictionary:
+	--An expanded version of Zaliznyak's dictionary which (as of April
+	2019) is being regularly updated. Users can contribute new word entries
+	using a web interface. Includes documentation of the format taken from
+	the forward to Zaliznayak's dictionary and adapted:
   * [Значение помет](http://odict.ru/pomety/)
   * [Формат статьи "грамматического словаря"](http://odict.ru/format/)
   * [Структура словаря (проект)](http://odict.ru/structure/)
-* [Morpher-RU](https://github.com/morpher-ru/zaliznyak)
-	--May be an earlier version of Odict.ru
 
 ## Programs for Using Linguistic Data
 * [Pymorphy2](https://github.com/kmike/pymorphy2)

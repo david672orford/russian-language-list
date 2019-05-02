@@ -4,27 +4,35 @@ The sites in this list have materials which can be used to produce study
 materials.
 
 ### Speech Recordings
-* [Project Shtooka](http://shtooka.net/overview.php?lang=rus)
-	--Word recordings in several languages including Russian. Most of the
-	Russian words are available under a liberal license.
-* [Forvo](https://forvo.com/)
-	--Slogan is "All the words in the world pronounced by native speakers".
-	Translations and recordings are distributed under a CC BY-NC-SA 3.0 license.
-* [Tatoeba](https://tatoeba.org/eng/)
-	--Sentence recordings under a CC BY license
-* [Russian Synodal Bible](http://www.blagovestnik.org/bible/blag320.htm)
-	--The entire Bible in high-bitrate MP3 files
+* [Project Shtooka](http://shtooka.net/overview.php?lang=rus)--
+	Word recordings in several languages including Russian. They can
+	be listened to on the site or downloaded as sets. Two of the
+	three Russian word sets are distributable under the CC BY 2.0
+	or 3.0 license (requires attribution). Direct download links:
+  * [rus-balm-voc](http://download.shtooka.net/rus-balm-voc_flac.tar) (5189 words)
+  * [rus-balm-voc-sakhno](http://download.shtooka.net/rus-balm-voc-sakhno_flac.tar) (835 words)
+* [Forvo](https://forvo.com/)--
+	Slogan is "All the words in the world pronounced by native speakers".
+	Translations and recordings are distributed under a CC BY-NC-SA 3.0
+	license.
+* [Tatoeba](https://tatoeba.org/eng/)--
+	Huge collection of examples sentences translated into many languages,
+	some with audio recordings. (As of April 2019 there were 680,000
+	thousand Russian sentences.) Sentence recordings are either in the
+	public domain or under the CC BY 2.0 FR license.
+* [Russian Synodal Bible](http://www.blagovestnik.org/bible/blag320.htm)--
+	The entire Bible in high-bitrate MP3 files
 
 ### Drawings
-* [Openclipart](https://openclipart.org/)
-	--Tens of thousands of vector drawings in SVG format. Quality varies from
+* [Openclipart](https://openclipart.org/)--
+	Tens of thousands of vector drawings in SVG format. Quality varies from
 	excellent to awful. All are in the public domain.
-* [Wpclipart](https://wpclipart.com/)
-	--Tens of thousands of drawings of acceptable to good quality. All in the
+* [Wpclipart](https://wpclipart.com/)--
+	Tens of thousands of drawings of acceptable to good quality. All in the
 	public domain. Most are in raster format. Intended to be used by children
 	in school projects.
-* [Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/)
-	--Images from scanned books at the [Internet Archive](https://archive.org/)
+* [Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/)--
+	Images from scanned books at the [Internet Archive](https://archive.org/)
 
 ### Photographs
 * [Librestock](https://librestock.com/)

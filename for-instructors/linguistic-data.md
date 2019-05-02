@@ -1,12 +1,9 @@
 ## Downloadable Linguistic Data
-* [Modern Russian Frequency List](http://www.artint.ru/projects/frqlist/frqlist-en.php)
-	--Serge Sharoff's word frequency list based on a selection of works
+* [Modern Russian Frequency List](http://www.artint.ru/projects/frqlist/frqlist-en.php)--
+	Serge Sharoff's word frequency list based on a selection of works
 	in modern Russian
-* [Opencorpa](http://opencorpora.org)
-	--A Russian corpus with ambiguity resolved so that the identity of each
-	word and its morphological form is known
-* [Zaliznayak's Morphological Dictionary](http://starling.rinet.ru/download/dicts.EXE)
-	--This file is the basis for many implementations of Russian morphology.
+* [Zaliznayak's Morphological Dictionary](http://starling.rinet.ru/download/dicts.EXE)--
+	This file is the basis for many implementations of Russian morphology.
 	It contains the word entries from an early edition of Zaliznyak's
 	morphological dictionary, though some of the unusual characters used
 	in the printed dictionary have been replaced with ASCII substitutes.
@@ -23,14 +20,23 @@
 	intended as an English translation of the word, but these are often
 	unintelligible.
 	For these reasons you would likely do better to use Odict.
-* [Odict.ru](http://odict.ru)
-	--An expanded version of Zaliznyak's dictionary which (as of April
+* [Odict.ru](http://odict.ru)--
+	An expanded version of Zaliznyak's dictionary which (as of April
 	2019) is being regularly updated. Users can contribute new word entries
 	using a web interface. Includes documentation of the format taken from
 	the forward to Zaliznayak's dictionary and adapted:
   * [Значение помет](http://odict.ru/pomety/)
   * [Формат статьи "грамматического словаря"](http://odict.ru/format/)
   * [Структура словаря (проект)](http://odict.ru/structure/)
+* [Opencorpa](http://opencorpora.org)--
+	A Russian corpus with ambiguity resolved so that the identity of each
+	word and its morphological form is known
+* [OPUS--an Open Source Parellel Corpus](http://opus.nlpl.eu/)--
+	Translated texts sentence aligned. Can be searched on this and other
+	sites. Datasets can be downloaded so that you can use them with your
+	own tools. Texts come from sources including UN documents,
+	government publications, Wikipedia, movie subtitles, and multilingual
+	news sites.
 
 ## Programs for Using Linguistic Data
 * [Pymorphy2](https://github.com/kmike/pymorphy2)

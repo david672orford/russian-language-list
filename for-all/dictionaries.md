@@ -1,27 +1,39 @@
 # Dictionaries and Encyclopedias
 
 ## English-Russian and Russian-English Dictionaries
-* [Wiktionary](https://www.wiktionary.org/)
-	--If you search for Russian words in the English version it will show
+* [Wiktionary](https://www.wiktionary.org/)--
+	If you search for Russian words in the English version it will show
 	you them with English definitions. It will also show grammatical
-	information such as case forms and stress.
-* [Мультитран](https://www.multitran.ru/)
-	--Collaborative Russian-English English-Russian dictionary, particularly useful for translating obscure terms. Knowledge of the target language is required to evaluate the suggestions given.
-* [Reverso Context](http://context.reverso.net/translation/)
-	--Enter a word or phrase and see how it has been translated in the context of real documents.
-* [OpenRussian.org](https://en.openrussian.org/)
-	--Collaborative Russian-English English-Russian dictionary with
-	sentence translations and recordings
-* [Russian Dictionary Tree](http://russian.dmll.cornell.edu/rdt/)
-	--Russian-English dictionary can be searched by typing in either
+	information such as case forms and stress. The dictionary entries
+	are dual licensed CC-BY-SA and GFDL and can be downloaded.
+* [Мультитран](https://www.multitran.ru/)--
+	Collaborative Russian-English English-Russian dictionary, particularly
+	useful for translating obscure terms. Knowledge of the target language is required to evaluate the suggestions given.
+* [Reverso Context](http://context.reverso.net/translation/)--
+	Enter a word or phrase and see how it has been translated in context in government
+	documents, movie subtitles, and other real contexts.
+* [OpenRussian.org](https://en.openrussian.org/)--
+	Collaborative Russian-English English-Russian dictionary with
+	sentence translations and recordings. Data is available for download.
+	Incorporates material from a number of other projects including
+	[Wiktionary](https://www.wiktionary.org/),
+	[Project Shtooka](http://shtooka.net/overview.php?lang=rus),
+	and [Tatoeba](https://tatoeba.org/eng/).
+* [OmegaWiki](http://www.omegawiki.org)--
+	Dictionary with tens of thousands of words and expressions in
+	hundreds of languages. Dictionary is in the public domain and
+	is downloadable.
+* [Russian Dictionary Tree](http://russian.dmll.cornell.edu/rdt/)--
+	Russian-English dictionary which can be searched by typing in either
 	an English or a Russian word. Provided by the [Cornell University
 	Russian language program](http://russian.dmll.cornell.edu/).
-* [Russian Military Dictionary](https://babel.hathitrust.org/cgi/pt?id=uc1.b4237381;view=1up;seq=7)
-	--Scanned copy of US War Department dictionary of Russian and English
+* [Russian Military Dictionary](https://babel.hathitrust.org/cgi/pt?id=uc1.b4237381;view=1up;seq=7)--
+	Scanned copy of US War Department dictionary of Russian and English
 	military terms
-* [Cловари русского языка для скачивания](http://speakrus.ru/dict/)
-	--Large collections of files containing dictionaries in various
-	sometimes obscure formats
+* [Cловари русского языка для скачивания](http://speakrus.ru/dict/)--
+	Large collections of files containing dictionaries in various
+	sometimes obscure formats. The dictionaries are in Russian.
+	Copyright status is unclear.
 
 ## Grammar Dictionaries
 * [RussianGram](http://russiangram.com)

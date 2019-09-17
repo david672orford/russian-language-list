@@ -39,13 +39,15 @@
 	news sites.
 
 ## Programs for Using Linguistic Data
-* [Pymorphy2](https://github.com/kmike/pymorphy2)
-	--Morphological analyzer and inflection engine for the Russian
+* [Pymorphy2](https://github.com/kmike/pymorphy2)--
+	Morphological analyzer and inflection engine for the Russian
 	and Ukrainian languages. Is of good quality, fast, but does not
 	provide information about stressed syllables.
-* [Jurta](http://www.jurta.org/en/node/71)
-	--A program written in Perl which takes the entries in Zalizyak's
+* [Jurta](http://www.jurta.org/en/node/71)--
+	A program written in Perl which takes the entries in Zalizyak's
 	dictionary and produces the full paradigm of each word. Unfortunately
 	the author has not posted all of the files, so the program does not really
 	work. The output files are posted though and these may be useful.
+* [NLTK4RUSSIAN](http://mathling.phil.spbu.ru/node/160)--
+	The Natural Language Toolkit adapted for Russian
 

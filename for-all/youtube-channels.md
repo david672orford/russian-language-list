@@ -41,3 +41,6 @@
 	quality basic production.
 * [Learning to Know Russian](https://www.youtube.com/channel/UCrLKf3zg24C3e1xQFmcA0Wg)
 	--Good lectures on effective learning techniques
+* [Be Fluent in Russian](https://www.youtube.com/channel/UCtMqRKjQcFJoq4TOIdHDiew)
+	--Good videos about word usage, culture, etc.
+

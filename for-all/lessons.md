@@ -10,5 +10,7 @@
 * [Cornell University Russian Language Program](http://russian.dmll.cornell.edu/)
 	--Look under "On-line course materials".
 * [Russian-Plus](http://russian-plus.com/)
-	--
-
+	--Lots of vocabulary, dialogs, videos. Some of the players use Flash and
+	so may not work in modern browsers or on mobile devices.
+* [Slow Russian Podcast](https://realrussianclub.com/slowrussianpodcast/)
+	--Introduces a story and then reads it slowly and explains it as she goes.

@@ -13,4 +13,5 @@ a proper home on the Internet so that others can use them too.
 * [Vocabulary Lists](for-all/vocabulary-lists.md)
 * [Youtube Channels](for-all/youtube-channels.md)
 * [History of the Russian Language](for-all/language-history.md)
+* [News in Russian](for-all/news-in-russian.md)
 * [For Instructors](for-instructors/)

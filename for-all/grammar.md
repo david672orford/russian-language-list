@@ -21,3 +21,5 @@
 ## Phonetics
 * [Практические упражнения по фонетике русского языка](https://is.muni.cz/do/ped/kat/KRus/fonetika/index.html)
 
+## Grammar of Native Speakers
+* [Emergence of Case Meanings in Russian – Empirical Evidence from One Month, from One Child](https://www.degruyter.com/downloadpdf/j/adverba.2009.1.issue-1/v10196-011-0005-2/v10196-011-0005-2.pdf)

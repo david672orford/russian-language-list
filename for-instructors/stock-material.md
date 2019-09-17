@@ -52,7 +52,7 @@ materials.
 * [Stocksnap](https://stocksnap.io/)
 	--High-quality stock photographs released into the public domain. Images
 	of nature, landscapes, people, illustration of themes.
-* [Usplash](https://unsplash.com/)
+* [Unsplash](https://unsplash.com/)
 	--Yet another site with high-quality stock photographs released to the
 	public domain.
 * [Flickr: The Commons](https://www.flickr.com/commons)

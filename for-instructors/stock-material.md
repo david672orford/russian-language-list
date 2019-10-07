@@ -33,6 +33,10 @@ materials.
 	material from Openclipart.
 	Search results from Shutterstock (a comercial suplier of stock art)
 	are displayed along side the search results and this can be confusing at times.
+* [Public Domain Q](https://publicdomainq.net/)
+	Public domain photos, illustrations, and photographs of paintings. Site is in
+	Japanese, but can be navigated without too much trouble using a web browser
+	(such as Google Chrome) which does automatical translation.
 * [Wpclipart](https://wpclipart.com/)--
 	Tens of thousands of drawings of acceptable to good quality. All in the
 	public domain. Most are in raster format. Includes simple drawings

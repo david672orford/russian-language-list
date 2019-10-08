@@ -3,6 +3,10 @@
 The sites in this list have materials which can be used to produce study
 materials.
 
+### Advice on Use of Stock Material
+
+* https://www.quora.com/What-is-the-best-way-to-get-free-pictures-for-my-website/answer/Faye-Gelb
+
 ### Speech Recordings
 * [Project Shtooka](http://shtooka.net/overview.php?lang=rus)--
 	Word recordings in several languages including Russian. They can
@@ -57,18 +61,9 @@ materials.
 	--List of image sources for possible use in Wikipedia articles
 * [Creative Commons Image Search](https://search.creativecommons.org/)
 	--Convenient gateway to search engines which can find free-to-use images
-* [Pixabay](https://pixabay.com/)
-	--Large collection of high-quality photographs and a smaller number
-	drawings and video clips). Tends toward the artistic and the illustration
-	of themes. Some are artistic montages with heavy atmospheric filtering.
-	All materials are in the public domain. Has some nudes. (There is a filter
-	for excluding them.)
 * [Stocksnap](https://stocksnap.io/)
 	--High-quality stock photographs released into the public domain. Images
 	of nature, landscapes, people, illustration of themes.
-* [Unsplash](https://unsplash.com/)
-	--Yet another site with high-quality stock photographs released to the
-	public domain.
 * [Flickr: The Commons](https://www.flickr.com/commons)
 	--Collection of public domain images. Many historical images from museum
 	photograph collections and out-of-copyright books.
@@ -84,6 +79,22 @@ materials.
 	--Photoraphs and drawings provided by the National Cancer Institute.
 	Copyright status indicated for each. They ask to be credited as the source
 	even for the public domain images.
+* [Pixabay](https://pixabay.com/)
+	--Large collection of high-quality photographs and a smaller number
+	drawings and video clips). Tends toward the artistic and the illustration
+	of themes. Some are artistic montages with heavy atmospheric filtering.
+	Has some nudes. (There is a filter for excluding them.)
+	Originally everything on this site was released to the public domain,
+	but starting on January 9, 2019 they began
+	[licensing](https://pixabay.com/service/terms/) them instead.
+* [Unsplash](https://unsplash.com/)
+	--Yet another site with high-quality stock photographs. Originally everything
+	was released to the public domain, but sometime between May 30 and June 8, 2017
+	they started [licensing](https://unsplash.com/terms) them instead. Unsplash
+	[acknowledges](https://medium.com/@UserRoadmap/unsplash-is-no-longer-under-a-cc0-license-do-you-care-13d5656053b7)
+	that the public domain dedication still applies to photos uploaded before that date.
+* [Wordpress List of Recommended Stock Photo Websites](https://make.wordpress.org/themes/handbook/review/resources/#recommended-websites-for-images)
+	--Should check these out and write about them above.
 
 ### Video
 * [Vimeo](https://vimeo.com/creativecommons)

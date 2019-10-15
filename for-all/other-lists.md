@@ -5,6 +5,6 @@
 	--Topic at A Language Learners' Forum
 * [Curlie Directory: Russian](http://curlie.org/Science/Social_Sciences/Linguistics/Languages/Natural/Indo-European/Slavic/Russian/)
 	--Index of Books, Software, Websites, etc. about the Russian language
-* [Open Culture: Free Russian Lessons]
+* [Open Culture: Free Russian Lessons](http://www.openculture.com/free_russian_lessons)
 	--Websites, Youtube channels, and podcasts for learning Russian
 

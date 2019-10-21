@@ -1,4 +1,4 @@
-HTML, BODY, HEADER, MAIN, H1, H2, UL, LI {
+HTML, BODY, HEADER, MAIN, H1, H2, UL, LI, TABLE, TR, TH, TD {
 	margin: 0;
 	padding: 0;
 	}
@@ -61,5 +61,13 @@ DIV.google_ads {
 	margin: 2em .5em .5em .5em;
 	width: 80%;
 	max-width: 600px;
+	}
+
+TABLE {
+	border-collapse: collapse;
+	}
+TH, TD {
+	border: thin solid black;
+	padding: .5em;
 	}
 

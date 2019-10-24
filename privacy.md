@@ -1,5 +1,6 @@
 ## Privacy Notice
 
-* Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website or other websites.
-* Google's use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-* Users may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads)
+### Use of Tracking Cookies
+* This site may display ads from Google. Google may use tracking cookies to personalize the ads shown to you based on your prior visits to this website or other websites.
+* Personalized Google ads on this site are disabled for users from the EU.
+* Other users may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads).

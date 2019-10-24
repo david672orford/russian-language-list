@@ -36,6 +36,14 @@ LI {
 	margin: .4em 0;
 	}
 
+TABLE {
+	border-collapse: collapse;
+	}
+TH, TD {
+	border: thin solid black;
+	padding: .5em;
+	}
+
 DIV.author_box {
 	margin: 0 0 .3em .3em;
 	width: 15%;
@@ -63,11 +71,14 @@ DIV.google_ads {
 	max-width: 600px;
 	}
 
-TABLE {
-	border-collapse: collapse;
-	}
-TH, TD {
-	border: thin solid black;
-	padding: .5em;
+FOOTER {
+	display: flex;
+	justify-content: space-between;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	padding: 12px;
+	font-size: 12pt;
 	}
 

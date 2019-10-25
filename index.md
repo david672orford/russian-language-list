@@ -1,17 +1,15 @@
-This is a list of Internet resources for learning and teaching Russian.
-I have been collecting these for years now on other pages and in my
-browser bookmarks. Now I have decided it is time for them to have
-a proper home on the Internet so that others can use them too.
+This site is a directory of Internet resources for teaching Russian
+and learning it on one's own. 
+
 ## Table of Contents
-* [Other Russian Resource Lists](for-all/other-lists)
-* [Forums](for-all/forums)
-* [Online Lessons](for-all/lessons)
-* [Online Dictionaries](for-all/dictionaries)
-* [Grammar](for-all/grammar)
-* [History of the Russian Language](for-all/history)
-* [Phrasebooks](for-all/phrasebooks)
-* [Vocabulary Lists](for-all/vocabulary-lists)
-* [Youtube Channels](for-all/youtube-channels)
-* [History of the Russian Language](for-all/language-history)
+* [Online Learning Sites](for-all/lessons)
+* [Video Lessons on Youtube](for-all/youtube-channels)
 * [News in Russian](for-all/news-in-russian)
+* [Russian Language Forums](for-all/forums)
+* [Online Dictionaries](for-all/dictionaries)
+* [Grammar References and Lessons](for-all/grammar)
+* [Vocabulary Lists](for-all/vocabulary-lists)
+* [Phrasebooks](for-all/phrasebooks)
+* [History of the Russian Language](for-all/language-history)
 * [For Instructors](for-instructors/)
+* [Other Russian Resource Lists](for-all/other-lists)

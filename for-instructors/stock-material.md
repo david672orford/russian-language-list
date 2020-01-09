@@ -30,8 +30,9 @@ materials.
 ### Drawings
 * [Openclipart](https://openclipart.org/)--
 	Tens of thousands of vector drawings in SVG format. Quality varies from
-	excellent to awful. All are in the public domain. As of September 2019
-	this site has been down for several months.
+	excellent to awful. All are in the public domain. Site was down for
+	much of 2019, but as of January 2020 its is back up, though seemingly
+	without a search function.
 * [Public Domain Vectors](https://publicdomainvectors.org/)
 	60,000 public domain vector images. Includes some of the better
 	material from Openclipart.
@@ -57,13 +58,11 @@ materials.
 	--Search dozens of free stock photo sites in one place
 * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 	--Collection of usable images, sounds, and video
-* [List of sites at Wikipedia](https://commons.m.wikimedia.org/wiki/Commons:Free_media_resources/Photography)
-	--List of image sources for possible use in Wikipedia articles
 * [Creative Commons Image Search](https://search.creativecommons.org/)
 	--Convenient gateway to search engines which can find free-to-use images
 * [Stocksnap](https://stocksnap.io/)
-	--High-quality stock photographs released into the public domain. Images
-	of nature, landscapes, people, illustration of themes.
+	--High-quality stock photographs. Images of nature, landscapes, people,
+	illustration of themes. CC0 license.
 * [Flickr: The Commons](https://www.flickr.com/commons)
 	--Collection of public domain images. Many historical images from museum
 	photograph collections and out-of-copyright books.
@@ -93,7 +92,9 @@ materials.
 	they started [licensing](https://unsplash.com/terms) them instead. Unsplash
 	[acknowledges](https://medium.com/@UserRoadmap/unsplash-is-no-longer-under-a-cc0-license-do-you-care-13d5656053b7)
 	that the public domain dedication still applies to photos uploaded before that date.
-* [Wordpress List of Recommended Stock Photo Websites](https://make.wordpress.org/themes/handbook/review/resources/#recommended-websites-for-images)
+* [List of sites at Wikipedia](https://commons.m.wikimedia.org/wiki/Commons:Free_media_resources/Photography)
+	--List of image sources for possible use in Wikipedia articles
+* [List of sites at Wordpress.org](https://make.wordpress.org/themes/handbook/review/resources/#recommended-websites-for-images)
 	--Should check these out and write about them above.
 
 ### Video
@@ -147,6 +148,11 @@ materials.
 	--Royal free music recordings
 * [Soundimage](http://soundimage.org)
 	--
+* [Youtube Music Library](https://www.youtube.com/audiolibrary/music)
+	--
+* [IncompeTech](http://incompetech.com/)
+	--
+
 
 ### Other
 * [Global Digital Library](https://home.digitallibrary.io/)

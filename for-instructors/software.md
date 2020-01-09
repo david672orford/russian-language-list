@@ -50,6 +50,15 @@ which we are still evaluating.
 * [VLC](https://www.videolan.org) --
 	A good solid all-around video player which will play most any file.
 	Has classic media player controls.
+* [Openshot Video Editor](https://www.openshot.org) --
+	We used to recommend this editor because it is reasonably easy to use.
+	The 1.x version became a bit unstable once projects reached a certain
+	level of complexity, but there was a version 2.x in progress which was
+	supposed to fix that. But years have gone by, and while there are
+	regular releases in the 2.x series, version 2.4.4 is still unusable,
+	mainly because it cannot play the video without serious stuttering.
+	If you still want to try it, we recommend Andreas Dewanto's
+	[tutorial](https://nusit.nus.edu.sg/technus/tips_tricks/basic-video-editing-openshot/).
 * [Shotcut](https://www.shotcut.org) --
 	Based on our initial evaluation, this program is much better than
 	Openshot. It is much easier to trim your clips and they play smoothly.
@@ -131,3 +140,4 @@ which we are still evaluating.
 * [34 open source tools for creatives](https://opensource.com/article/16/12/yearbook-top-open-source-creative-tools-2016)
 * [Sil Language Technology's Products](http://software.sil.org/products/)
 * [9 flowchart and diagramming tools for Linux](https://opensource.com/article/18/8/flowchart-diagramming-linux)
+

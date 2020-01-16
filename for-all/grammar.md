@@ -22,6 +22,7 @@
 * [Emergence of Case Meanings in Russian – Empirical Evidence from One Month, from One Child](https://www.degruyter.com/downloadpdf/j/adverba.2009.1.issue-1/v10196-011-0005-2/v10196-011-0005-2.pdf)
 * [Поведение ударений в русском языке](http://refpin.ru/ref_merqasjgeyfs.html)
 * [Why Russian Aspectual Prefixes aren't Empty](http://emptyprefixes.uit.no/pri_rus.htm)
+* [Русский алфавит](https://wikitranslate.org/wiki/Russian_alphabet/Russian) (Why Russian letter names are not used)
 
 ## Other Lists
 * [Ссылки по русскому языку](http://morpher.ru/Russian/Links.aspx)

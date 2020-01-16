@@ -10,14 +10,32 @@
 
 <header>
   <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+
+  <div class="breadcrumbs">
+  <a href="/">Home</a>
+  {% assign crumbs = page.url | split: '/' %}
+  {% for crumb in crumbs offset: 1 %}
+    {% if forloop.last %}
+      / {{ crumb | replace:'-',' ' | capitalize }}
+    {% else %}
+      / <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' | capitalize }}</a>
+    {% endif %}
+  {% endfor %}
+  </div>
+
+  {% if page.title_img %}
+  <img src="{{ page.title_img }}" alt="{{ page.title_alt }}">
+  {% endif %}
 </header>
 
 <div class="author_box">
   <img src="/assets/images/author.jpg">
-  <div class="author_byline">David Chappell</div>
-  <div class="author_blurb">
-    The author has more than two decades of experience learning and
-	teaching Russian.
+    <div class="author_byline">David Chappell</div>
+    <div class="author_blurb">
+      The author is a computer programmer who has been creating software
+      using Web technologies for 25 years. On this site he shares what he
+  	  learned applying his experience to the creation of teaching aids.
+    </div>
   </div>
 </div>
 
@@ -40,6 +58,7 @@
 </div>
 
 <footer>
+	<span>&copy;2020 David Chappell</span>
 	<span><a href="privacy">Privacy Policy</a></span>
 </footer>
 

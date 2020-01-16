@@ -1,14 +1,17 @@
-## Table of Contents
+## For All
 
-* [Online Learning Sites](for-all/lessons)
-* [Video Lessons on Youtube](for-all/youtube-channels)
-* [News in Russian](for-all/news-in-russian)
-* [Russian Language Forums](for-all/forums)
-* [Online Dictionaries](for-all/dictionaries)
-* [Grammar References and Lessons](for-all/grammar)
-* [Vocabulary Lists](for-all/vocabulary-lists)
-* [Phrasebooks](for-all/phrasebooks)
-* [History of the Russian Language](for-all/language-history)
-* [Russian Fiction](for-all/fiction)
-* [Other Russian Resource Lists](for-all/other-lists)
+On this page we list material which is likely to be of use to students
+and instructors equally.
+
+* [Online Learning Sites](lessons)
+* [Video Lessons on Youtube](youtube-channels)
+* [News in Russian](news-in-russian)
+* [Russian Language Forums](forums)
+* [Online Dictionaries](dictionaries)
+* [Grammar References and Lessons](grammar)
+* [Vocabulary Lists](vocabulary-lists)
+* [Phrasebooks](phrasebooks)
+* [History of the Russian Language](language-history)
+* [Russian Fiction](fiction)
+* [Other Russian Resource Lists](other-lists)
 

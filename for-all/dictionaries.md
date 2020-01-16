@@ -1,6 +1,6 @@
-# Dictionaries and Encyclopedias
+## Dictionaries and Encyclopedias
 
-## English-Russian and Russian-English Dictionaries
+### English-Russian and Russian-English Dictionaries
 * [Wiktionary](https://www.wiktionary.org/) --
 	If you search for Russian words in the English version it will show
 	you them with English definitions. It will also show grammatical
@@ -35,7 +35,7 @@
 	sometimes obscure formats. The dictionaries are in Russian.
 	Copyright status is unclear.
 
-## Grammar Dictionaries
+### Grammar Dictionaries
 * [RussianGram](http://russiangram.com) --
 	Automatically adds stress marks to Russian text (uses oDict.ru data)
 * [Wiktionary](https://www.wiktionary.org/) --
@@ -52,7 +52,7 @@
 * [Grammatical Dictionary of the Russian Language](http://seelrc-iis.trinity.duke.edu/russdict/) --
 	Words declined with recordings of pronounciation
 
-## Russian Dictionaries and Encypclopedias in Russian
+### Russian Dictionaries and Encypclopedias in Russian
 * [Словари и энциклопедии на Академике](https://dic.academic.ru/) --
 	Search a large number of dictionaries. Many of them are specialist
 	dictionaries for a particular field such as astronomy, medicine,
@@ -62,13 +62,13 @@
 * [Энциклопедический Словарь Ф.А.Брокгауза и И.А.Ефрона](http://www.vehi.net/brokgauz/)
 	--
 
-## Articles about Dictionaries
+### Articles about Dictionaries
 * [Рыцарь и хранитель родной речи](http://speakrus.ru/articles/ojegov.htm) --
 	Article about Sergey Ozhegov and his famous dictionary
 * [Словарь раздора](http://delonomer.ru/detective.htm?article=173) --
 	Article about copyright fight over Ozhegov's dictionary
 
-## Dictionary Software
+### Dictionary Software
 * [Wikokit](https://github.com/componavt/wikokit) --
 	Program for parsing Wiktionary and an Android application for viewing it
 * [Kira-D](https://github.com/Kira-D/Zaliznyak-s-grammatical-dictionary) --

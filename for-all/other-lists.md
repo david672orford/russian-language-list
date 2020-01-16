@@ -7,4 +7,3 @@
 	--Index of Books, Software, Websites, etc. about the Russian language
 * [Open Culture: Free Russian Lessons](http://www.openculture.com/free_russian_lessons)
 	--Websites, Youtube channels, and podcasts for learning Russian
-

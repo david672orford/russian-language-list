@@ -2,7 +2,10 @@
 
 ### Culture Guides
 * [What to Expect When You Are invited into a Russian Home](https://amarestaenruso.wordpress.com/2015/05/27/what-to-expect-when-you-are-invited-into-a-russian-home/)
-
+* [Inherently Russian Behaviors](https://blogs.transparent.com/russian/inherently-russian-behaviors/)
+* [An Elegy for Passion](https://advokatdyavola.wordpress.com/2012/05/07/an-elegy-for-passion/)
+* [How Soviet Kitchens Became Hotbeds Of Dissent And Culture](https://www.npr.org/sections/thesalt/2014/05/27/314961287/how-soviet-kitchens-became-hotbeds-of-dissent-and-culture)
+* [Father Frost the Red Nose](http://russia-ic.com/culture_art/traditions/642/)
 
 ### Music
 * [Сайт моя любимая музыка](http://music70-80.narod.ru/)
@@ -25,4 +28,6 @@
 * [RussianFood.com](https://www.russianfood.com) -- Recipes in Russian
 * [Natasha's Kitchen](https://natashaskitchen.com) -- Russian and Ukrainian recipes in English
 
+### Jokes
+* [What are the best Russian jokes? Jokes from Russia, not jokes about Russians.](https://www.quora.com/What-are-the-best-Russian-jokes-Jokes-from-Russia-not-jokes-about-Russians)
 

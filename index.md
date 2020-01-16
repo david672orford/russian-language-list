@@ -11,5 +11,6 @@ and learning it on one's own.
 * [Vocabulary Lists](for-all/vocabulary-lists)
 * [Phrasebooks](for-all/phrasebooks)
 * [History of the Russian Language](for-all/language-history)
+* [Russian Fiction](for-all/fiction)
 * [For Instructors](for-instructors/)
 * [Other Russian Resource Lists](for-all/other-lists)

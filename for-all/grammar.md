@@ -17,9 +17,12 @@
 * [Rules for Numberal+Adjective+Noun Agreement](https://russian.stackexchange.com/questions/14915/can-anyone-clear-up-some-discrepancies-between-rules-for-numeraladjectivenoun)
 * [Learning Russian Case Endings Through Model Sentences](https://scholarsarchive.byu.edu/etd/1171/)
 * [Partitive Case](http://russian.cornell.edu/grammar/html/le71_78_a.htm)
-
-## Phonetics
+* [Правила употребления прописных и строчных букв](http://orthographia.ru/orfografia.php?sid=81)
 * [Практические упражнения по фонетике русского языка](https://is.muni.cz/do/ped/kat/KRus/fonetika/index.html)
-
-## Grammar of Native Speakers
 * [Emergence of Case Meanings in Russian – Empirical Evidence from One Month, from One Child](https://www.degruyter.com/downloadpdf/j/adverba.2009.1.issue-1/v10196-011-0005-2/v10196-011-0005-2.pdf)
+* [Поведение ударений в русском языке](http://refpin.ru/ref_merqasjgeyfs.html)
+* [Why Russian Aspectual Prefixes aren't Empty](http://emptyprefixes.uit.no/pri_rus.htm)
+
+## Other Lists
+* [Ссылки по русскому языку](http://morpher.ru/Russian/Links.aspx)
+

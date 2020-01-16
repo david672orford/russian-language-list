@@ -2,6 +2,9 @@ HTML, BODY, HEADER, MAIN, H1, H2, H3, P, UL, LI, TABLE, TR, TH, TD, FIGURE, FIGC
 	margin: 0;
 	padding: 0;
 	}
+HTML, BODY {
+	height: 100%;
+	}
 BODY {
 	display: flex;
 	flex-direction: column;

@@ -97,7 +97,7 @@ TH, TD {
 
 DIV.author_box {
 	display: flex;
-	flex-direction: column;
+	flex-direction: row;
 	align-items: start;
 	margin: .5em;
 	border: thin solid black;

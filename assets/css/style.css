@@ -12,11 +12,13 @@ BODY {
 	color: black;
 	font-size: 12pt;
 	}
-MAIN {
-	margin: .5em;
+DIV.scroller {
 	flex: 1 1 auto;
 	height: 100px;
 	overflow-y: auto;
+	}
+MAIN {
+	margin: .5em;
 	}
 HEADER, FOOTER {
 	font-family: sans-serif;

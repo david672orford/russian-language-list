@@ -100,12 +100,14 @@ DIV.author_box {
 	display: flex;
 	flex-direction: row;
 	align-items: start;
+	max-width: 600px;
 	margin: .5em;
 	border: thin solid black;
 	}
 DIV.author_box IMG {
 	display: block;
 	width: 17%;
+	max-width: 64px;	
 	}
 DIV.author_byline {
 	font-weight: bold;
@@ -119,7 +121,6 @@ DIV.author_blurb {
 
 DIV.google_ads {
 	clear: both;
-	width: 80%;
 	max-width: 600px;
 	margin: .5em;
 	border: thin solid #808080;

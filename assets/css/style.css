@@ -14,13 +14,14 @@ BODY {
 	}
 MAIN {
 	margin: .5em;
+	flex-grow: 1;
 	}
-H1, DIV.breadcrumbs, FOOTER {
+HEADER, FOOTER {
 	font-family: sans-serif;
 	color: white;
 	background-color: #9b0000;		/* different on different sites */
 	}
-HEADER {
+DIV.img_border {
 	background-color: #808080;
 	}
 HEADER IMG {
@@ -44,6 +45,13 @@ H1 A {
 	text-decoration: inherit;
 	color: inherit;
 	}
+FOOTER {
+	display: flex;
+	justify-content: space-between;
+	padding: .5em;
+	}
+
+/* Content */
 H2, H3 {
 	font-family: sans-serif;
 	}
@@ -55,11 +63,9 @@ H3 {
 	font-size: 100%;
 	margin: .4em 0 .2em 0;
 	}
-
 P {
 	margin-bottom: .5em;
 	}
-
 UL, OL {
 	padding-left: 1.2em;
 	}
@@ -91,11 +97,10 @@ TH, TD {
 
 DIV.author_box {
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
 	align-items: start;
 	margin: .5em;
 	border: thin solid black;
-	order: 99;		/* move to end */
 	}
 DIV.author_box IMG {
 	display: block;
@@ -111,39 +116,12 @@ DIV.author_blurb {
 	font-size: 80%;
 	}
 
-@media (min-width: 600px) {			/* if screen is wide enough, move author back to the right */
-	BODY {
-		display: block;
-		}
-	DIV.author_box {
-		flex-direction: column;
-		float: right;
-		width: 15%;
-		max-width: 200px;
-		}
-	DIV.author_box IMG {
-		width: 100%;
-		}
-	}
-
 DIV.google_ads {
 	clear: both;
 	width: 80%;
 	max-width: 600px;
 	margin: .5em;
 	border: thin solid #808080;
-	order: 99;
-	}
-
-FOOTER {
-	/*position: fixed;
-	left: 0;
-	bottom: 0;
-	right: 0;*/
-	display: flex;
-	justify-content: space-between;
-	padding: .5em;
-	order: 99;
 	}
 
 /* Syntax highlighting */

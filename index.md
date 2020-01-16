@@ -1,3 +1,7 @@
+---
+title_img: assets/images/petersburg-2805505_1280.jpg
+title_alt: A scene in St. Petersburg at night with pedestrians and a streetcar
+---
 This site is a directory of Internet resources for teaching Russian
 and learning it on one's own. 
 

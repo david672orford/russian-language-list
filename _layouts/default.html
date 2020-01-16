@@ -23,14 +23,15 @@
   {% endfor %}
   </div>
 
-  {% if page.title_img %}
-  <div class="img_border">
-    <img src="{{ page.title_img }}" alt="{{ page.title_alt }}">
-  </div>
-  {% endif %}
 </header>
 
 <div class="scroller">
+
+{% if page.title_img %}
+<div class="title_img">
+  <img src="{{ page.title_img }}" alt="{{ page.title_alt }}">
+</div>
+{% endif %}
 
 <main>
 {{ content }}

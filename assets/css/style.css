@@ -35,7 +35,7 @@ H1 {
 	font-size: 150%;
 	padding: .4em;
 	}
-H1 A {
+H1 A, FOOTER A {
 	text-decoration: inherit;
 	color: inherit;
 	}
@@ -74,6 +74,7 @@ P {
 	}
 UL, OL {
 	padding-left: 1.2em;
+	margin-bottom: .5em;
 	}
 LI {
 	margin: 0 0 .4em 0;

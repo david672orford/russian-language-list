@@ -18,7 +18,7 @@ DIV.scroller {
 	overflow-y: auto;
 	}
 MAIN {
-	margin: .5em;
+	margin: .5em .5em 1.0em .5em;
 	}
 HEADER, FOOTER {
 	font-family: sans-serif;

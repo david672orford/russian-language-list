@@ -1,3 +1,7 @@
+---
+title_img: ../assets/images/book-pages-1200x500.jpg
+title_alt: Open books load as tiles with pages up
+---
 ## Public Domain Books
 
 ### Textbooks

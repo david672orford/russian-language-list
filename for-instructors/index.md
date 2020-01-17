@@ -1,3 +1,7 @@
+---
+title_img: ../assets/images/teacher-1200x500.jpg
+title_alt: A person writes. A coffee cup and notebook are at hand.
+---
 ## For Instructors
 
 On these pages we list materials, programs, and instructions which will

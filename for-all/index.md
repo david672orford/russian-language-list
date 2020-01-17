@@ -1,3 +1,7 @@
+---
+title_img: ../assets/images/studying-1200x500.jpg
+title_alt: A man sits at his dinner table reading a book. A stack of papers and a pencil lie nearby.
+---
 ## For All
 
 On this page we list material which is likely to be of use to students

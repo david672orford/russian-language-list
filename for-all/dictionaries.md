@@ -1,3 +1,7 @@
+---
+title_img: ../assets/images/dictionary-1200x500.jpg
+title_alt: A dictionary lies open upon a table
+---
 ## Dictionaries and Encyclopedias
 
 ### English-Russian and Russian-English Dictionaries

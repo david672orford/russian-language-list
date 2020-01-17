@@ -8,4 +8,6 @@ prokudin-gorskii-04842-1200x500.jpg
 	https://www.loc.gov/pictures/collection/prok/item/2018678833/
 book-pages-1200x500.jpg
 	https://pixabay.com/photos/books-pages-story-stories-notes-1245690/
+dictionary-1200x500.jpg
+	https://pixabay.com/photos/book-hardcover-text-pages-1798/
 

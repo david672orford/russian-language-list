@@ -1,5 +1,5 @@
 ---
-title_img: assets/images/petersburg.jpg
+title_img: assets/images/petersburg-1200x500.jpg
 title_alt: A scene in St. Petersburg at night with pedestrians and a trolleybuses
 ---
 This site is a directory of Internet resources for teaching Russian

@@ -1,3 +1,7 @@
+---
+title_img: ../assets/images/prok-04842r.jpg
+title_alt: Two men and a boat. Little log building and lake in background
+---
 ## Stock Material for Lessons
 
 Here is some Russian language materials which you may be able to incorporate
@@ -27,10 +31,6 @@ at our sister site [Tech for Teaching](https://tech-for-teaching.nuhub.net).
 	The entire Bible in high-bitrate MP3 files
 
 ### Russian Photographs
-<figure class="right_edge">
-	<img src="../assets/images/prok-04842r.jpg" alt="Two men and a boat. Little log building and lake in background">
-	<figcaption>From the Prokudin-Gorskii Collection</figcaption>
-</figure>
 * [Prokudin-Gorskii Collection](http://www.loc.gov/pictures/collection/prok/) --
 	Color photographs of the Russian Empire at the start of the 20th century
 * [Тверская губерния 100 лет назад](https://olegfrolov.livejournal.com/124176.html) --

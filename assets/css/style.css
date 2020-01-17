@@ -51,9 +51,9 @@ DIV.title_img {
 DIV.title_img IMG {
 	display: block;
 	margin: 0 auto;
-	padding: .2em;
+	padding: 5px;
 	width: calc(100% - 10px);
-	max-width: 640px;
+	max-width: 50vh;
 	}
 
 /* Content */

@@ -15,7 +15,7 @@ BODY {
 DIV.scroller {
 	flex: 1 1 auto;
 	height: 100px;
-	overflow-y: auto;
+	overflow-y: scroll;
 	}
 MAIN {
 	margin: 1em .5em;

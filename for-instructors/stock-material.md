@@ -1,6 +1,6 @@
 ---
 title_img: ../assets/images/prok-04842r.jpg
-title_alt: Two men and a boat. Little log building and lake in background
+title_alt: Two men and a boat with a little log building and lake in background
 ---
 ## Stock Material for Lessons
 

@@ -29,11 +29,11 @@ And most of them would be G-rated as will be discussed below.</p>
 <section>
 <h3>Lists of Soviet Films</h3>
 <ul>
-<li><a href="films_early_soviet.html">
+<li><a href="early-soviet">
 	Early Soviet Films</a></li>
-<li><a href="films_late_soviet.html">
+<li><a href="late-soviet">
 	Late Soviet Films</a></li>
-<li><a href="films_animated_soviet.html">
+<li><a href="animated-soviet">
 	Animated Soviet Films</a></li>
 </ul>
 </section>
@@ -132,6 +132,6 @@ Other comedies are more like situation comedies or soap operas. These
 sometimes contain coarse elements or portray characters whose self-indulgent
 lifestyle is portrayed as normal.</p>
 <p>We have not attempted to collect comprehensive information about modern
-Russian films, but we do have a <a href="films_post_soviet.html">short list</a>
+Russian films, but we do have a <a href="post-soviet">short list</a>
 with a few examples.</p>
 </section>

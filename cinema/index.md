@@ -70,26 +70,26 @@ Russian films made after that may be very different.</p>
 <p>Films in the Soviet Union were produced by a small number of state-owned
 studios. The largest were:</p>
 <ul>
-<li>Mosfilm--The largest and the oldest film studio in the Russian
+<li>Mosfilm — The largest and the oldest film studio in the Russian
 	federation and in Europe. Produced some of the best-known
 	and best-loved films of the Soviet era.
 	<br>
 	Official <a href="https://www.youtube.com/user/mosfilm">
 		Киноконцерн "Мосфильм"</a> channel on Youtube
 	</li>
-<li>Lenfilm--The second-largest studio of the Soviet era. Produced
+<li>Lenfilm — The second-largest studio of the Soviet era. Produced
 	numerous film adaptions of novels, Shakespeare, and the Sherlock
 	Holmes stories.
 	<br>
 	Official <a href="https://www.youtube.com/user/LenfilmVideo/">
 		LFV</a> channel on Youtube
 	</li>
-<li>Odessa Film Studio--Another Soviet film studio in Odessa, Ukraine.
+<li>Odessa Film Studio — Another Soviet film studio in Odessa, Ukraine.
 	<br>
 	Official <a href="https://www.youtube.com/channel/UCxh_TkSralaVxmsLNYCXeoQ">
 		Odessa Film Studio</a> channel on Youtube
 	</li>
-<li>Soyuzmultfilm--A large Moscow animation studio which produced hundreds
+<li>Soyuzmultfilm — A large Moscow animation studio which produced hundreds
 	of films. Noteworthy examples include <i>Винни-Пух</i> and <i>Ну, погоди!</i>.
 	<br>
 	Official <a href="https://www.youtube.com/channel/UCHS2LM1n3f5cyL-ebgkqyLw">
@@ -101,21 +101,21 @@ studios. The largest were:</p>
 <section>
 <h3>Famous Soviet Actors</h3>
 <ul>
-<li>Lyubov Orlova--
+<li>Lyubov Orlova —
 	The most famous actress of the early Soviet period
 	</li>
-<li>Andrei Mironov--
+<li>Andrei Mironov —
 	A versatile actor of the 1960's and 1970's who played a variety
-	of roles including criminal conspirator and leading man
+	of roles from criminal conspirator to leading man
 	</li>
-<li>Aleksandr Demyanenko--
+<li>Aleksandr Demyanenko —
 	An actor of the 1960's and 1970's best known
 	for playing Shurik, a lovable nerd who has adventures
 	</li>
-<li>Yuri Nikulin, Georgy Vitsin, and Yevgeny Morgunov--
+<li>Yuri Nikulin, Georgy Vitsin, and Yevgeny Morgunov —
 	A comic trio of shady characters who appear in numerous films</li>
-<li>Nataliya Bogunova--
-	Please a teacher in a night school in <i>Великая перемена</i>.
+<li>Nataliya Bogunova —
+	Plays a teacher in a night school in <i>Великая перемена</i>.
 	</li>
 </ul>
 </section>

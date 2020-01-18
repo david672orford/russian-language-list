@@ -8,6 +8,7 @@ and learning it on one's own.
 ## Sections
 * [For All](for-all/)
 * [For Instructors](for-instructors/)
+* [Russian Cinema](cinema/)
 
 ## Featured Resource Lists
 * [Online Dictionaries](for-all/dictionaries)

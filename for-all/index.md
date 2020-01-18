@@ -1,4 +1,6 @@
 ---
+description: Resources for learning Russian
+image: ../assets/images/studying-1200x500.jpg
 title_img: ../assets/images/studying-1200x500.jpg
 title_alt: A man sits at his dinner table reading a book. A stack of papers and a pencil lie nearby.
 ---

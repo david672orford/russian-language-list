@@ -100,6 +100,10 @@ studios. The largest were:</p>
 
 <section>
 <h3>Famous Soviet Actors</h3>
+<figure class="right_edge">
+	<img src="images/Russia-2001-stamp-Lyubov_Orlova.jpg" alt="Stamp with face of attractive smiling woman on a background of actors including herself and strips of film">
+	<figcaption>Lyubov Orlova</figcaption>
+</figure>
 <ul>
 <li>Lyubov Orlova —
 	The most famous actress of the early Soviet period

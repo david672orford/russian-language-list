@@ -68,7 +68,7 @@ Russian films made after that may be very different.</p>
 <section>
 <h3>The Soviet Studios</h3>
 <p>Films in the Soviet Union were produced by a small number of state-owned
-studios. The largest were:
+studios. The largest were:</p>
 <ul>
 <li>Mosfilm--The largest and the oldest film studio in the Russian
 	federation and in Europe. Produced some of the best-known

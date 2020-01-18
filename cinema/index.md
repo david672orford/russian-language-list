@@ -9,17 +9,17 @@ as Americans refer to <i>Star Wars</i> or <i>Casablanca</i>.</p>
 
 <p>Westerners are surprised to learn that Soviet films are good entertainment.
 Partly this is due to Cold War propaganda which portrayed Soviet culture as
-grey and humorless. Partly it is because the Soviet watched in college courses,
+grey and humorless. Partly it is because the Soviet films watched in college courses,
 available in stores, and streamed on Netflix are very old and have been
 selected by film scholars for their importance to the history of the cinema. It
-would be as if Hollywood were represented by Charlie Chaplin's <i>Modern
-Times</i> and Orson Well's <i>Citizen Kane</i> while <i>Singing in the Rain</i>
-and <i>Star Wars</i> were ignored.</p>
+is like learning about Hollywood by watching masterpieces such as Charlie Chaplin's
+<i>Modern Times</i> and Orson Well's <i>Citizen Kane</i> while ignoring
+<i>Singing in the Rain</i> and <i>Star Wars</i>.</p>
 
-<p>Happily for the student of Russian, this situation has improved dramatically.
-Hundreds of high quality, popular Soviet films are now available to watch
-free of charge on Youtube. In most cases this is with the blessing of the
-studios which produced them.</p>
+<p>Happily for the student of Russian, this situation has improved
+dramatically.  Hundreds of high quality, popular Soviet films are now available
+to watch free of charge on Youtube. In most cases this is with the blessing of
+the studios which produced them.</p>
 
 <p>These films are an important resource for learning Russian language
 and culture. Most of them are in color and have have clear soundtracks.

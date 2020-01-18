@@ -67,6 +67,10 @@ Russian films made after that may be very different.</p>
 
 <section>
 <h3>The Soviet Studios</h3>
+<figure>
+  <img src="images/220px-Mosfilm_logo_old.jpg" alt="Statue of young man and woman holding the hammer and sickle aloft. Word Mosfilm is at their feet. Kremlin clock tower is behind them to one side.">
+  <figcaption>Mosfilm logo used during the Soviet period</figcaption>
+</figure>
 <p>Films in the Soviet Union were produced by a small number of state-owned
 studios. The largest were:</p>
 <ul>

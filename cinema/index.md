@@ -66,7 +66,7 @@ Russian films made after that may be very different.</p>
 </section>
 
 <section>
-<h3>Soviet Studios</h3>
+<h3>The Soviet Studios</h3>
 <p>Films in the Soviet Union were produced by a small number of state-owned
 studios. The largest were:
 <ul>

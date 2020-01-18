@@ -80,6 +80,10 @@ studios. The largest were:</p>
 	<img src="images/Russia-2001-stamp-Lyubov_Orlova.jpg" alt="Stamp with face of attractive smiling woman on a background of actors including herself and strips of film">
 	<figcaption>Lyubov Orlova</figcaption>
 </figure>
+<figure class="right_edge">
+	<img src="images/Russia-2001-stamp-Andrei_Mironov.jpg" alt="An attrictive young man's face with a scene from 12 Chairs and strips of film in the background">
+	<figcaption>Andrei Mironov</figcaption>
+</figure>
 <ul>
 <li>Lyubov Orlova —
 	The most famous actress of the early Soviet period

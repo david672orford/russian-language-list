@@ -41,8 +41,8 @@ title_alt: Open books load as tiles with pages up
 * [Essential Russian-English Dictionary](https://www.google.com/url?q=https%3A%2F%2Farchive.org%2Fdetails%2Fessentialrussian00anpiuoft&sa=D&sntz=1&usg=AFQjCNHKpIIoqbL8nDXSAtOBV3QmkTy-AQ)
 	--Has usage examples. Scanned but not OCRed. See notice at Archive.org about copyright status.
 * Англо-русский словарь Мюллера
-** [http://mueller-dic.chat.ru](http://mueller-dic.chat.ru)
-** [http://mueller-dict.sourceforge.net/](http://mueller-dict.sourceforge.net/)
+    * [http://mueller-dic.chat.ru](http://mueller-dic.chat.ru)
+    * [http://mueller-dict.sourceforge.net/](http://mueller-dict.sourceforge.net/)
 
 ### Grammars
 * [Russian Grammar by Nevill Forbes (1916)](https://books.google.com/books?id=e5oTAAAAQAAJ&printsec=frontcover&hl=ru&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)

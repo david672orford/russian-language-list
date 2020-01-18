@@ -37,6 +37,11 @@ improvement and taking pride in honest work.</p>
 	Years ago a scientist transplanted a fish's gills into his dying son
 	and thereby saved him. Now the boy is becoming a man.
 	</li>
+<li><a href="https://www.youtube.com/watch?v=f8_e7T9IplI">
+	Укрощение строптивой (1961)</a>
+	<br>
+	Good film version of William Shakespeare's <i>The Taming of the Shrew</i>.
+	</li>
 <li><a href="https://www.youtube.com/watch?v=7jA15rKF2tk&t=26s">
 	Королева бензоколонки (1962)</a>
 	<br>

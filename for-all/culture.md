@@ -11,11 +11,11 @@
 * [Сайт моя любимая музыка](http://music70-80.narod.ru/)
 * [Русские народные песни, ансамбль русской народной песни](http://russkiepesenki.ru)
 * [The Community Music Project](http://communitymusicproject.org)
-* Site Kakras.ru
- * [Ансамбль «Родные напевы», mp3 музыка, тексты песен](http://kakras.ru/mp3/)
- * [Сборник русских народных песен](http://pesni.kakras.ru/)
- * [Сборник песен из советских времён прошлого века](http://pesni.kakras.ru/lad_3.html)
- * [Сборник детских песен](http://pesni.kakras.ru/lad_4.html)
+* On the site Kakras.ru:
+    * [Ансамбль «Родные напевы», mp3 музыка, тексты песен](http://kakras.ru/mp3/)
+    * [Сборник русских народных песен](http://pesni.kakras.ru/)
+    * [Сборник песен из советских времён прошлого века](http://pesni.kakras.ru/lad_3.html)
+    * [Сборник детских песен](http://pesni.kakras.ru/lad_4.html)
 
 ### Books
 * [Western Crime Fiction Goes East: The Russian Pinkerton Craze 1907-1934](https://books.google.com/books?id=9LgCD-ZRAJkC)

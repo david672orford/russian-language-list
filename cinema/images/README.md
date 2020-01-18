@@ -1,0 +1,8 @@
+Volga-volog.jpg
+	https://commons.wikimedia.org/wiki/File:Volga-volga.jpg
+Russia-2001-stamp-Lyubov_Orlova.jpg
+	https://commons.wikimedia.org/wiki/File:Russia-2001-stamp-Lyubov_Orlova.jpg
+220px-Mosfilm_logo_old.jpg
+	https://en.wikipedia.org/wiki/File:Mosfilm_logo_old.jpg
+Russia-2001-stamp-Andrei_Mironov.jpg
+	https://commons.wikimedia.org/wiki/File:Russia-2001-stamp-Andrei_Mironov.jpg

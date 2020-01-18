@@ -40,7 +40,7 @@ And most of them would be G-rated as will be discussed below.</p>
 
 <section>
 <h3>The Soviet Studios</h3>
-<figure>
+<figure class="right_edge">
   <img src="images/220px-Mosfilm_logo_old.jpg" alt="Statue of young man and woman holding the hammer and sickle aloft. Word Mosfilm is at their feet. Kremlin clock tower is behind them to one side.">
   <figcaption>Mosfilm logo used during the Soviet period</figcaption>
 </figure>

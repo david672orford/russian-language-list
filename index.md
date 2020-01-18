@@ -6,9 +6,9 @@ This site is a directory of Internet resources for teaching Russian
 and learning it on one's own. 
 
 ## Sections
-* [For All](for-all/)
-* [For Instructors](for-instructors/)
-* [Russian Cinema](cinema/)
+* [Resources For All](for-all/)
+* [Resources For Instructors](for-instructors/)
+* [The Russian Cinema](cinema/)
 
 ## Featured Resource Lists
 * [Online Dictionaries](for-all/dictionaries)

@@ -22,6 +22,8 @@ improvement and taking pride in honest work.</p>
 <li><a href="https://www.youtube.com/watch?v=BVtergBNjAU">
 	Полосатый рейс (1961)</a>
 	<br>
+	<i>The Stripe Run</i>
+	<br>
 	A Soviet cargo ship is transporting tigers in cages. The captain's headstrong
 	daughter is along for the voyage. She causes numerous difficulties until the
 	tigers get out of their cages when she saves the day.
@@ -33,6 +35,8 @@ improvement and taking pride in honest work.</p>
 	</li>
 <li><a href="https://www.youtube.com/watch?v=q1c4UEfAEjo">
 	Человек - амфибия (1961)</a>
+	<br>
+	<i>Amphibian Man</i>
 	<br>
 	Years ago a scientist transplanted a fish's gills into his dying son
 	and thereby saved him. Now the boy is becoming a man.
@@ -50,6 +54,8 @@ improvement and taking pride in honest work.</p>
 	</li>
 <li><a href="https://www.youtube.com/watch?v=237m-LGLDbo">
 	Три плюс два (1963)</a>
+	<br>
+	<i>Three Plus Two</i>
 	<br>
 	Innocent comedy about young people falling in love while camping
 	at the seaside.
@@ -87,10 +93,14 @@ improvement and taking pride in honest work.</p>
 	<a href="https://www.youtube.com/watch?v=Z6viGCs6gKQ">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=X0Yk8gMPQ-s">Part 2</a>
 	<br>
+	<i>The Golden Calf</i>
+	<br>
 	FIXME: missing description
 	</li>
 <li><a href="https://www.youtube.com/watch?v=B-iVfLX2tvY">
 	Бриллиантовая рука (1969)</a>
+	<br>
+	<i>Diamond Arm</i>
 	<br>
 	An ordinary Soviet citizen becomes an unwilling participant in a diamond
 	smuggling operation while on a trip abroad. The authorities arrange a sting
@@ -100,14 +110,19 @@ improvement and taking pride in honest work.</p>
 <li><a href="https://www.youtube.com/watch?v=uGekXZJ6QhA">
 	Сокровища пылающих скал (1969)</a>
 	<br>
+	<i>The Treasure of the Smoking Cliffs</i>
+	<br>
 	Boy's adventure story with an expedition to an island and danger from
 	people with machine guns.
 	</li>
 <li>Белое солнце пустыни (1970)
 	<br>
+	FIXME: missing description
 	</li>
 <li><a href="https://www.youtube.com/watch?v=8tJPKSz6Gaw">
 	Джентльмены удачи (1971)</a>
+	<br>
+	<i>Gentlemen of Fortune</i>
 	<br>
 	Thieves steal a fantastic helmet of Alexander the Great unearthed during
 	an archaeological dig. They are caught, but will not say where they have
@@ -121,10 +136,14 @@ improvement and taking pride in honest work.</p>
 	<a href="https://www.youtube.com/watch?v=H6tUUvcbjNc">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=obVcU3NLpks">Part 2</a>
 	<br>
+	<i>12 Chairs</i>
+	<br>
 	FIXME: missing description
 	</li>
 <li><a href="https://www.youtube.com/watch?v=a50qT9bW2Qo">
 	Иван Васильевич меняет профессию (1973)</a>
+	<br>
+	<i>Ivan Vassilevich Changes Occupation</i>
 	<br>
 	This is the third and final Shurik film and one of the most-loved films of
 	the Soviet era. This time Shurik has built a time machine in his Moscow
@@ -139,6 +158,8 @@ improvement and taking pride in honest work.</p>
 	<a href="https://www.youtube.com/watch?v=beS3GuqkVbc">Part 2</a>
 	<a href="https://www.youtube.com/watch?v=RCJZH0dQ42c">Part 3</a>
 	<a href="https://www.youtube.com/watch?v=VJfnhcOSoBU">Part 4</a>
+	<br>
+	<i>The Long Break</i>
 	<br>
 	Young and promising historian Nestor Petrovich Severov is offended when Polina, the
 	girl he loves, beats him to a coveted graduate position. He breaks off his
@@ -159,17 +180,23 @@ improvement and taking pride in honest work.</p>
 	<a href="https://www.youtube.com/watch?v=BEOwNuATG8U">Part 11</a>
 	<a href="https://www.youtube.com/watch?v=agr2z1tAysQ">Part 12</a>
 	<br>
+	<i>Seventeen Moments of Spring</i>
+	<br>
 	Story of a Soviet spy under cover as a German officer during the
 	Second World War
 	</li>
 <li><a href="https://www.youtube.com/watch?v=mQp_kHkLig0">
 	Всадник без головы (1973)</a>
 	<br>
+	<i>The Headless Horseman</i>
+	<br>
 	A Soviet Western based on the novel <i>The Headless Horseman</i> by American author
 	Mayne Reid. FIXME: find out something about the plot
 	</li>
 <li><a href="https://www.youtube.com/watch?v=0B3nK-k0KzQ">
 	Невероятные приключения итальянцев в России (1974)</a>
+	<br>
+	The Extrordinary Adventures of Italians in Russian</i>
 	<br>
 	An elderly woman dying in a hospital in Italy tells of the treasure she hid in
 	Russia. Her granddaughter travels there to retrieve it, but is followed by
@@ -207,6 +234,8 @@ improvement and taking pride in honest work.</p>
 	<a href="https://www.youtube.com/watch?v=cmylNwnR9qQ">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=JPjr65ncLL8">Part 2</a>
 	<br>
+	<i>An Office Romance</i>
+	<br>
 	A timid accountant and his overbearing plain-Jane boss fall in love. It
 	is not a musical, but it is know for the songs heard in the background
 	during some scenes. These include "Моей душе покоя нет" with words by
@@ -216,10 +245,15 @@ improvement and taking pride in honest work.</p>
 	</li>
 <li>Усатый нянь (1977)
 	<br>
+	<i>Mustached Nanny</i>
+	<br>
+	FIXME: missing description
 	</li>
 <li>Москва слезам не верит (1979)
 	<a href="https://www.youtube.com/watch?v=X7GuhjGZ-xs">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=uUVd9j543s8">Part 2</a>
+	<br>
+	<i>Moscow Does not Believe the Tears</i>
 	<br>
 	This film is known in the West because it won the 1981 Oscar for best foreign film.
 	A girl is asked to look after a posh apartment Moscow in the 1950's. She
@@ -231,6 +265,8 @@ improvement and taking pride in honest work.</p>
 <li><a href="https://www.youtube.com/watch?v=tz0KDfZw0IA">
 	Пираты XX века (1979)</a>
 	<br>
+	<i>Pirates of the 20th Century</i>
+	<br>
 	Through trickery pirates seize a Soviet ship which is carrying cocaine for
 	pharmacutical use. More violent than other Soviet adventure movies. 
 	<a href="https://www.imdb.com/title/tt0151987/">IMDB</a>
@@ -239,15 +275,22 @@ improvement and taking pride in honest work.</p>
 <li><a href="https://www.youtube.com/watch?v=CBMEfNBaxLo">
 	Будьте моим мужем (1982)</a>
 	<br>
+	<i>Be My Husband</i>
+	<br>
 	A scatterbrained and hot-tempered divorced woman with a young son tricks a
 	pediatrician on vacation into looking after her son for a few hours. She
 	then tricks him into pretending to be her husband.
 	</li>
 <li>Женатый холостяк (1982)
 	<br>
+	<i>A Married Batchelor</i>
+	<br>
+	FIXME: missing description
 	</li>
 <li><a href="https://www.youtube.com/watch?v=0KmS5gk4ve4">
 	Любовь и голуби (1984)</a>
+	<br>
+	<i>Love and the Doves</i>
 	<br>
 	A married man lives in a village and raises doves. As compensation for an
 	occupational injury he gets a free trip to the seaside. There a fancy
@@ -257,6 +300,8 @@ improvement and taking pride in honest work.</p>
 	</li>
 <li><a href="https://www.youtube.com/watch?v=CApoSFjD5Us&list=PL3RYZO9qYh_wEd-6iA3HlGSaPb7VZzmXn">
 	В поисках капитана Гранта (1986)</a>
+	<br>
+	<i>In Search of Captain Grant</i>
 	<br>
 	A high-quality version of Jules Verne's <i>The Children of
 	Captain Grant</i>. A wealthy benefactor takes the son and daughter of 

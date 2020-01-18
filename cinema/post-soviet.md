@@ -105,7 +105,7 @@ of the Soviet Union.</p>
 <li><a href="https://www.youtube.com/watch?v=sq-PTewRBF4">
 	Полцарства за любовь (2014)</a>
 	<br>
-	<i>Half the Kingdom for Love</i>
+	<i>Half a Kingdom for Love</i>
 	<br>
 	A wealthy Russian's daughter has come home after graduating from
 	university in the UK. Her father's wealth has made her feel that

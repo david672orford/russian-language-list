@@ -25,12 +25,16 @@ limitations to become classics.</p>
 <li><a href="https://www.youtube.com/watch?v=aiU8c1mjJSA">
 	Броннносец «Потёмкин» (1925)</a>
 	<br>
+	<i>Battleship Potemkin</i>
+	<br>
 	Dramatization of the 1905 mutiny on the battleship Potemkin over an attempt to feed
 	the crew wormy meat. Directed by Sergei Eisenstein whose work is of great interest
 	to students of film. 
 	</li>
 <li><a href="https://www.youtube.com/watch?v=AmjJ7YaSpYc">
 	Чапаев (1934)</a>
+	<br>
+	<i>Chapaev</i>
 	<br>
 	This war movie was one of the most popular films of the early Soviet period.
 	It is about a Red Army commander who battles heroicly for the revolutionary cause.
@@ -42,12 +46,16 @@ limitations to become classics.</p>
 	<br>
 	<a href="https://www.youtube.com/watch?v=lHjlL_0lpxo">Colorized in HD</a>
 	<br>
+	<i>Volga, Volga</i>
+	<br>
 	A delegation from a village travels on the Volga river to Moscow to participate in a talent show.
 	Among the group is a female letter carrier (Lyubov Orlova) who has written a catchy song called
 	<i>Volga, Volga</i>.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=iRpO0vhG8f8">
 	Александр Невский (1938)</a>
+	<br>
+	<i>Aleksandr Nevskiy</i>
 	<br>
 	Depicts the defeat of the Teutonic Knights by Prince Alexander in the 13th
 	century when they attempted to invade Novgorod. Also directed by Sergei
@@ -58,18 +66,23 @@ limitations to become classics.</p>
 <li><a href="https://www.youtube.com/watch?v=igq6Is867Rw">
 	Иван Грозный (1944)</a>
 	<br>
+	<i>Ivan the Terrible</i>
+	<br>
 	Another masterpiece by Sergei Eisenstein. Depicts the first part of the reign
 	of Russian king Ivan IV "the Terrible" (or in modern English, "the Formidable").
-	
 	</li>
 <li><a href="https://www.youtube.com/watch?v=kuTP9NZuEDw">
 	Весна (1947)</a>
+	<br>
+	<i>Spring</i>
 	<br>
 	A female scientist (Lyubov Orlova) obsessed with her research in the area of solar energy
 	broadens out when she is asked to participate in a film called Lady Scientist.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=28FMX-ZVYrI">
 	Укротительница тигров (1954)</a>
+	<br>
+	<i>Lady Tiger Tamer</i>
 	<br>
 	A girl from a circus family achieves her dream of becoming a lion tamer.
 	</li>

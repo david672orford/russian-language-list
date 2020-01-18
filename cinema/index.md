@@ -19,11 +19,10 @@ is like learning about Hollywood by watching masterpieces such as Charlie Chapli
 <p>Happily for the student of Russian, this situation has improved
 dramatically.  Hundreds of high quality, popular Soviet films are now available
 to watch free of charge on Youtube. In most cases this is with the blessing of
-the studios which produced them.</p>
-
-<p>These films are an important resource for learning Russian language
-and culture. Most of them are in color and have have clear soundtracks.
-And most of them would be G-rated as will be discussed below.</p>
+the studios which produced them.  These films are an important resource for
+learning Russian language and culture. Most of them are in color and have have
+clear soundtracks.  And most of them would be G-rated as will be discussed
+below.</p>
 </section>
 
 <section>

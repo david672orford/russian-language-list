@@ -27,11 +27,14 @@
 
 <div class="scroller">
 
-{% if page.title_img %}
+{% if page.image %}
 <div class="title_img">
   <div>
     <div>
-      <img src="{{ page.title_img }}" alt="{{ page.title_alt }}">
+      <img src="{{ page.image }}" alt="{{ page.image_alt }}">
+      {% if page.image_credit %}
+      <span>{{ page.image_credit }}</span>
+      {% endif %}
     </div>
   </div>
 </div>

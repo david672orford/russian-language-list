@@ -1,8 +1,7 @@
 ---
 description: Resources to help instructors create Russian language course material
 image: ../assets/images/teacher-1200x500.jpg
-title_img: ../assets/images/teacher-1200x500.jpg
-title_alt: A person writes. A coffee cup and notebook are at hand.
+image_alt: A person writes. A coffee cup and notebook are at hand.
 ---
 ## For Instructors
 

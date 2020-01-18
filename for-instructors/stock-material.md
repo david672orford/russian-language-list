@@ -1,6 +1,8 @@
 ---
-title_img: ../assets/images/prokudin-gorskii-04842-1200x500.jpg
-title_alt: Two men and a boat with a little log building and lake in background
+description: List of stock material for creating Russian language lessons
+image: /assets/images/prokudin-gorskii-04842-1200x500.jpg
+image_alt: Two men and a boat with a little log building and lake in background
+image_credit: Prokudin-Gorskii
 ---
 ## Stock Material for Lessons
 

@@ -45,26 +45,33 @@ FOOTER {
 	padding: .5em;
 	}
 
-DIV.title_img {
+DIV.article_image {
 	background-color: #808080;
 	padding: 5px;
 	}
-DIV.title_img DIV {
+DIV.article_image DIV {
 	width: calc(100% - 10px);
 	max-width: 100vh;
 	margin: 0 auto;
 	}
-DIV.title_img DIV DIV {
+DIV.article_image DIV DIV {
 	position: relative;
 	padding-top: 41.67%;
 	}
-DIV.title_img IMG {
+DIV.article_image DIV DIV IMG {
 	position: absolute;
 	display: block;
 	top: 0;
 	left: 0;
 	width: 100%;
 	height: 100%;
+	}
+DIV.article_image DIV DIV SPAN {		/* caption */
+	position: absolute;
+	display: block;
+	right: .5em;
+	bottom: .5em;
+	color: white;
 	}
 
 /* Content */

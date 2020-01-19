@@ -61,9 +61,9 @@ still active and producing films.
 <li><a href="https://www.youtube.com/watch?v=W8_gidTpHHA">
 	Приключения поросенка Фунтика (1986)</a>
 	<br>
-	A piglet excapes a rapacious woman who is exploiting him in a sideshow. He
-	meets up with some traveling entertainers who help him escape the detectives
-	which she has hired to bring him back.
+	A piglet excapes from the rapacious Madam Belladonna who is exploiting him in
+	a sideshow. He meets up with some traveling entertainers who help him escape
+	the detectives which she has hired to bring him back.
 	</li>
 </ul>
 </section>

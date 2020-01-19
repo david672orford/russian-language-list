@@ -26,6 +26,18 @@ still active and producing films.
 	in a little house on the roof of his apartment building in Stockholm. Based
 	on the stories by Swedish author Astrid Lindgren.
 	</li>
+<li><a href="https://www.youtube.com/watch?v=AyR2UoGSNtw">
+	Умка (1969)</a>
+	<br>
+	A polar bear cub named Umka makes friends with a Chukchi boy. When the humans
+	leave, Umka is lonely and wants to find his friend.	
+	</li>
+<li><a href="https://www.youtube.com/watch?v=-21lgdv7T20">
+	Умка ищет друга (1970)</a>
+	<br>
+	Umka, unknown to his mother, goes to a polar station and manages to get
+	onto a helicopter to to searching for friend the boy.
+	</li>
 <li><a href="https://www.youtube.com/watch?v=EdwSmmXU6JM">
 	Фильм, фильм, фильм (1970)</a>
 	<br>
@@ -61,7 +73,7 @@ still active and producing films.
 <li><a href="https://www.youtube.com/watch?v=W8_gidTpHHA">
 	Приключения поросенка Фунтика (1986)</a>
 	<br>
-	A piglet excapes from the rapacious Madam Belladonna who is exploiting him in
+	A piglet escapes from the rapacious Madam Belladonna who is exploiting him in
 	a sideshow. He meets up with some traveling entertainers who help him escape
 	the detectives which she has hired to bring him back.
 	</li>

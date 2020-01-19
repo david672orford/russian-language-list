@@ -69,9 +69,13 @@ DIV.article_image DIV DIV IMG {
 DIV.article_image DIV DIV SPAN {		/* caption */
 	position: absolute;
 	display: block;
-	right: .5em;
-	bottom: .5em;
+	right: .2em;
+	bottom: .2em;
+	padding: .2em;
+	background-color: #00000040;
 	color: white;
+	font-family: sans-serif;
+	font-size: 70%;
 	}
 
 /* Content */

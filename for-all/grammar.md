@@ -13,7 +13,7 @@ resources which we have found useful.
 * [1911 Encyclopædia Britannica article Russian Language](1911 Encyclopædia Britannica/Russian Language)
 * [A Basic Modern Russian Grammar](https://archive.org/details/EugeniaNekrasovaABasicModernRussianGrammar)
 
-### Articles on Grammar Topics
+### Articles on Russian Grammar Topics
 * [How to use Который Correctly](https://www.readyrussian.org/Handouts/Grammar%2016--%D0%9A%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B9.html)
 * [The Relative Pronoun КОТОРЫЙ](https://www.alphadictionary.com/rusgrammar/kotoryj.html)
 * [Свой - The Reflexive Possessive Pronoun](http://explorerussian.com/svoj-reflexive-possessive-pronoun/)
@@ -32,6 +32,13 @@ resources which we have found useful.
 * [Поведение ударений в русском языке](http://refpin.ru/ref_merqasjgeyfs.html)
 * [Why Russian Aspectual Prefixes aren't Empty](http://emptyprefixes.uit.no/pri_rus.htm)
 * [Русский алфавит](https://wikitranslate.org/wiki/Russian_alphabet/Russian) (Why Russian letter names are not used)
+
+## Articles English Grammar Topics
+These articles are helpful in understanding some of the differences between English and Russian.
+
+* [Where, Whither, Whence and Other Adverbs](https://jansenprice.com/blog/?id=10-Where-Whither-Whence-and-Other-Adverbs) (Helpful in understanding куда, сюда, etc.)
+* [English Celticisms – the “Dummy Do” and “Obsessive Progressive”](http://englishcowpath.blogspot.com/2013/03/english-celticisms-dummy-do-and.html)
+
 
 ### Other Grammar Resource Lists
 * [Ссылки по русскому языку](http://morpher.ru/Russian/Links.aspx)

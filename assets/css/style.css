@@ -147,7 +147,7 @@ DIV.author_blurb {
 	font-size: 80%;
 	}
 
-DIV.google_ads {
+DIV.google_ads_container {
 	clear: both;
 	max-width: 600px;
 	margin: .5em;

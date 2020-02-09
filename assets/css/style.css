@@ -154,6 +154,7 @@ DIV.google_ads {
 	border: thin solid #808080;
 	}
 .google_ads_responsive {
+	width: 600px;
 	height: 100px;
 	}
 

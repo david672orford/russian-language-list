@@ -153,7 +153,7 @@ DIV.google_ads {
 	margin: .5em;
 	border: thin solid #808080;
 	}
-.google_ad_responsive {
+.adsbygoogle {
 	display: block;
 	height: 25%;
 	}

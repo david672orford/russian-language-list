@@ -15,7 +15,7 @@ BODY {
 DIV.scroller {
 	flex: 1 1 auto;
 	height: 100px;
-	overflow-y: scroll;
+	overflow-y: auto;
 	}
 MAIN {
 	margin: 1em .5em;
@@ -150,6 +150,7 @@ DIV.author_blurb {
 DIV.google_ads {
 	clear: both;
 	max-width: 600px;
+	height: 100px;
 	margin: .5em;
 	border: thin solid #808080;
 	}

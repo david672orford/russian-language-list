@@ -31,3 +31,5 @@
 ### Jokes
 * [What are the best Russian jokes? Jokes from Russia, not jokes about Russians.](https://www.quora.com/What-are-the-best-Russian-jokes-Jokes-from-Russia-not-jokes-about-Russians)
 
+### Cultural Vignettes
+* [Продавщицы взашей вытолкали вооруженного грабителя из магазина](https://www.youtube.com/watch?v=mK3tkr7QeGU)

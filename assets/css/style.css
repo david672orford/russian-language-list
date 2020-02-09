@@ -149,13 +149,13 @@ DIV.author_blurb {
 
 DIV.google_ads {
 	clear: both;
-	max-width: 600px;
 	margin: .5em;
 	border: thin solid #808080;
 	}
-.google_ads_responsive {
-	width: 600px;
-	height: 100px;
+.adsbygoogle {
+	display: block;
+	max-width: 600px;
+	height: 25%;
 	}
 
 /* Syntax highlighting */

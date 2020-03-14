@@ -44,3 +44,8 @@
 * [Be Fluent in Russian](https://www.youtube.com/channel/UCtMqRKjQcFJoq4TOIdHDiew) --
 	Good videos about word usage, culture, etc.
 
+## Individual Videos
+* [Interpreter Breaks Down How Real-Time Translation Works](https://www.youtube.com/watch?v=twCpijr_GeQ) --
+	Demonstration of how interpreters work at diplomatic meetings.
+	Covers consecutive and simultaneous interpretation.
+

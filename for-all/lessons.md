@@ -1,4 +1,4 @@
-## Online Lessons
+## Online Learning Sites
 * [Duolingo](https://www.duolingo.com/)
 	--language drills in many languages including Russian
 * [ReadyRussian.org](https://www.readyrussian.org)

@@ -278,6 +278,21 @@ improvement and taking pride in honest work.</p>
 	<a href="https://www.imdb.com/title/tt0151987/">IMDB</a>
 	<a href="https://en.wikipedia.org/wiki/Pirates_of_the_20th_Century">Wikipedia</a>
 	</li>
+<li>Шерлок Холмс и доктор Ватсон (1979)
+	<a href="https://www.youtube.com/watch?v=yhujgY6m0RQ">Part 1</a>
+	<a href="https://www.youtube.com/watch?v=WXwTPIhEs08">Part 2</a>
+	<br>
+	<i>Sherlock Holmes and Doctor Watson</i>
+	<br>
+	FIXME: missing description
+	</li>
+<li><a href="https://www.youtube.com/watch?v=iS5kA3oE3Gk">
+	Собака Баскервилей (1981)</a>
+	<br>
+	<i>The Hound of the Baskerville's</i>
+	<br>
+	FIXME: missing description
+	</li>
 <li><a href="https://www.youtube.com/watch?v=CBMEfNBaxLo">
 	Будьте моим мужем (1982)</a>
 	<br>
@@ -293,6 +308,14 @@ improvement and taking pride in honest work.</p>
 	<br>
 	FIXME: missing description
 	</li>
+<li>Сокровища Агры (1983)
+	<a href="https://www.youtube.com/watch?v=j-bNBlZVRXg">Part 1</a>
+	<a href="https://www.youtube.com/watch?v=RUni-s4scwU">Part 2</a>
+	<br>
+	<i>The Treasure of the Agra</i>
+	<br>
+	FIXME: missing description
+	</li>
 <li><a href="https://www.youtube.com/watch?v=0KmS5gk4ve4">
 	Любовь и голуби (1984)</a>
 	<br>
@@ -305,7 +328,7 @@ improvement and taking pride in honest work.</p>
 	but his son is not willing to forgive.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=CApoSFjD5Us&list=PL3RYZO9qYh_wEd-6iA3HlGSaPb7VZzmXn">
-	В поисках капитана Гранта (1986)</a>
+	В поисках капитана Гранта (1986)</a> (7 Parts)
 	<br>
 	<i>In Search of Captain Grant</i>
 	<br>
@@ -314,6 +337,14 @@ improvement and taking pride in honest work.</p>
 	this missing captain Grant to look for him. They visit South American
 	and Australia having numerous adventures. Made for TV in seven one-hour
 	episodes.
+	</li>
+<li>Двадцатый век начинается (1986)
+	<a href="https://www.youtube.com/watch?v=Yi1UBKg06TY">Part 1</a>
+	<a href="https://www.youtube.com/watch?v=9D053d3PFiQ">Part 2</a>
+	<br>
+	<i>The Twentieth Century Begins</i>
+	<br>
+	FIXME: missing description
 	</li>
 <li><a href="https://www.youtube.com/watch?v=4JZzsIncaVo">
 	Человек с бульвара Капуцинов (1987)</a>

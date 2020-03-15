@@ -36,6 +36,9 @@ improvement and taking pride in honest work.</p>
 	</li>
 <li><a href="https://www.youtube.com/watch?v=0HY8-_kYfJc">
 	За двумя зайцами (1961)</a>
+	<br>
+	<i>Chasing Two Hares</i>
+	<br>
 	A young fop in 19th century Kiev is bankrupt. He decides to mend his
 	fortunes by an advantageous marriage. Things do not go smoothly.
 	</li>
@@ -54,6 +57,8 @@ improvement and taking pride in honest work.</p>
 	</li>
 <li><a href="https://www.youtube.com/watch?v=7jA15rKF2tk&t=26s">
 	Королева бензоколонки (1962)</a>
+	<br>
+	<i>Queen of the Gas Pumps</i>
 	<br>
 	A vivacious girl with dreams of becoming a TV announcer or joining a skating
 	troupe makes the best of a job pumping gas.
@@ -253,7 +258,9 @@ improvement and taking pride in honest work.</p>
 	<br>
 	<i>Mustached Nanny</i>
 	<br>
-	FIXME: missing description
+	A young man has dropped out of college and has failed to hold down a steady job.
+	The local Housing Committee is tired of his mooching ways and wants something done.
+	A woman who runs a child care center offers to try him on the night shift.
 	</li>
 <li>Москва слезам не верит (1979)
 	<a href="https://www.youtube.com/watch?v=X7GuhjGZ-xs">Part 1</a>
@@ -284,14 +291,18 @@ improvement and taking pride in honest work.</p>
 	<br>
 	<i>Sherlock Holmes and Doctor Watson</i>
 	<br>
-	FIXME: missing description
+	Doctor Watson notes the strange behavior and strange visitors of his new
+	roommate, one Sherlock Holmes. He suspects that Holmes is is connected
+	with the criminal world.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=iS5kA3oE3Gk">
 	Собака Баскервилей (1981)</a>
 	<br>
-	<i>The Hound of the Baskerville's</i>
+	<i>The Hound of the Baskervilles</i>
 	<br>
-	FIXME: missing description
+	Sherlock Homes is asked to help Sir Henry Baskerville whose estate is being
+	terrorized by a giant hound which calls to mind a figure from a local myth.
+	Holmes sends Doctor Watson to investigate.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=CBMEfNBaxLo">
 	Будьте моим мужем (1982)</a>
@@ -306,15 +317,20 @@ improvement and taking pride in honest work.</p>
 	<br>
 	<i>A Married Batchelor</i>
 	<br>
-	FIXME: missing description
+	Tamara, a young woman with a child has been repeatedly abandoned and
+	divorced by his husband whom her parents have never met. Now she is going
+	home to visit them. A nice young man on a train to whom she tells her story
+	decides on his own to go to her parents house and pretend to be her
+	husband to help her save face. Her parents are thrilled to meet him.
+	Only Tamara has a problem with the situation.
 	</li>
 <li>Сокровища Агры (1983)
 	<a href="https://www.youtube.com/watch?v=j-bNBlZVRXg">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=RUni-s4scwU">Part 2</a>
 	<br>
-	<i>The Treasure of the Agra</i>
+	<i>The Treasures of Agra</i>
 	<br>
-	FIXME: missing description
+	Based on the Sherlock Holmes stories <i>The Sign of the Four</i> and <i>A Scandal in Bohemia</i>.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=0KmS5gk4ve4">
 	Любовь и голуби (1984)</a>
@@ -344,7 +360,9 @@ improvement and taking pride in honest work.</p>
 	<br>
 	<i>The Twentieth Century Begins</i>
 	<br>
-	FIXME: missing description
+	Based on four Sherlock Holmes stories: <i>The Adventure of the Engineer's Thumb</i>,
+	<i>The Adventure of the Second Stain</i>, <i>The Adventure of the Bruce-Partington Plans</i>
+	<i>His Last Bow</i>.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=4JZzsIncaVo">
 	Человек с бульвара Капуцинов (1987)</a>

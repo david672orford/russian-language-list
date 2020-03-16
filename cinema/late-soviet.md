@@ -9,11 +9,12 @@ image_credit: geralt (Pixabay)
 <section>
 <p>After Stalin died in 1953 and Kruschef condemned him in 1955 the rules of
 Socialist Realism were relaxed. The primary purpose of the Soviet cinema became
-to entertain and to bring in money for the State. Comedies predominated. They
-contained few references to politics. They are full of sly references to the
-problems of the Soviet Union. Any propaganda in these late Soviet films is of a
-generic 'mental hygiene' kind. At most they encourage becoming a better person
-improvement and taking pride in honest work.</p>
+to entertain and to bring in money for the State. Comedies predominated.</p>
+<p>These comedies contained few references to politics and they often make sly
+references to the problems of the Soviet Union. Any propaganda in these late
+Soviet films is of a generic 'mental hygiene' kind. At most they encourage
+becoming a better person by accepting responsibility and taking pride in honest
+work.</p>
 </section>
 
 <section>
@@ -24,6 +25,13 @@ improvement and taking pride in honest work.</p>
 	<br>
 	An ordinary boy from Ukraine goes to perform his military service. Similar
 	in tone to Andy Hardy or Gomer Pyle.
+	</li>
+<li><a href="https://www.youtube.com/watch?v=3jg21SZJ8g8">
+	Карнавальная ночь (1956)</a>
+	<br>
+	<i>Carnival Night</i>
+	<br>
+	FIXME: no description
 	</li>
 <li><a href="https://www.youtube.com/watch?v=BVtergBNjAU">
 	Полосатый рейс (1961)</a>
@@ -116,7 +124,7 @@ improvement and taking pride in honest work.</p>
 	Yarinka catches the eye of Gratsian and he begins making threats in
 	an effort to force her to agree to marry him instead.
 	</li>
-<li>Золотой теленок (1968)
+<li><b>Золотой теленок (1968)</b>
 	<a href="https://www.youtube.com/watch?v=Z6viGCs6gKQ">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=X0Yk8gMPQ-s">Part 2</a>
 	<br>
@@ -179,7 +187,7 @@ improvement and taking pride in honest work.</p>
 	an escape for him and 'his' gang. He has to lead the gang until they retrieve
 	the helmet.
 	</li>
-<li>Двенадцать стульев (1971)
+<li><b>Двенадцать стульев (1971)</b>
 	<a href="https://www.youtube.com/watch?v=H6tUUvcbjNc">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=obVcU3NLpks">Part 2</a>
 	<br>
@@ -207,7 +215,7 @@ improvement and taking pride in honest work.</p>
 	disappearing walls are left stuck in his palace in the past. Comical
 	adventures ensue.
 	</li>
-<li>Большая перемена (1973)
+<li><b>Большая перемена (1973)</b>
 	<a href="https://www.youtube.com/watch?v=I8jxR2asjRQ">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=beS3GuqkVbc">Part 2</a>
 	<a href="https://www.youtube.com/watch?v=RCJZH0dQ42c">Part 3</a>
@@ -220,7 +228,7 @@ improvement and taking pride in honest work.</p>
 	relationship with her and goes into self-imposed "exile" as the teacher of a night
 	school. Made for TV in four one-hour episodes.
 	</li>
-<li>Семнадцать мгновений весны (1973)
+<li><b>Семнадцать мгновений весны (1973)</b>
 	<a href="https://www.youtube.com/watch?v=WTiR1E60fXk">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=jAVBvVc7IEg">Part 2</a>
 	<a href="https://www.youtube.com/watch?v=36EDp8UThlM">Part 3</a>
@@ -251,14 +259,14 @@ improvement and taking pride in honest work.</p>
 <li><a href="https://www.youtube.com/watch?v=0B3nK-k0KzQ">
 	Невероятные приключения итальянцев в России (1974)</a>
 	<br>
-	The Extrordinary Adventures of Italians in Russian</i>
+	<i>The Extrordinary Adventures of Italians in Russian</i>
 	<br>
 	An elderly woman dying in a hospital in Italy tells of the treasure she hid in
 	Russia. Her granddaughter travels there to retrieve it, but is followed by
 	two petty crooks and a mafia boss who want to get to it first. Crazy
 	stunts and adventures follow.
 	</li>
-<li>Ирония судьбы, или С легким паром! (1975)
+<li><b>Ирония судьбы, или С легким паром! (1975)</b>
 	<a href="https://www.youtube.com/watch?v=lVpmZnRIMKs">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=5TmGPeowN-0">Part 2</a>
 	<br>
@@ -285,7 +293,7 @@ improvement and taking pride in honest work.</p>
 	Won the Academy Award for Best Foreign Language Film and other awards.
 	<a href="https://en.wikipedia.org/wiki/Dersu_Uzala_(1975_film)">Wikipedia</a>
 	</li>
-<li>Служебный роман (1977)
+<li><b>Служебный роман (1977)</b>
 	<a href="https://www.youtube.com/watch?v=cmylNwnR9qQ">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=JPjr65ncLL8">Part 2</a>
 	<br>
@@ -298,7 +306,7 @@ improvement and taking pride in honest work.</p>
 	music by Andrei Petrov. This film also contains many sly references to the
 	dysfunctions of the Soviet Union.
 	</li>
-<li>Усатый нянь (1977)
+<li><b>Усатый нянь (1977)</b>
 	<br>
 	<i>Mustached Nanny</i>
 	<br>
@@ -306,18 +314,20 @@ improvement and taking pride in honest work.</p>
 	The local Housing Committee is tired of his mooching ways and wants something done.
 	A woman who runs a child care center offers to try him on the night shift.
 	</li>
-<li>Москва слезам не верит (1979)
+<li><b>Москва слезам не верит (1979)</b>
 	<a href="https://www.youtube.com/watch?v=X7GuhjGZ-xs">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=uUVd9j543s8">Part 2</a>
 	<br>
 	<i>Moscow Does not Believe the Tears</i>
 	<br>
-	This film is known in the West because it won the 1981 Oscar for best foreign film.
-	A girl is asked to look after a posh apartment Moscow in the 1950's. She
-	invites her girlfriend to stay with her invites and several young men
-	hoping to snag an upper-class husband. The girlfriend gets pregnant by one
-	of the young men and has a hard life raising the child alone. Has two or
-	three instances of implied sexual immorality involving the main character.
+	This film is known in the West because it won the 1981 Oscar for best
+	foreign film. A girl is asked to look after a posh apartment Moscow in
+	the 1950's. She invites her girlfriend to stay with her invites and several
+	young men hoping to snag an upper-class husband. The girlfriend (who
+	becomes the main character) gets pregnant by one of the young men and has a
+	hard life raising the child alone. Has two or three instances of implied
+	extramarital sex involving the main character including a brief affair
+	with a married man.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=tz0KDfZw0IA">
 	Пираты XX века (1979)</a>
@@ -329,7 +339,7 @@ improvement and taking pride in honest work.</p>
 	<a href="https://www.imdb.com/title/tt0151987/">IMDB</a>
 	<a href="https://en.wikipedia.org/wiki/Pirates_of_the_20th_Century">Wikipedia</a>
 	</li>
-<li>Шерлок Холмс и доктор Ватсон (1979)
+<li><b>Шерлок Холмс и доктор Ватсон (1979)</b>
 	<a href="https://www.youtube.com/watch?v=yhujgY6m0RQ">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=WXwTPIhEs08">Part 2</a>
 	<br>
@@ -384,7 +394,7 @@ improvement and taking pride in honest work.</p>
 	Meanwhile the other two passengers also know she won and are trying
 	to get their hands on the ticket.
 	</li>
-<li>Сокровища Агры (1983)
+<li><b>Сокровища Агры (1983)</b>
 	<br>
 	<a href="https://www.youtube.com/watch?v=j-bNBlZVRXg">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=RUni-s4scwU">Part 2</a>
@@ -420,6 +430,12 @@ improvement and taking pride in honest work.</p>
 	she has visited his wife, he returns home. In time his wife forgives him,
 	but his son is not willing to forgive.
 	</li>
+<li><a href="https://www.youtube.com/watch?v=v7PbeasXUbM">
+	Самая обаятельная и привлекательная (1985)</a>
+	<br>
+	<i>The Most Charming and Attractive</i>
+	FIXME: no description
+	</li>
 <li><a href="https://www.youtube.com/watch?v=CApoSFjD5Us&list=PL3RYZO9qYh_wEd-6iA3HlGSaPb7VZzmXn">
 	В поисках капитана Гранта (1986)</a> (7 Parts)
 	<br>
@@ -430,7 +446,7 @@ improvement and taking pride in honest work.</p>
 	to look for him. They visit South American and Australia having numerous
 	adventures. Made for TV in seven one-hour episodes.
 	</li>
-<li>Двадцатый век начинается (1986)
+<li><b>Двадцатый век начинается (1986)</b>
 	<a href="https://www.youtube.com/watch?v=Yi1UBKg06TY">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=9D053d3PFiQ">Part 2</a>
 	<br>

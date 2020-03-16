@@ -114,21 +114,24 @@ studios. The largest were:</p>
 <h3>Objectionable Material in Soviet Film</h3>
 <p>Few Soviet films have received an MPAA rating, but the vast majority would
 be rated G with a few rated PG. There is a very small number of films at the
-end of the Soviet period which would merit a PG-13 rating. None we are aware
-of could conceivably be rated R.</p>
+end of the Soviet period which would merit a PG-13 rating. None of which we are
+aware could conceivably be rated R.</p>
 <ul>
 <li>Offensive words: there is little swearing in Soviet films. 'Unprintable'
-	words are not used at all. English subtitles sometimes use words which
-	are much worse than what the actor is saying because the translators
-	have learned their English from American films.</li>
-<li>Alcohol use: Soviet films may include scenes in which characters are encouraged
-	to drink and sometimes get drunk.</li>
+	words are not used at all. Note though that modern English subtitles
+	occasionally use swear words which the translaters have learned from	
+	recent Hollywood films.</li>
+<li>Alcohol use: Soviet films may include scenes in which characters are
+	pressured to drink and sometimes get very drunk.</li>
 <li>Tobacco use: There may be occasional smoking, but much less than in
 	American films of the same period.</li>
-<li>Sex: Up to the mid 1970's extramarital sex is hardly even hinted at,
-	after that it is sometimes discussed or implied. Characters who engage
-	in adultery or premarital sex generally face realistic unpleasant
-	consequences.</li>
+<li>Sex: Up to the mid 1970's extramarital sex is hardly even hinted at, after
+	that it is sometimes discussed or implied. Characters who engage in
+	adultery or premarital sex frequently face realistic unpleasant consequences
+	such unwanted pregnancy, poverty, and damaged relations with their
+	families. In the 1980's there are a few films which characters switch
+	partners in search of happiness.
+	</li>
 <li>Violence: levels of violence in Soviet films are low overall, seldom rising
 	beyond a few punches. War, spy, and detective films may have more
 	violence including people getting shot and bodies on the floor.</li>

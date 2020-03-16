@@ -16,18 +16,22 @@ the films dull and formulaic, but a films of this period rose above these
 limitations to become classics.</p>
 </section>
 
-<!--
-	== Missing ==
-	Мать
-	Человек с киноапаратом
-	Mr Smith in the Land of the Bolsheviks
-	Иван Грозный
-	Aelita Queen of Mars
--->
-
 <section>
 <h3>Well-Known Early Soviet Films (1917--1955)</h3>
 <ul>
+<li>Аэлита (1924)
+	<br>
+	<i>Aelita Queen of Mars</i>
+	<br>
+	FIXME: no description
+	</li>
+<li><a href="https://www.youtube.com/watch?v=bq1Qx6jOJ0A">
+	Необычайные приключения мистера Веста в стране большевиков (1924)</a>
+	<br>
+	<i>The Extraordinary Adventures of Mr. West in the Land of the Bolsheviks</i>
+	<br>
+	FIXME: no description
+	</li>
 <li><a href="https://www.youtube.com/watch?v=aiU8c1mjJSA">
 	Броннносец «Потёмкин» (1925)</a>
 	<br>
@@ -36,6 +40,13 @@ limitations to become classics.</p>
 	Dramatization of the 1905 mutiny on the battleship Potemkin over an attempt to feed
 	the crew wormy meat. Directed by Sergei Eisenstein whose work is of great interest
 	to students of film. 
+	</li>
+<li><a href="https://www.youtube.com/watch?v=3C-2RgK3WwA">
+	Человек с киноапаратом (1929)</a>
+	<br>
+	<i>The Man With the Movie Camera</i>
+	<br>
+	FIXME: no description
 	</li>
 <li><a href="https://www.youtube.com/watch?v=u1QbXeZEnPc">
 	Земля (1930)</a>
@@ -67,9 +78,7 @@ limitations to become classics.</p>
 	hilarity follow.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=37VKMbMHjt0">
-	Волга, Волга (1938)</a>
-	<br>
-	<a href="https://www.youtube.com/watch?v=lHjlL_0lpxo">Colorized in HD</a>
+	Волга, Волга (1938)</a> or <a href="https://www.youtube.com/watch?v=lHjlL_0lpxo">Colorized in HD</a>
 	<br>
 	<i>Volga, Volga</i>
 	<br>
@@ -99,7 +108,7 @@ limitations to become classics.</p>
 <li><a href="https://www.youtube.com/watch?v=yl3njkwk-dw">
 	Небесный тихоход (1945)</a> (Link is to the 2012 colorized version)
 	<br>
-	<i>Heavenly Slug</i>
+	<i>Heavenly Slug</i> (probably should be <i>The Sky Slug</i>)
 	<br>
 	In this lighthearted war comedy four buddies vow not to fall in love until
 	World War II is over. But their resolution starts to falter when they

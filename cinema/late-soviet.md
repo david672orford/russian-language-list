@@ -21,20 +21,20 @@ work.</p>
 <h3>Well-Known Late Soviet Films (1955--1991)</h3>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=xAvT_G9DULs">
-	Максим Перепелица (1955)</a>
+	<h4>Максим Перепелица (1955)</h4></a>
 	<br>
 	An ordinary boy from Ukraine goes to perform his military service. Similar
 	in tone to Andy Hardy or Gomer Pyle.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=3jg21SZJ8g8">
-	Карнавальная ночь (1956)</a>
+	<h4>Карнавальная ночь (1956)</h4></a>
 	<br>
 	<i>Carnival Night</i>
 	<br>
 	FIXME: no description
 	</li>
 <li><a href="https://www.youtube.com/watch?v=BVtergBNjAU">
-	Полосатый рейс (1961)</a>
+	<h4>Полосатый рейс (1961)</h4></a>
 	<br>
 	<i>The Stripe Run</i>
 	<br>
@@ -43,7 +43,7 @@ work.</p>
 	tigers get out of their cages when she saves the day.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=0HY8-_kYfJc">
-	За двумя зайцами (1961)</a>
+	<h4>За двумя зайцами (1961)</h4></a>
 	<br>
 	<i>Chasing Two Hares</i>
 	<br>
@@ -51,7 +51,7 @@ work.</p>
 	fortunes by an advantageous marriage. Things do not go smoothly.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=q1c4UEfAEjo">
-	Человек - амфибия (1961)</a>
+	<h4>Человек - амфибия (1961)</h4></a>
 	<br>
 	<i>Amphibian Man</i>
 	<br>
@@ -59,7 +59,7 @@ work.</p>
 	and thereby saved him. Now the boy is becoming a man.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=f8_e7T9IplI">
-	Укрощение строптивой (1961)</a>
+	<h4>Укрощение строптивой (1961)</h4></a>
 	<br>
 	<i>The Taming of the Shrew</i>
 	<br>
@@ -70,7 +70,7 @@ work.</p>
 	тигров (1955)</i>.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=7jA15rKF2tk&t=26s">
-	Королева бензоколонки (1962)</a>
+	<h4>Королева бензоколонки (1962)</h4></a>
 	<br>
 	<i>Queen of the Gas Pumps</i>
 	<br>
@@ -78,7 +78,7 @@ work.</p>
 	troupe makes the best of a job pumping gas.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=237m-LGLDbo">
-	Три плюс два (1963)</a>
+	<h4>Три плюс два (1963)</h4></a>
 	<br>
 	<i>Three Plus Two</i>
 	<br>
@@ -86,7 +86,7 @@ work.</p>
 	at the seaside.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=JZ-bjMWuBt4">
-	Операция «Ы» и другие приключения Шурика (1965)</a>
+	<h4>Операция «Ы» и другие приключения Шурика (1965)</h4></a>
 	<br>
 	This is the first of the Shurik films staring Aleksandr Demyanenko. It is a set
 	of three short comedy films about 1) Exam days at a university, 2) a student
@@ -96,7 +96,7 @@ work.</p>
 	a burglary to hide his embezzlement.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=jZ33mMmfvaM">
-	Берегись автомобиля (1966)</a>
+	<h4>Берегись автомобиля (1966)</h4></a>
 	<br>
 	<i>Take Care of Your Car!</i> (often erroneously <i>Beware of the Car</i>)
 	<br>
@@ -124,7 +124,7 @@ work.</p>
 	Yarinka catches the eye of Gratsian and he begins making threats in
 	an effort to force her to agree to marry him instead.
 	</li>
-<li><b>Золотой теленок (1968)</b>
+<li><h4>Золотой теленок (1968)</h4>
 	<a href="https://www.youtube.com/watch?v=Z6viGCs6gKQ">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=X0Yk8gMPQ-s">Part 2</a>
 	<br>
@@ -187,7 +187,7 @@ work.</p>
 	an escape for him and 'his' gang. He has to lead the gang until they retrieve
 	the helmet.
 	</li>
-<li><b>Двенадцать стульев (1971)</b>
+<li><h4>Двенадцать стульев (1971)</h4>
 	<a href="https://www.youtube.com/watch?v=H6tUUvcbjNc">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=obVcU3NLpks">Part 2</a>
 	<br>
@@ -215,7 +215,7 @@ work.</p>
 	disappearing walls are left stuck in his palace in the past. Comical
 	adventures ensue.
 	</li>
-<li><b>Большая перемена (1973)</b>
+<li><h4>Большая перемена (1973)</h4>
 	<a href="https://www.youtube.com/watch?v=I8jxR2asjRQ">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=beS3GuqkVbc">Part 2</a>
 	<a href="https://www.youtube.com/watch?v=RCJZH0dQ42c">Part 3</a>
@@ -228,7 +228,7 @@ work.</p>
 	relationship with her and goes into self-imposed "exile" as the teacher of a night
 	school. Made for TV in four one-hour episodes.
 	</li>
-<li><b>Семнадцать мгновений весны (1973)</b>
+<li><h4>Семнадцать мгновений весны (1973)</h4>
 	<a href="https://www.youtube.com/watch?v=WTiR1E60fXk">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=jAVBvVc7IEg">Part 2</a>
 	<a href="https://www.youtube.com/watch?v=36EDp8UThlM">Part 3</a>
@@ -266,7 +266,7 @@ work.</p>
 	two petty crooks and a mafia boss who want to get to it first. Crazy
 	stunts and adventures follow.
 	</li>
-<li><b>Ирония судьбы, или С легким паром! (1975)</b>
+<li><h4>Ирония судьбы, или С легким паром! (1975)</h4>
 	<a href="https://www.youtube.com/watch?v=lVpmZnRIMKs">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=5TmGPeowN-0">Part 2</a>
 	<br>
@@ -293,7 +293,7 @@ work.</p>
 	Won the Academy Award for Best Foreign Language Film and other awards.
 	<a href="https://en.wikipedia.org/wiki/Dersu_Uzala_(1975_film)">Wikipedia</a>
 	</li>
-<li><b>Служебный роман (1977)</b>
+<li><h4>Служебный роман (1977)</h4>
 	<a href="https://www.youtube.com/watch?v=cmylNwnR9qQ">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=JPjr65ncLL8">Part 2</a>
 	<br>
@@ -306,7 +306,7 @@ work.</p>
 	music by Andrei Petrov. This film also contains many sly references to the
 	dysfunctions of the Soviet Union.
 	</li>
-<li><b>Усатый нянь (1977)</b>
+<li><h4>Усатый нянь (1977)</h4>
 	<br>
 	<i>Mustached Nanny</i>
 	<br>
@@ -314,7 +314,7 @@ work.</p>
 	The local Housing Committee is tired of his mooching ways and wants something done.
 	A woman who runs a child care center offers to try him on the night shift.
 	</li>
-<li><b>Москва слезам не верит (1979)</b>
+<li><h4>Москва слезам не верит (1979)</h4>
 	<a href="https://www.youtube.com/watch?v=X7GuhjGZ-xs">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=uUVd9j543s8">Part 2</a>
 	<br>
@@ -339,7 +339,7 @@ work.</p>
 	<a href="https://www.imdb.com/title/tt0151987/">IMDB</a>
 	<a href="https://en.wikipedia.org/wiki/Pirates_of_the_20th_Century">Wikipedia</a>
 	</li>
-<li><b>Шерлок Холмс и доктор Ватсон (1979)</b>
+<li><h4>Шерлок Холмс и доктор Ватсон (1979)</h4>
 	<a href="https://www.youtube.com/watch?v=yhujgY6m0RQ">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=WXwTPIhEs08">Part 2</a>
 	<br>
@@ -394,7 +394,7 @@ work.</p>
 	Meanwhile the other two passengers also know she won and are trying
 	to get their hands on the ticket.
 	</li>
-<li><b>Сокровища Агры (1983)</b>
+<li><h4>Сокровища Агры (1983)</h4>
 	<br>
 	<a href="https://www.youtube.com/watch?v=j-bNBlZVRXg">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=RUni-s4scwU">Part 2</a>
@@ -446,7 +446,7 @@ work.</p>
 	to look for him. They visit South American and Australia having numerous
 	adventures. Made for TV in seven one-hour episodes.
 	</li>
-<li><b>Двадцатый век начинается (1986)</b>
+<li><h4>Двадцатый век начинается (1986)</h4>
 	<a href="https://www.youtube.com/watch?v=Yi1UBKg06TY">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=9D053d3PFiQ">Part 2</a>
 	<br>

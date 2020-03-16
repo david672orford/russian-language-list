@@ -1,4 +1,4 @@
-HTML, BODY, HEADER, MAIN, H1, H2, H3, P, UL, LI, TABLE, TR, TH, TD, FIGURE, FIGCAPTION, IMG {
+HTML, BODY, HEADER, MAIN, H1, H2, H3, H4, P, UL, LI, TABLE, TR, TH, TD, FIGURE, FIGCAPTION, IMG {
 	margin: 0;
 	padding: 0;
 	}
@@ -79,16 +79,22 @@ DIV.article_image DIV DIV SPAN {		/* caption */
 	}
 
 /* Content */
+H1, H2, H3, H4 {
+	font-weight: bold;
+	}
 H2, H3 {
 	font-family: sans-serif;
 	}
-H2 {
+H2 {		/* article title */
 	font-size: 120%;
 	margin-bottom: .2em;
 	}
-H3 {
+H3 {		/* article subheading */
 	font-size: 100%;
 	margin: .4em 0 .2em 0;
+	}
+H4 {		/* list item */
+	font-size: 100%;
 	}
 
 P {

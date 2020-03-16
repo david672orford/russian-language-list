@@ -19,21 +19,21 @@ limitations to become classics.</p>
 <section>
 <h3>Well-Known Early Soviet Films (1917--1955)</h3>
 <ul>
-<li>Аэлита (1924)
+<li><h4>Аэлита (1924)</h4>
 	<br>
 	<i>Aelita Queen of Mars</i>
 	<br>
 	FIXME: no description
 	</li>
 <li><a href="https://www.youtube.com/watch?v=bq1Qx6jOJ0A">
-	Необычайные приключения мистера Веста в стране большевиков (1924)</a>
+	<h4>Необычайные приключения мистера Веста в стране большевиков (1924)</h4></a>
 	<br>
 	<i>The Extraordinary Adventures of Mr. West in the Land of the Bolsheviks</i>
 	<br>
 	FIXME: no description
 	</li>
 <li><a href="https://www.youtube.com/watch?v=aiU8c1mjJSA">
-	Броннносец «Потёмкин» (1925)</a>
+	<h4>Броннносец «Потёмкин» (1925)</h4></a>
 	<br>
 	<i>Battleship Potemkin</i>
 	<br>
@@ -42,21 +42,21 @@ limitations to become classics.</p>
 	to students of film. 
 	</li>
 <li><a href="https://www.youtube.com/watch?v=3C-2RgK3WwA">
-	Человек с киноапаратом (1929)</a>
+	<h4>Человек с киноапаратом (1929)</h4></a>
 	<br>
 	<i>The Man With the Movie Camera</i>
 	<br>
 	FIXME: no description
 	</li>
 <li><a href="https://www.youtube.com/watch?v=u1QbXeZEnPc">
-	Земля (1930)</a>
+	<h4>Земля (1930)</h4></a>
 	<br>
 	Earth
 	<br>
 	FIXME: no description
 	</li>
 <li><a href="https://www.youtube.com/watch?v=AmjJ7YaSpYc">
-	Чапаев (1934)</a>
+	<h4>Чапаев (1934)</h4></a>
 	<br>
 	<i>Chapaev</i>
 	<br>
@@ -66,7 +66,7 @@ limitations to become classics.</p>
 	of the way it humanized the hero.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=chDRXQ77IgA">
-	Весёлые ребята (1934)</a>
+	<h4>Весёлые ребята (1934)</h4></a>
 	<br>
 	<i>Jolly Fellows</i>
 	<br>
@@ -78,7 +78,7 @@ limitations to become classics.</p>
 	hilarity follow.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=37VKMbMHjt0">
-	Волга, Волга (1938)</a> or <a href="https://www.youtube.com/watch?v=lHjlL_0lpxo">Colorized in HD</a>
+	<h4>Волга, Волга (1938)</h4></a> or <a href="https://www.youtube.com/watch?v=lHjlL_0lpxo">Colorized in HD</a>
 	<br>
 	<i>Volga, Volga</i>
 	<br>
@@ -87,7 +87,7 @@ limitations to become classics.</p>
 	<i>Volga, Volga</i>.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=iRpO0vhG8f8">
-	Александр Невский (1938)</a>
+	<h4>Александр Невский (1938)</h4></a>
 	<br>
 	<i>Aleksandr Nevskiy</i>
 	<br>
@@ -98,7 +98,7 @@ limitations to become classics.</p>
 	use of moving pictures to tell a story.
 </li>
 <li><a href="https://www.youtube.com/watch?v=igq6Is867Rw">
-	Иван Грозный (1944)</a>
+	<h4>Иван Грозный (1944)</h4></a>
 	<br>
 	<i>Ivan the Terrible</i>
 	<br>
@@ -106,7 +106,7 @@ limitations to become classics.</p>
 	of Russian king Ivan IV "the Terrible" (or in modern English, "the Formidable").
 	</li>
 <li><a href="https://www.youtube.com/watch?v=yl3njkwk-dw">
-	Небесный тихоход (1945)</a> (Link is to the 2012 colorized version)
+	<h4>Небесный тихоход (1945)</h4></a> (Link is to the 2012 colorized version)
 	<br>
 	<i>Heavenly Slug</i> (probably should be <i>The Sky Slug</i>)
 	<br>
@@ -115,7 +115,7 @@ limitations to become classics.</p>
 	a squadron of female aviators and a pretty journalist show up.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=kuTP9NZuEDw">
-	Весна (1947)</a>
+	<h4>Весна (1947)</h4></a>
 	<br>
 	<i>Spring</i>
 	<br>
@@ -123,7 +123,7 @@ limitations to become classics.</p>
 	broadens out when she is asked to participate in a film called Lady Scientist.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=28FMX-ZVYrI">
-	Укротительница тигров (1954)</a>
+	<h4>Укротительница тигров (1954)</h4></a>
 	<br>
 	<i>Lady Tiger Tamer</i>
 	<br>
@@ -131,7 +131,7 @@ limitations to become classics.</p>
 	becoming a lion tamer.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=r_-sU1smWDY">
-	Мать (1955)</a>
+	<h4>Мать (1955)</h4></a>
 	<br>
 	Mother
 	<br>

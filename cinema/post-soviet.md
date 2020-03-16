@@ -15,7 +15,7 @@ of the Soviet Union.</p>
 <h3>Post-Soviet Russian Films</h3>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=bAO0Mo7MSAY">
-	Кука (2007)</a>
+	<h4>Кука (2007)</h4></a>
 	<br>
 	A well-off but disillusioned young woman leaves Moscow and goes to work
 	at a social services agency. She notices a girl of about eight years who
@@ -23,7 +23,7 @@ of the Soviet Union.</p>
 	she finds the joy which was lacking in her former 'successful' life.
 	</li>
 <li>
-	<b>Доярка из Хацапетовки (2007)</b> (as of October 2019 no good copy on Youtube)
+	<h4>Доярка из Хацапетовки (2007)</h4> (as of October 2019 no good copy on Youtube)
 	<br>
 	<i>A Milkmaid from Khatsapetovka</i>
 	<br>
@@ -37,7 +37,7 @@ of the Soviet Union.</p>
 	in four one-hour episodes.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=JiC-SD7EaJE">
-	Золушка.ru (2008)</a>
+	<h4>Золушка.ru (2008)</h4></a>
 	<br>
 	<i>Cinderella.ru</i>
 	<br>
@@ -55,7 +55,7 @@ of the Soviet Union.</p>
 	from an overbearing father and an aranged marriage.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=R3hkLboUVtw">
-	Служанка трех господ (2008)</a>
+	<h4>Служанка трех господ (2008)</h4></a>
 	<br>
 	<i>Maidservant of Three Masters</i>
 	<br>
@@ -66,7 +66,7 @@ of the Soviet Union.</p>
 	Generally inoffensive, though there is one scene where the son and his
 	friend come home drunk.
 	</li>
-<li>Сваты (2008)
+<li><h4>Сваты (2008)</h4>
 	<a href="https://www.youtube.com/watch?v=_v8Uj4-2Rpk">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=i_9ZaF6ePK4">Part 2</a>
 	<br>
@@ -77,7 +77,7 @@ of the Soviet Union.</p>
 	with her. In the end both show up and rivalry ensues.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=uqGRf2XwY04">
-	Монро (2009)</a>
+	<h4>Монро (2009)</h4></a>
 	<br>
 	<i>Monro</i>
 	<br>
@@ -89,7 +89,7 @@ of the Soviet Union.</p>
 	slowly.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=e8F1mbkD0x8">
-	Квартирантка (2008)</a>
+	<h4>Квартирантка (2008)</h4></a>
 	<br>
 	<i>The Tenant Girl</i>
 	<br>
@@ -98,7 +98,7 @@ of the Soviet Union.</p>
 	longer a nice person and is not happy to see her.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=Z7r0iiScBXs">
-	Слон (2010)</a>
+	<h4>Слон (2010)</h4></a>
 	<br>
 	<i>The Elephant</i>
 	<br>
@@ -109,7 +109,7 @@ of the Soviet Union.</p>
 	and the elephant until she can rejoin the circus.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=sq-PTewRBF4">
-	Полцарства за любовь (2014)</a>
+	<h4>Полцарства за любовь (2014)</h4></a>
 	<br>
 	<i>Half a Kingdom for Love</i>
 	<br>

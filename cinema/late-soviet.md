@@ -109,7 +109,7 @@ work.</p>
 	and catching the thief.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=P2_sjEURwgo">
-	Кавказская пленница, или Новые приключения Шурика (1967)</a>
+	<h4>Кавказская пленница, или Новые приключения Шурика (1967)</h4></a>
 	<br>
 	This is the second of the Shurik films. Our student hero is spending
 	the summer in the Caucuses on a research project to collect information
@@ -117,7 +117,7 @@ work.</p>
 	ceremonial kidnapping of the bride which turns out to be a real kidnapping.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=sL7vWJMdOF8">
-	Свядба в Малиновке (1967)</a>
+	<h4>Свядба в Малиновке (1967)</h4></a>
 	During the civil war which followed the 1917 revolution the wedding 
 	of a shepherd Andreyka to Yarinka is approaching when suddenly a group
 	of bandits led by a local man named Gratsian Tavricheckiy drops by.
@@ -140,7 +140,7 @@ work.</p>
 	millions are just as useless to him as they were to Koreiko.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=B-iVfLX2tvY">
-	Бриллиантовая рука (1969)</a>
+	<h4>Бриллиантовая рука (1969)</h4></a>
 	<br>
 	<i>Diamond Arm</i>
 	<br>
@@ -150,7 +150,7 @@ work.</p>
 	his wife, and throws him into madcap adventures.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=uGekXZJ6QhA">
-	Сокровища пылающих скал (1969)</a>
+	<h4>Сокровища пылающих скал (1969)</h4></a>
 	<br>
 	<i>The Treasure of the Smoking Cliffs</i>
 	<br>
@@ -158,7 +158,7 @@ work.</p>
 	people with machine guns.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=GqnqFhc9aho&t=68s">
-	Белое солнце пустыни (1970)</a>
+	<h4>Белое солнце пустыни (1970)</h4></a>
 	<br>
 	<i>White Sun of the Desert</i>
 	<br>
@@ -175,7 +175,7 @@ work.</p>
 	two men get very drunk while chatting at a kitchen table.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=8tJPKSz6Gaw">
-	Джентльмены удачи (1971)</a>
+	<h4>Джентльмены удачи (1971)</h4></a>
 	<br>
 	<i>Gentlemen of Fortune</i>
 	<br>
@@ -203,7 +203,7 @@ work.</p>
 	all of the chairs.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=a50qT9bW2Qo">
-	Иван Васильевич меняет профессию (1973)</a>
+	<h4>Иван Васильевич меняет профессию (1973)</h4></a>
 	<br>
 	<i>Ivan Vassilevich Changes Occupation</i>
 	<br>
@@ -248,7 +248,7 @@ work.</p>
 	Second World War
 	</li>
 <li><a href="https://www.youtube.com/watch?v=mQp_kHkLig0">
-	Всадник без головы (1973)</a>
+	<h4>Всадник без головы (1973)</h4></a>
 	<br>
 	<i>The Headless Horseman</i>
 	<br>
@@ -257,7 +257,7 @@ work.</p>
 	FIXME: find out something about the plot
 	</li>
 <li><a href="https://www.youtube.com/watch?v=0B3nK-k0KzQ">
-	Невероятные приключения итальянцев в России (1974)</a>
+	<h4>Невероятные приключения итальянцев в России (1974)</h4></a>
 	<br>
 	<i>The Extrordinary Adventures of Italians in Russian</i>
 	<br>
@@ -284,7 +284,7 @@ work.</p>
 	and many difficulties ensue before everything is resolved.		
 	</li>
 <li><a href="https://www.youtube.com/watch?v=-yWUNIdo20Q">
-	Дерсу Узала (1975)</a>
+	<h4>Дерсу Узала (1975)</h4></a>
 	<br>
 	The story of Dersu Uzala (1849--1908), a Goldi trapper and hunter and his
 	friend Vladimir Arsenyev for whose expedition he served as guide.
@@ -330,7 +330,7 @@ work.</p>
 	with a married man.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=tz0KDfZw0IA">
-	Пираты XX века (1979)</a>
+	<h4>Пираты XX века (1979)</h4></a>
 	<br>
 	<i>Pirates of the 20th Century</i>
 	<br>
@@ -350,7 +350,7 @@ work.</p>
 	with the criminal world.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=iS5kA3oE3Gk">
-	Собака Баскервилей (1981)</a>
+	<h4>Собака Баскервилей (1981)</h4></a>
 	<br>
 	<i>The Hound of the Baskervilles</i>
 	<br>
@@ -359,7 +359,7 @@ work.</p>
 	Holmes sends Doctor Watson to investigate.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=CBMEfNBaxLo">
-	Будьте моим мужем (1982)</a>
+	<h4>Будьте моим мужем (1982)</h4></a>
 	<br>
 	<i>Be My Husband</i>
 	<br>
@@ -368,7 +368,7 @@ work.</p>
 	then tricks him into pretending to be her husband.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=zTN1hI_fYQs">
-	Женатый холостяк (1982)</a>
+	<h4>Женатый холостяк (1982)</h4></a>
 	<br>
 	<i>A Married Bachelor</i>
 	<br>
@@ -380,7 +380,7 @@ work.</p>
 	Only Tamara has a problem with the situation.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=FxWczA4ZgI4">
-	Спортлото-82 (1982)</a>
+	<h4>Спортлото-82 (1982)</h4></a>
 	<br>
 	<li>Sport Lottery 82</li>
 	<br>
@@ -405,7 +405,7 @@ work.</p>
 	and <i>A Scandal in Bohemia</i>.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=3g-p1d8H02o">
-	Вокзал для двоих (1983)</a>
+	<h4>Вокзал для двоих (1983)</h4></a>
 	<br>
 	<i>Railway Station for Two</i>
 	<br>
@@ -420,7 +420,7 @@ work.</p>
 	FIXME: find out more about the plot 
 	</li>
 <li><a href="https://www.youtube.com/watch?v=0KmS5gk4ve4">
-	Любовь и голуби (1984)</a>
+	<h4>Любовь и голуби (1984)</h4></a>
 	<br>
 	<i>Love and the Doves</i>
 	<br>
@@ -431,13 +431,13 @@ work.</p>
 	but his son is not willing to forgive.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=v7PbeasXUbM">
-	Самая обаятельная и привлекательная (1985)</a>
+	<h4>Самая обаятельная и привлекательная (1985)</h4></a>
 	<br>
 	<i>The Most Charming and Attractive</i>
 	FIXME: no description
 	</li>
 <li><a href="https://www.youtube.com/watch?v=CApoSFjD5Us&list=PL3RYZO9qYh_wEd-6iA3HlGSaPb7VZzmXn">
-	В поисках капитана Гранта (1986)</a> (7 Parts)
+	<h4>В поисках капитана Гранта (1986)</h4></a> (7 Parts)
 	<br>
 	<i>In Search of Captain Grant</i>
 	<br>
@@ -457,7 +457,7 @@ work.</p>
 	<i>His Last Bow</i>.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=4JZzsIncaVo">
-	Человек с бульвара Капуцинов (1987)</a>
+	<h4>Человек с бульвара Капуцинов (1987)</h4></a>
 	<br>
 	<i>A Man from the Boulevard des Capucines</i>
 	<br>
@@ -467,7 +467,7 @@ work.</p>
 	low-brow slapstick films.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=zCIb0R_8Ww4">
-	Забытая мелодия для флейты (1987)</a>
+	<h4>Забытая мелодия для флейты (1987)</h4></a>
 	<br>
 	<i>A Forgotten Melody for Flute</i>
 	<br>

@@ -95,6 +95,7 @@ H3 {		/* article subheading */
 	}
 H4 {		/* list item */
 	font-size: 100%;
+	display: inline;
 	}
 
 P {

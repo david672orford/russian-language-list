@@ -53,7 +53,13 @@ improvement and taking pride in honest work.</p>
 <li><a href="https://www.youtube.com/watch?v=f8_e7T9IplI">
 	Укрощение строптивой (1961)</a>
 	<br>
-	Good film version of William Shakespeare's <i>The Taming of the Shrew</i>.
+	<i>The Taming of the Shrew</i>
+	<br>
+	Shakespeare in translation is very popular in Russia. This high-quality
+	performance was filmed for television on the stage of the Central Red Army
+	Theater. The role of Katherine is played by movie actress Lyumila Kasatkina
+	who had impressed the director with her performance in <i>Укротительница
+	тигров (1955)</i>.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=7jA15rKF2tk&t=26s">
 	Королева бензоколонки (1962)</a>
@@ -81,8 +87,18 @@ improvement and taking pride in honest work.</p>
 	a man in charge of a warehouse hires a bunch of hapless delinquents to fake
 	a burglary to hide his embezzlement.
 	</li>
-<li>Берегись автомобиля (1966)
+<li><a href="https://www.youtube.com/watch?v=jZ33mMmfvaM">
+	Берегись автомобиля (1966)</a>
 	<br>
+	<i>Take Care of Your Car!</i> (often erroneously <i>Beware of the Car</i>)
+	<br>
+	An actor in a community theater notices patrons who are clearly living well
+	beyond their lawful income. He investidate and finds they are taking bribes,
+	stealing, and profiteering. He decides to become a modern Robin Hood and
+	even things out by steeling their automobiles, selling them, and donating
+	the the proceeds (minus expenses) to orphanages. Another actor from the
+	same community theater is a police detective who has the job of identifying
+	and catching the thief.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=P2_sjEURwgo">
 	Кавказская пленница, или Новые приключения Шурика (1967)</a>
@@ -106,7 +122,14 @@ improvement and taking pride in honest work.</p>
 	<br>
 	<i>The Golden Calf</i>
 	<br>
-	FIXME: missing description
+	Ostap Bender, a con man in the Soviet Union in the 1920's learns of a
+	clandestine millionare named Alexandr Koreiko who has accumulated wealth through
+	corruption. This Koreiko has to pretend to live on an office clerk's
+	salary while keeping his ill-gotten gains in a suitcase, waiting for
+	the fall of the Soviet Union so he can spend it. Bender and his friends
+	collection evidence of Koreiko criminal activities and blackmail him to get
+	a large share of the cash. But Bender finds that in the Soviet Union
+	millions are just as useless to him as they were to Koreiko.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=B-iVfLX2tvY">
 	Бриллиантовая рука (1969)</a>
@@ -126,9 +149,22 @@ improvement and taking pride in honest work.</p>
 	Boy's adventure story with an expedition to an island and danger from
 	people with machine guns.
 	</li>
-<li>Белое солнце пустыни (1970)
+<li><a href="https://www.youtube.com/watch?v=GqnqFhc9aho&t=68s">
+	Белое солнце пустыни (1970)</a>
 	<br>
-	FIXME: missing description
+	<i>White Sun of the Desert</i>
+	<br>
+	Fyodor Sukhov is fighting in the Soviet side in the Russian Civil War
+	(1917--1922) in the Central Asian desert and thinking of his beloved wife back
+	home. They are fighting guerrillas whose leader is named Abdullah. During a
+	skirmish Abdullah flees abandoning his harem. Sukhov takes the women under his
+	protection, finds them accommodations, and attempts to modernize them and
+	convince them to stop wearing the burqa and reject polygamy. This makes little
+	impression on them as they consider that he, having captured them in battle,
+	is now their rightful husband. While comical at times, this is a war movie.
+	The violence is not 'graphic', but the body count is high and a number of
+	sympathetic characters are killed. There is also an extended scene in which
+	two men get very drunk while chatting at a kitchen table.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=8tJPKSz6Gaw">
 	Джентльмены удачи (1971)</a>
@@ -143,13 +179,20 @@ improvement and taking pride in honest work.</p>
 	an escape for him and 'his' gang. He has to lead the gang until they retrieve
 	the helmet.
 	</li>
-<li>12 стульев (1971)
+<li>Двенадцать стульев (1971)
 	<a href="https://www.youtube.com/watch?v=H6tUUvcbjNc">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=obVcU3NLpks">Part 2</a>
 	<br>
-	<i>12 Chairs</i>
+	<i>Twelve Chairs</i>
 	<br>
-	FIXME: missing description
+	In the Soviet Union in 1927 a civil registrar nicknamed Kisa learns from
+	his dying mother-in-law that when the Bolsheviks came to power the family
+	jewels were hidden in one of twelve chairs of their dining room set. The
+	Bolsheviks confiscated the furniture and the chairs are now scattered.
+	Kisa is determined to find the treasure. A con man named Ostap Bender
+	gets wind of it and forces Kisa to accept his help in exchange for a
+	share. Comic situations ensue as they attempt to track down and aquire
+	all of the chairs.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=a50qT9bW2Qo">
 	Иван Васильевич меняет профессию (1973)</a>
@@ -201,8 +244,9 @@ improvement and taking pride in honest work.</p>
 	<br>
 	<i>The Headless Horseman</i>
 	<br>
-	A Soviet Western based on the novel <i>The Headless Horseman</i> by American author
-	Mayne Reid. FIXME: find out something about the plot
+	A well-known Soviet Western based on the novel <i>The Headless Horseman</i>
+	by the influential 19th century American novelist Mayne Reid.
+	FIXME: find out something about the plot
 	</li>
 <li><a href="https://www.youtube.com/watch?v=0B3nK-k0KzQ">
 	Невероятные приключения итальянцев в России (1974)</a>
@@ -313,9 +357,10 @@ improvement and taking pride in honest work.</p>
 	pediatrician on vacation into looking after her son for a few hours. She
 	then tricks him into pretending to be her husband.
 	</li>
-<li>Женатый холостяк (1982)
+<li><a href="https://www.youtube.com/watch?v=zTN1hI_fYQs">
+	Женатый холостяк (1982)</a>
 	<br>
-	<i>A Married Batchelor</i>
+	<i>A Married Bachelor</i>
 	<br>
 	Tamara, a young woman with a child has been repeatedly abandoned and
 	divorced by his husband whom her parents have never met. Now she is going
@@ -324,13 +369,45 @@ improvement and taking pride in honest work.</p>
 	husband to help her save face. Her parents are thrilled to meet him.
 	Only Tamara has a problem with the situation.
 	</li>
+<li><a href="https://www.youtube.com/watch?v=FxWczA4ZgI4">
+	Спортлото-82 (1982)</a>
+	<br>
+	<li>Sport Lottery 82</li>
+	<br>
+	Action adventure comedy. Four strangers traveling together in one
+	railway compartment are all reading identical copies of the
+	same mystery novel. The young man eats the girl's
+	food my mistake and buys her a lottery ticket to make up for it.
+	She picks numbers and give him the ticket to hold for her. 
+	He puts it in his book. When a few days later he learns that her ticket
+	has won the 20,000 ruble jackpot he finds he has the wrong book.
+	Meanwhile the other two passengers also know she won and are trying
+	to get their hands on the ticket.
+	</li>
 <li>Сокровища Агры (1983)
+	<br>
 	<a href="https://www.youtube.com/watch?v=j-bNBlZVRXg">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=RUni-s4scwU">Part 2</a>
 	<br>
 	<i>The Treasures of Agra</i>
 	<br>
-	Based on the Sherlock Holmes stories <i>The Sign of the Four</i> and <i>A Scandal in Bohemia</i>.
+	Based on the Sherlock Holmes stories <i>The Sign of the Four</i>
+	and <i>A Scandal in Bohemia</i>.
+	</li>
+<li><a href="https://www.youtube.com/watch?v=3g-p1d8H02o">
+	Вокзал для двоих (1983)</a>
+	<br>
+	<i>Railway Station for Two</i>
+	<br>
+	A man has taken the blame for an auto accident in which a pedestrian was
+	killed even though it was actually his wife who was behind the wheel.
+	Now he is awaiting trial in a prison camp in Siberia. He is given a pass for
+	a few days so he can meet his wife for a conjugal visit in in a village 10
+	kilometers outside the camp and pick up an accordian for the camp. If he
+	comes back late he will be considered to have escaped. He immediately meets
+	with misadventures which delay him and throw him into the company of a
+	waitress named Vera who serves him in a railway station restaurant.
+	FIXME: find out more about the plot 
 	</li>
 <li><a href="https://www.youtube.com/watch?v=0KmS5gk4ve4">
 	Любовь и голуби (1984)</a>
@@ -348,11 +425,10 @@ improvement and taking pride in honest work.</p>
 	<br>
 	<i>In Search of Captain Grant</i>
 	<br>
-	A high-quality version of Jules Verne's <i>The Children of
-	Captain Grant</i>. A wealthy benefactor takes the son and daughter of 
-	this missing captain Grant to look for him. They visit South American
-	and Australia having numerous adventures. Made for TV in seven one-hour
-	episodes.
+	A high-quality version of Jules Verne's <i>The Children of Captain Grant</i>.
+	A wealthy benefactor takes the son and daughter of this missing captain Grant
+	to look for him. They visit South American and Australia having numerous
+	adventures. Made for TV in seven one-hour episodes.
 	</li>
 <li>Двадцатый век начинается (1986)
 	<a href="https://www.youtube.com/watch?v=Yi1UBKg06TY">Part 1</a>
@@ -373,6 +449,19 @@ improvement and taking pride in honest work.</p>
 	technology: the motion picture. He arranges showings in the local saloon. This
 	raises the cultural tone in town until Mr. Second shows up and starts showing
 	low-brow slapstick films.
+	</li>
+<li><a href="https://www.youtube.com/watch?v=zCIb0R_8Ww4">
+	Забытая мелодия для флейты (1987)</a>
+	<br>
+	<i>A Forgotten Melody for Flute</i>
+	<br>
+	An ironic melodrama with fantasy elements. Leonid Filimonov, a former flute
+	player, has a comfortable but soul-sucking job in a Soviet agency where he
+	makes sure there is no dangerous ambiguity in the arts. Then he has a heart
+	attack and meets Lida, a nurse with whom starts an affair. His wife kicks him
+	out, but then asks him to come back. Afraid of loosing his career, he does
+	but dreams of of telling the bosses exactly what he thinks of their
+	worthless organization and going to live with Lida.
 	</li>
 </ul>
 </section>

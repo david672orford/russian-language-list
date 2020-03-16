@@ -37,6 +37,13 @@ limitations to become classics.</p>
 	the crew wormy meat. Directed by Sergei Eisenstein whose work is of great interest
 	to students of film. 
 	</li>
+<li><a href="https://www.youtube.com/watch?v=u1QbXeZEnPc">
+	Земля (1930)</a>
+	<br>
+	Earth
+	<br>
+	FIXME: no description
+	</li>
 <li><a href="https://www.youtube.com/watch?v=AmjJ7YaSpYc">
 	Чапаев (1934)</a>
 	<br>
@@ -46,6 +53,18 @@ limitations to become classics.</p>
 	It is about a Red Army commander who battles heroicly for the revolutionary cause.
 	Though clearly propagandistic, it nonetheless was well received, reportedly because
 	of the way it humanized the hero.
+	</li>
+<li><a href="https://www.youtube.com/watch?v=chDRXQ77IgA">
+	Весёлые ребята (1934)</a>
+	<br>
+	<i>Jolly Fellows</i>
+	<br>
+	Yelena, a flirty student from a school for upper-class girls is attracted to 
+	a young man named Kostya who plays the flute and sings. Though he is a humble
+	shepherd, she has mistaken him for a famous orchestra conductor. Meanwhile,
+	Yelena's maidservant (Lyubov Orlova) has noticed him too and is attracted to
+	him. Yelena invites him to the school where further misunderstandings and
+	hilarity follow.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=37VKMbMHjt0">
 	Волга, Волга (1938)</a>
@@ -64,7 +83,7 @@ limitations to become classics.</p>
 	<i>Aleksandr Nevskiy</i>
 	<br>
 	Depicts the defeat of the Teutonic Knights by Prince Alexander in the 13th
-	century when they attempted to invade Novgorod. Also directed by Sergei
+	century when they attempted to invade Novgorod. Directed by Sergei
 	Eisenstein. The acting, costumes, and action are deliberately stylized
 	as if this were an opera. Very highly regarded for its style and skilful
 	use of moving pictures to tell a story.
@@ -76,6 +95,15 @@ limitations to become classics.</p>
 	<br>
 	Another masterpiece by Sergei Eisenstein. Depicts the first part of the reign
 	of Russian king Ivan IV "the Terrible" (or in modern English, "the Formidable").
+	</li>
+<li><a href="https://www.youtube.com/watch?v=yl3njkwk-dw">
+	Небесный тихоход (1945)</a> (Link is to the 2012 colorized version)
+	<br>
+	<i>Heavenly Slug</i>
+	<br>
+	In this lighthearted war comedy four buddies vow not to fall in love until
+	World War II is over. But their resolution starts to falter when they
+	a squadron of female aviators and a pretty journalist show up.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=kuTP9NZuEDw">
 	Весна (1947)</a>
@@ -90,7 +118,15 @@ limitations to become classics.</p>
 	<br>
 	<i>Lady Tiger Tamer</i>
 	<br>
-	A girl from a circus family achieves her dream of becoming a lion tamer.
+	A girl from a circus family (Lyudmila Kasatkina) achieves her dream of
+	becoming a lion tamer.
+	</li>
+<li><a href="https://www.youtube.com/watch?v=r_-sU1smWDY">
+	Мать (1955)</a>
+	<br>
+	Mother
+	<br>
+	FIXME: no description
 	</li>
 </ul>
 </section>

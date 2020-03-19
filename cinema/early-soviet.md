@@ -77,6 +77,18 @@ limitations to become classics.</p>
 	him. Yelena invites him to the school where further misunderstandings and
 	hilarity follow.
 	</li>
+<li>
+	<figure class="right_edge">
+	  <img src="images/Circus_poster.jpg" alt="Movie poster shows circus performers. At center a young woman dances in a long evening dress.">
+	  <figcaption>Цирк (1934)</figcaption>
+	</figure>
+	<a href="https://www.youtube.com/watch?v=ia4DyErYhAs">
+	<h4>Цирк (1936)</h4></a>
+	<br>
+	<i>Circus</i>
+	<br>
+	FIXME: no description
+	</li>
 <li><a href="https://www.youtube.com/watch?v=37VKMbMHjt0">
 	<h4>Волга, Волга (1938)</h4></a> or <a href="https://www.youtube.com/watch?v=lHjlL_0lpxo">Colorized in HD</a>
 	<br>

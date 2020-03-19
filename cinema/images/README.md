@@ -6,3 +6,5 @@ Russia-2001-stamp-Lyubov_Orlova.jpg
 	https://en.wikipedia.org/wiki/File:Mosfilm_logo_old.jpg
 Russia-2001-stamp-Andrei_Mironov.jpg
 	https://commons.wikimedia.org/wiki/File:Russia-2001-stamp-Andrei_Mironov.jpg
+Circus_poster.jpg
+	https://en.wikipedia.org/wiki/File:Circus_poster.jpg

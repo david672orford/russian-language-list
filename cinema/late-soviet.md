@@ -430,6 +430,22 @@ work.</p>
 	she has visited his wife, he returns home. In time his wife forgives him,
 	but his son is not willing to forgive.
 	</li>
+<li><h4>Гостья и будущего (1985)</h4>
+	<a href="https://www.youtube.com/watch?v=AxJvZ6_gOUE">Part 1</a>
+	<a href="https://www.youtube.com/watch?v=b59uCMQ-XCE">Part 2</a>
+	<a href="https://www.youtube.com/watch?v=6RpaeVn__Aw">Part 3</a>
+	<a href="https://www.youtube.com/watch?v=c9mUj4TbXGg">Part 4</a>
+	<a href="https://www.youtube.com/watch?v=1xWe83zRW9g">Part 5</a>
+	<br>
+	<i>Guest from the Future</i>
+	<br>
+	A schoolboy follows a mysterious woman into a time machine and ends
+	up 100 years on the future. There he learns that space pirates intend
+	to steal a mind-reading device from a girl scientist. To prevent this
+	he snatches the device and flees into his own time with the pirates
+	and the girl in persuit. Similiar in style and feel to Doctor Who.
+	Story by well-known science fiction author Kir Bulychev.
+	</li>
 <li><a href="https://www.youtube.com/watch?v=v7PbeasXUbM">
 	<h4>Самая обаятельная и привлекательная (1985)</h4></a>
 	<br>

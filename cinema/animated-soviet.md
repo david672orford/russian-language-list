@@ -60,7 +60,7 @@ still active and producing films.
 	<h4>Тайна Третьей Планеты (1981)</h4></a>
 	<br>
 	A professor and his daughter travel on a space ship hunting for specimens for the
-	Moscow Zoo. The meet intrigue and adventure along the way. Based on a science
+	Moscow Zoo. They meet with intrigue and adventure along the way. Based on a science
 	fiction story by Kir Bulychev.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=8ec4qek1tP8">

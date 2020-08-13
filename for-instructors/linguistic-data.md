@@ -31,12 +31,14 @@
 * [Opencorpa](http://opencorpora.org) --
 	A Russian corpus with ambiguity resolved so that the identity of each
 	word and its morphological form is known
-* [OPUS--an Open Source Parellel Corpus](http://opus.nlpl.eu/) --
+* [OPUS--an Open Source Parallel Corpus](http://opus.nlpl.eu/) --
 	Translated texts sentence aligned. Can be searched on this and other
 	sites. Datasets can be downloaded so that you can use them with your
 	own tools. Texts come from sources including UN documents,
 	government publications, Wikipedia, movie subtitles, and multilingual
 	news sites.
+* [Openrussian.org](https://en.openrussian.org/dictionary) --
+    Database dumps of the Openrussian.org dictionary
 
 ## Programs for Russian Morphology
 * [Pymorphy2](https://github.com/kmike/pymorphy2) --
@@ -49,7 +51,7 @@
 	the author has not posted all of the files, so the program does not really
 	work. The output files are posted though and these may be useful.
 * [Russress](https://pypi.org/project/russtress/) --
-	Uses statistical model to guess the stress of Russian words in context
+	Uses a statistical model to guess the stress of Russian words in context
 
 ## Natural Language Processing in Russian
 * [NLTK4RUSSIAN](http://mathling.phil.spbu.ru/node/160) --

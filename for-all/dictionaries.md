@@ -40,21 +40,31 @@ title_alt: A dictionary lies open upon a table
 	Copyright status is unclear.
 
 ### Grammar Dictionaries
-* [RussianGram](http://russiangram.com) --
-	Automatically adds stress marks to Russian text (uses oDict.ru data)
+* Грамматический словарь русского языка (Andrey Anotolyevich Zaliznyak) --
+  Zaliznyak's dictionary is used as the primary data sources for practically
+  every program which conjugates and declines Russian words or identifies
+  their stressed sylables.
+  - [Official online version](http://gramdict.ru/) -- The text of the
+    dictionary in HTML format. Has a search function for looking up entries,
+	but there is no facility for automatically rendering the paradigm.
+    Published with the permission of Anna Andreyevna Zaliznyak who is now
+    the rights holder.
+  - [Scans of the dictionary](http://zaliznyak-dict.narod.ru/) --
+    This particular site has been up for years and is widely linked to.
+    The HTML version above is easier to search and much more legible.
 * [Wiktionary](https://www.wiktionary.org/) --
 	In the entry for a Russian word you can open a box which
-	gives all of its grammatical forms.
+	gives all of its grammatical forms. The article
+	[Russian templates](https://en.wiktionary.org/wiki/Wiktionary:Russian_templates)
+	describles the inflection patterns for nouns and verbs. These closely follow
+    the classification system used in Zaliznyak's dictionary.
+* [RussianGram](http://russiangram.com) --
+	Automatically adds stress marks to Russian text (uses oDict.ru data)
 * [Morphological Dictionary](http://www.morfologija.ru/) --
 	Enter a word in any form, see all the forms. Site is in Russian.
 	No stress marks.
-* [Словарь А.А. Зализняка](http://zaliznyak-dict.narod.ru/) --
-	Scans of Zaliznyak's morphological dictionary. This dictionary is used
-	in practically every program which can conjugate and decline Russian words
-	or identify their stressed syllables. This particular site has been up
-	for years and is widely linked to.
 * [Grammatical Dictionary of the Russian Language](http://seelrc-iis.trinity.duke.edu/russdict/) --
-	Words declined with recordings of pronounciation
+	Words declined with recordings of pronounciation.
 
 ### Russian Dictionaries and Encypclopedias in Russian
 * [Словари и энциклопедии на Академике](https://dic.academic.ru/) --

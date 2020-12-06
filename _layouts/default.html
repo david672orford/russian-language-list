@@ -44,13 +44,13 @@
 {{ content }}
 </main>
 
-{% if site.author_photo %}
+{% if page.author %}
 <div class="author_box">
-  <img src="{{ site.author_photo }}">
+  <img src="{{ site.authors[page.author]['photo'] }}">
   <div>
-    <div class="author_byline">{{ site.author_name }}</div>
+    <div class="author_byline">{{ page.author }}</div>
     <div class="author_blurb">
-      {{ site.author_blurb }}
+      {{ site.authors[page.author]['blurb'] }}
     </div>
   </div>
 </div>

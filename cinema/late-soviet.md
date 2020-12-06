@@ -3,6 +3,7 @@ description: Descriptions of Russian movies to help the language learner
 image: /assets/images/film-1200x500.jpg
 image_alt: Strip of film with pictures of movie projectors
 image_credit: geralt (Pixabay)
+author: David Chappell
 ---
 ## Late Soviet Films
 

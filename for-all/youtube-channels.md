@@ -26,7 +26,7 @@
 * [Мизяка Дизяка](https://www.youtube.com/channel/UCd9SVWsoWGWLG_hoqOw5piQ) --
 	Cute videos teach vocabulary, number, alphabet, and phonetics videos for children
 * [Обучалки для малявок](https://www.youtube.com/channel/UCYtLn3pLrcoM7PXD0hyQPhQ) --
-	Lessons for small Russian children
+	Lessons for Russian small children
 * [Russian Language Lessons for Beginners](https://www.youtube.com/playlist?list=PLJsNPbUR-W8D7SrONeNKJjOEoXi0R8U8c) --
 	Good quality blackboard lectures
 * [Russian Dialogues and Audio Texts 1](https://www.youtube.com/playlist?list=PLDwLEdIqR-fibgqxbCDzlMWfSj0D4-HBb) --

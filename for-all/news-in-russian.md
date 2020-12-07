@@ -33,7 +33,7 @@ These are some of the sources from which Russian speakers get their information.
 ## Online Newspapers
 
 * [LENTA.RU](https://lenta.ru/)
-  --Major online newspaper based in Moscow. Widely quoted by bloggers and one
+  --Major online news site based in Moscow. Widely quoted by bloggers and one
   of the most popular news sites in Europe. Part of the Rambler Group of
   Russian media, Internet, and e-commerce companies. Sample headlines:
   "Russians tell us about the best gifts for New Year's.", "Female taxi driver

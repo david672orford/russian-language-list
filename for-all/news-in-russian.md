@@ -89,6 +89,6 @@ These are some of the sources from which Russian speakers get their information.
 
 ## Other Lists
 
-* [Wikipedia: List of Russian-language televsion channels](https://en.wikipedia.org/wiki/List_of_Russian-language_television_channels)
+* [Wikipedia: List of Russian-language television channels](https://en.wikipedia.org/wiki/List_of_Russian-language_television_channels)
 
 

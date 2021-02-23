@@ -383,7 +383,7 @@ work.</p>
 <li><a href="https://www.youtube.com/watch?v=FxWczA4ZgI4">
 	<h4>Спортлото-82 (1982)</h4></a>
 	<br>
-	<li>Sport Lottery 82</li>
+	<i>Sport Lottery 82</i>
 	<br>
 	Action adventure comedy. Four strangers traveling together in one
 	railway compartment are all reading identical copies of the
@@ -489,12 +489,13 @@ work.</p>
 	<i>A Forgotten Melody for Flute</i>
 	<br>
 	An ironic melodrama with fantasy elements. Leonid Filimonov, a former flute
-	player, has a comfortable but soul-sucking job in a Soviet agency where he
-	makes sure there is no dangerous ambiguity in the arts. Then he has a heart
-	attack and meets Lida, a nurse with whom starts an affair. His wife kicks him
-	out, but then asks him to come back. Afraid of loosing his career, he does
-	but dreams of of telling the bosses exactly what he thinks of their
-	worthless organization and going to live with Lida.
+	player, has a comfortable but soul-sucking job in a Soviet agency where his
+	job is to makes sure there is no politically dangerous ambiguity in the
+	arts. When he has a heart attack and meets a nurse named Lida with whom he
+	starts an extramarital affair. His wife kicks him out, but later changes
+	her mind and asks him to return. Afraid of loosing his career, he does
+	so but dreams of rebelling and telling the bosses exactly what he thinks
+	of their worthless organization and going to live with Lida.
 	</li>
 </ul>
 </section>

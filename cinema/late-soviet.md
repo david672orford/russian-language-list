@@ -32,7 +32,9 @@ work.</p>
 	<br>
 	<i>Carnival Night</i>
 	<br>
-	FIXME: no description
+	The employees of a house of culture put on a music and dance show for
+	New Year's eve despite the efforts of a stuffy new directory to turn
+	it into an evening of tedious lectures and serious music.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=BVtergBNjAU">
 	<h4>Полосатый рейс (1961)</h4></a>
@@ -254,8 +256,12 @@ work.</p>
 	<i>The Headless Horseman</i>
 	<br>
 	A well-known Soviet Western based on the novel <i>The Headless Horseman</i>
-	by the influential 19th century American novelist Mayne Reid.
-	FIXME: find out something about the plot
+	by the influential 19th century American novelist Mayne Reid. (Not to be
+	confused with <i>The Legend of Sleepy Hollow</i>.) I beautiful girl named
+	Louise falls in love with poor mustanger Maurice Gerald. When her brother is
+	murdered the evidence points to Maurice who is saved from lynching only
+	by the sudden appearance of a mysterious headless man on horseback.
+	Who is this frightening horseman and did Gerald really murder her brother?
 	</li>
 <li><a href="https://www.youtube.com/watch?v=0B3nK-k0KzQ">
 	<h4>Невероятные приключения итальянцев в России (1974)</h4></a>
@@ -271,8 +277,8 @@ work.</p>
 	<a href="https://www.youtube.com/watch?v=lVpmZnRIMKs">Part 1</a>
 	<a href="https://www.youtube.com/watch?v=5TmGPeowN-0">Part 2</a>
 	<br>
-	A mother suggests her grown bachelor son invite his girlfriend over
-	for New Year's Eve. She intends to leave them alone together in the hope that he will
+	A mother suggests her grown bachelor son invite his girlfriend over for
+	New Year's Eve. She intends to leave them alone together in the hope that he will
 	finally make up his mind and marry the girl. But that afternoon his friends invite
 	him to the public sauna where they all get drunk and they mistakenly put him
 	on a plane from Moscow to Leningrad instead of the member of their group
@@ -412,13 +418,15 @@ work.</p>
 	<br>
 	A man has taken the blame for an auto accident in which a pedestrian was
 	killed even though it was actually his wife who was behind the wheel.
-	Now he is awaiting trial in a prison camp in Siberia. He is given a pass for
-	a few days so he can meet his wife for a conjugal visit in in a village 10
+	Now he is awaiting trial in a prison camp in Siberia. He is summoned
+	by the governor of the prison and told he is getting a pass for a few
+	days so he can meet his wife for a conjugal visit in a village 10
 	kilometers outside the camp and pick up an accordian for the camp. If he
 	comes back late he will be considered to have escaped. He immediately meets
 	with misadventures which delay him and throw him into the company of a
 	waitress named Vera who serves him in a railway station restaurant.
-	FIXME: find out more about the plot 
+	Vera rejects the boyfriend with home she has been living and he rejects
+	his faithless wife so they can be together.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=0KmS5gk4ve4">
 	<h4>Любовь и голуби (1984)</h4></a>
@@ -444,14 +452,22 @@ work.</p>
 	up 100 years on the future. There he learns that space pirates intend
 	to steal a mind-reading device from a girl scientist. To prevent this
 	he snatches the device and flees into his own time with the pirates
-	and the girl in persuit. Similiar in style and feel to Doctor Who.
-	Story by well-known science fiction author Kir Bulychev.
+	and the girl in persuit. Similiar in style and feel to Doctor Who
+	from the same time period though because the main characters are all
+	young children it sometimes has the feel of a Stratmeyer Syndicate
+	novel. Story by well-known science fiction author Kir Bulychev. A
+	classic of children's television. Introduced the hit song
+	<i>Прекрасное далёко</i>.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=v7PbeasXUbM">
 	<h4>Самая обаятельная и привлекательная (1985)</h4></a>
 	<br>
 	<i>The Most Charming and Attractive</i>
-	FIXME: no description
+	A vivacious girl working in a research institute is distressed that at 30
+	she is still unmarried. She accepts the help of a girlfriend to make
+	herself more attractive to men so that she can catch a particular man women
+	find attractive. This leads to various comic situations, life valuable
+	lessons learned, and of course to true love.
 	</li>
 <li><a href="https://www.youtube.com/watch?v=CApoSFjD5Us&list=PL3RYZO9qYh_wEd-6iA3HlGSaPb7VZzmXn">
 	<h4>В поисках капитана Гранта (1986)</h4></a> (7 Parts)

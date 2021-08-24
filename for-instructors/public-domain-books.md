@@ -10,13 +10,9 @@ title_alt: Open books load as tiles with pages up
 	anything from it that we want. The above version is scanned from a printed
 	copy. There is also a [retyped version](http://www.google.com/url?q=http%3A%2F%2Fwww.yojik.eu%2Far01s04.xhtml&sa=D&sntz=1&usg=AFQjCNGeCz_ruAkeXe72oQ6VyHZzGiHaGw)
 	which is more convenient if we want to make any adjustments.
-* [College Russian by Ivar Spector (1944)](http://www.google.com/url?q=http%3A%2F%2Fbabel.hathitrust.org%2Fcgi%2Fpt%3Fid%3Dmdp.39015027651382%3Bview%3D1up%3Bseq%3D7&sa=D&sntz=1&usg=AFQjCNFw-jMxydS0U4l5lyLbDoPaDeXO3w)
+* [College Russian by Ivar Spector (1944)](https://babel.hathitrust.org/cgi/pt?id=mdp.39015027651382;view=1up;seq=7)
 	--This is a college textbook which has fallen into the public domain. It
 	has some reading exercises which we may be able to use.
-* [College Russian by Ivar Spector](https://babel.hathitrust.org/cgi/pt?id=mdp.39015027651382;view=1up;seq=7)
-	--
-* [A Practical Grammar of the Russian Language by James Heard](https://archive.org/details/apracticalgramm01heargoog/page/n6)
-	--
 
 ### Readers
 * [Word-for-Word Russian Story-Book by Nevill Forbes (1916)](https://books.google.com/books?id=e5oTAAAAQAAJ&printsec=frontcover&hl=ru&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
@@ -24,6 +20,8 @@ title_alt: Open books load as tiles with pages up
 	and notes. Note that this book uses the pre-1917 orthography, so you
 	will have to convert these stories to modern spelling before using
 	them in class.
+* [World-For-Word Russian Story-Book by Nevill Forbes (1916)](https://books.google.com/books?id=e5oTAAAAQAAJ&printsec=frontcover&hl=ru&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+	--
 * [Best Russian Short Stories](https://archive.org/details/bestrussianshor00seltgoog/page/n3)
 	--
 
@@ -45,18 +43,23 @@ title_alt: Open books load as tiles with pages up
     * [http://mueller-dict.sourceforge.net/](http://mueller-dict.sourceforge.net/)
 
 ### Grammars
-* [Russian Grammar by Nevill Forbes (1916)](https://books.google.com/books?id=e5oTAAAAQAAJ&printsec=frontcover&hl=ru&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
-	--Classic Russian grammar by Oxford professor. Also uses the pre-1917 
+* [A Practical Grammar of the Russian Language by James Heard (1827)](https://archive.org/details/apracticalgramm01heargoog/page/n6)
+	--A well written and often interesting description of Russian grammar.
+	Some may find it hard to use though since the scan quality is poor, the
+	orthography is pre-1917, and of course the text is written in 19th
+	century English.
+* [Russian Grammar by Neville Forbes (1916)](https://archive.org/details/russiangrammar00forbgoog/page/n6)
+	--Classic Russian grammar by Oxford professor. uses the pre-1917 
 	orthography.
-* [Second Russian Book: a Practical Manual of Russian Verbs by Neville Forbes](https://archive.org/details/secondrussianbo00forbgoog/page/n6)
+* [Second Russian Book: a Practical Manual of Russian Verbs by Neville Forbes (1916)](https://archive.org/details/secondrussianbo00forbgoog/page/n6)
+	--Covers aspect, conjugation. The Bulk of the book is examples of verb used
+	arranged by the general ideas expressed such as "Want, Wish, Should Like",
+	or "Lift, Accept, Take off".
+* [A Concise Grammar of the Russian Language by Leonard A. Magnus (1916)](https://archive.org/details/aconcisegrammar00magngoog/page/n8)
 	--
-* [Russian Grammar by Neville Forbes](https://archive.org/details/russiangrammar00forbgoog/page/n6)
-	--
-* [Russian Conversation-Grammar](https://archive.org/details/russianconversat1922mott/pa)
-	--
-* [A Concise Grammar of the Russian Language](https://archive.org/details/aconcisegrammar00magngoog/page/n8)
-	--
-* [A Practical Grammar of the Russian](https://archive.org/details/apracticalgramm01heargoog/page/n6)
-	--
+* [Russian Conversation-Grammar (1922)](https://archive.org/details/russianconversat1922mott/pa)
+	--Very interesting grammar. Written by an Italian professor in grammatical but
+	slightly unusual English. Though this book was published in 1922, pre-1917
+	orthography is still used. Author uses "thou" freely in examples and translations.
 
 

@@ -8,4 +8,5 @@
 * [Stanze - A Python NLP Package](https://stanfordnlp.github.io/stanza/)
 * [Parallel Dictionaries - Fourth Part](https://archive.org/details/newparalleldicti00reif)
 * [Little manual of the Russian language](https://archive.org/details/littlemanualofru00reif/page/60/mode/2up)
+* [История России в фотографиях](https://m.russiainphoto.ru/)
 

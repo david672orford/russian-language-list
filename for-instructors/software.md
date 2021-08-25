@@ -1,4 +1,7 @@
+---
+description: Programs for creating documents, illustrations, audio recordings, and videos
+---
 ## Software for Creating Lessons
 
-The list of [Software for Creating Lessons](https://tech-for-teaching.nuhub.net/software/)
-is at our sister site [Tech for Teaching](https://tech-for-teaching.nuhub.net).
+See the list of [Software for Creating Lessons](https://tech-for-teaching.nuhub.net/software/)
+at our sister site [Tech for Teaching](https://tech-for-teaching.nuhub.net).

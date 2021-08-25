@@ -1,3 +1,6 @@
+---
+description: Word lists, grammatical data, and dictionaries in computer-readable formats
+---
 ## Downloadable Linguistic Data
 * [Modern Russian Frequency List](http://www.artint.ru/projects/frqlist/frqlist-en.php) --
 	Serge Sharoff's word frequency list based on a selection of works

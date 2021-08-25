@@ -1,6 +1,8 @@
 ---
-title_img: ../assets/images/book-pages-1200x500.jpg
-title_alt: Open books load as tiles with pages up
+description: Public domain textbooks, readers, and reference books for you to use in your classes
+image: ../assets/images/book-pages-1200x500.jpg
+image_alt: Open books with their pages up laid out on a table as if they were tiles
+image_credit: Free-Photos (Pixabay)
 ---
 ## Public Domain Books
 
@@ -62,4 +64,8 @@ title_alt: Open books load as tiles with pages up
 	slightly unusual English. Though this book was published in 1922, pre-1917
 	orthography is still used. Author uses "thou" freely in examples and translations.
 
+### Other
+* [Известные стихи, картины и персонажи — как использовать в своих товарах](https://e-kontur.ru/enquiry/1562/izvestnye-proizvedeniya)
+  --Information about when works enter the public domain under Russian copyright law
+* [Российское общественное достояние — Электронная библиотека](https://publicadomain.ru/)
 

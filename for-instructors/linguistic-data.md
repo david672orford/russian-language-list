@@ -1,11 +1,8 @@
 ---
 description: Word lists, grammatical data, and dictionaries in computer-readable formats
 ---
-## Downloadable Linguistic Data
-* [Modern Russian Frequency List](http://www.artint.ru/projects/frqlist/frqlist-en.php) --
-	Serge Sharoff's word frequency list based on a selection of works
-	in modern Russian
-* [Zaliznayak's Morphological Dictionary](http://starling.rinet.ru/download/dicts.EXE) --
+## Zaliznyak's Morphological Dictionary
+* [Zaliznyak's Morphological Dictionary](http://starling.rinet.ru/download/dicts.EXE) --
 	This file is the basis for many implementations of Russian morphology.
 	It contains the word entries from an early edition of Zaliznyak's
 	morphological dictionary, though some of the unusual characters used
@@ -24,13 +21,23 @@ description: Word lists, grammatical data, and dictionaries in computer-readable
 	unintelligible.
 	For these reasons you would likely do better to use Odict.
 * [Odict.ru](http://odict.ru) --
-	An expanded version of Zaliznyak's dictionary which (as of April
-	2019) is being regularly updated. Users can contribute new word entries
-	using a web interface. Includes documentation of the format taken from
+	A version of Zaliznyak's dictionary with about 8000 additional entries added
+	by Sergey Slepov, the author of the site [Morpher.ru](https://morpher.ru).
+	Versions before October 25, 2020 are licensed CC-BA-SA 3.0. Later versions are licensed commercially.
+	Site includes documentation of the format taken from
 	the forward to Zaliznayak's dictionary and adapted:
   * [Значение помет](http://odict.ru/pomety/)
   * [Формат статьи "грамматического словаря"](http://odict.ru/format/)
   * [Структура словаря (проект)](http://odict.ru/structure/)
+* [«Грамматический словарь» А. А. Зализняка](https://github.com/gramdict/zalizniak-2010) --
+	Official release of the data from the sixth edition. Licensed CC BY-NC.
+* [Викисловарь:Использование словаря Зализняка](https://ru.wiktionary.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C:%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8F_%D0%97%D0%B0%D0%BB%D0%B8%D0%B7%D0%BD%D1%8F%D0%BA%D0%B0) --
+	Description of Zaliznyak's grammatical notation as used in Wiktionary.
+
+## Other Downloadable Linguistic Data
+* [Modern Russian Frequency List](http://www.artint.ru/projects/frqlist/frqlist-en.php) --
+	Serge Sharoff's word frequency list based on a selection of works
+	in modern Russian
 * [Opencorpa](http://opencorpora.org) --
 	A Russian corpus with ambiguity resolved so that the identity of each
 	word and its morphological form is known
@@ -54,6 +61,8 @@ description: Word lists, grammatical data, and dictionaries in computer-readable
 	the author has not posted all of the files, so the program does not really
 	work. The output files are posted though and these may be useful.
 * [Russress](https://pypi.org/project/russtress/) --
+	Uses a statistical model to guess the stress of Russian words in context
+* [StressRNN](https://github.com/Desklop/StressRNN) --
 	Uses a statistical model to guess the stress of Russian words in context
 
 ## Natural Language Processing in Russian

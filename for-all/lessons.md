@@ -16,7 +16,5 @@
 	--Introduces a story and then reads it slowly and explains it as she goes.
 * [Public Domain Courses and Other Resources](https://www.yojik.eu/)
 	--Excellent site collects public domain language courses
-* [JW Russian](http://jwrussian.com/)
-	--Russian course for Jehovah's Witnesses
 * [Coyote Russian](http://cytrussian.tuxfamily.org/)
 	--Princeton Russian courses, released to the public around 2003

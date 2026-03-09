@@ -46,7 +46,7 @@ below.</p>
 
 <section>
 <h3>The Soviet Studios</h3>
-<figure class="right_edge">
+<figure class="float-right">
   <img src="images/220px-Mosfilm_logo_old.jpg" alt="Statue of young man and woman holding the hammer and sickle aloft. Word Mosfilm is at their feet. Kremlin clock tower is behind them to one side.">
   <figcaption>Mosfilm logo used during the Soviet period</figcaption>
 </figure>
@@ -83,11 +83,11 @@ studios. The largest were:</p>
 
 <section>
 <h3>Famous Soviet Actors</h3>
-<figure class="right_edge">
+<figure class="float-right">
 	<img src="images/Russia-2001-stamp-Lyubov_Orlova.jpg" alt="Stamp with face of attractive smiling woman on a background of actors including herself and strips of film">
 	<figcaption>Lyubov Orlova</figcaption>
 </figure>
-<figure class="right_edge">
+<figure class="float-right">
 	<img src="images/Russia-2001-stamp-Andrei_Mironov.jpg" alt="An attrictive young man's face with a scene from 12 Chairs and strips of film in the background">
 	<figcaption>Andrei Mironov</figcaption>
 </figure>

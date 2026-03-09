@@ -79,7 +79,7 @@ limitations to become classics.</p>
 	hilarity follow.
 	</li>
 <li>
-	<figure class="right_edge">
+	<figure class="float-right">
 	  <img src="images/Circus_poster.jpg" alt="Movie poster shows circus performers. At center a young woman dances in a long evening dress.">
 	  <figcaption>Цирк (1934)</figcaption>
 	</figure>
